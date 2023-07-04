@@ -1,9 +1,7 @@
 import * as React from "react";
 import styled from 'styled-components';
 import SideBar from "./components/Sidebar";
-import ShowingDetails from "./components/ShowingDetails";
-
-import Fish from "./data/Fish.json";
+import ShowingFish from "./components/ShowingFish";
 
 const Main = styled.div`
   color: #232129;
@@ -16,10 +14,6 @@ const Info = styled.div`
   margin-left: 20%;
   width: 70%;
   padding: 0 10px;
-`;
-const ShowingDetail = styled.div`
-  border: 1px solid black;
-  border-radius: 5px;
 `;
 
 const IndexPage = () => {
@@ -34,14 +28,7 @@ const IndexPage = () => {
       <SideBar />
 
       <Info>
-        {/* <ShowingDetails Foods={Fish} /> */}
-        {Fish.map(food => {
-          return (
-            <ShowingDetail>
-              {food.method}
-            </ShowingDetail>
-          );
-        })}
+        <ShowingFish />
       </Info>
     </Main>
   )
