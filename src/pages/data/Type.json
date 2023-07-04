@@ -1,0 +1,58 @@
+[
+  {
+    "chinese": "鱼类",
+    "english": "Fish"
+  },
+  {
+    "chinese": "虾类",
+    "english": "Prawn"
+  },
+  {
+    "chinese": "虾姑肉",
+    "english": "Mantis Prawn"
+  },
+  {
+    "chinese": "苏东",
+    "english": "Sotong"
+  },
+  {
+    "chinese": "田鸡",
+    "english": "Frog"
+  },
+  {
+    "chinese": "猪肉类",
+    "english": "Pork"
+  },
+  {
+    "chinese": "鸡肉类",
+    "english": "Chicken"
+  },
+  {
+    "chinese": "蛋",
+    "english": "Egg"
+  },
+  {
+    "chinese": "豆腐",
+    "english": "Tofu"
+  },
+  {
+    "chinese": "菜类",
+    "english": "Vegetable"
+  },
+  {
+    "chinese": "其他",
+    "english": "Others"
+  },
+  {
+    "chinese": "汤类",
+    "english": "Soup"
+  },
+  {
+    "chinese": "炒饭 / 粥 / 面",
+    "english": "Fried Rice / Porridge / Noodle"
+  },
+  {
+    "chinese": "白饭",
+    "english": "Rice"
+  }
+]
