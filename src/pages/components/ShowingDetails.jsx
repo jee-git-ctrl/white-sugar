@@ -21,13 +21,13 @@ const ShowingDetails = (Foods) => {
       <Title>
         Fish
       </Title>
-      {method.map(value => {
+      {/* {method.map(value => {
         return (
           <ShowingDetail>
             {value}
           </ShowingDetail>
         );
-      })}
+      })} */}
     </Box>
   )
 }
