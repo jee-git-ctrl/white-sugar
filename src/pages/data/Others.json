@@ -1,36 +1,41 @@
 [
   {
-    "method": "炸苏东",
+    "method": "佛砵（罗汉斋）",
     "price": 0,
     "available": true
   },
   {
-    "method": "咖喱粉苏东",
+    "method": "佛砵（咕咾肉）",
     "price": 0,
     "available": true
   },
   {
-    "method": "宫保苏东",
+    "method": "佛砵（排骨王）",
     "price": 0,
     "available": true
   },
   {
-    "method": "叁峇苏东",
+    "method": "佛砵（虾姑肉）",
     "price": 0,
     "available": true
   },
   {
-    "method": "叁峇苏东虾",
+    "method": "沙煲鱼漂",
     "price": 0,
     "available": true
   },
   {
-    "method": "咖喱苏东",
+    "method": "鱼翅",
     "price": 0,
     "available": true
   },
   {
-    "method": "冬炎苏东",
+    "method": "黄金莲藕",
+    "price": 0,
+    "available": true
+  },
+  {
+    "method": "肉松莲藕",
     "price": 0,
     "available": true
   }

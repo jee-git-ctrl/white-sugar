@@ -1,36 +1,31 @@
 [
   {
-    "method": "炸苏东",
+    "method": "虾仁煎蛋",
     "price": 0,
     "available": true
   },
   {
-    "method": "咖喱粉苏东",
+    "method": "腊肠煎蛋",
     "price": 0,
     "available": true
   },
   {
-    "method": "宫保苏东",
+    "method": "大葱煎蛋",
     "price": 0,
     "available": true
   },
   {
-    "method": "叁峇苏东",
+    "method": "芙蓉蛋",
     "price": 0,
     "available": true
   },
   {
-    "method": "叁峇苏东虾",
+    "method": "苦瓜煎蛋",
     "price": 0,
     "available": true
   },
   {
-    "method": "咖喱苏东",
-    "price": 0,
-    "available": true
-  },
-  {
-    "method": "冬炎苏东",
+    "method": "荷包蛋",
     "price": 0,
     "available": true
   }

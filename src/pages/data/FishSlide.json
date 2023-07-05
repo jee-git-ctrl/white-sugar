@@ -1,71 +1,71 @@
 [
   {
-    "method": "黄金虾",
+    "method": "咖喱",
     "price": 0,
     "available": true
   },
   {
-    "method": "金香虾",
+    "method": "三味",
     "price": 0,
     "available": true
   },
   {
-    "method": "宫保虾",
+    "method": "酸甜",
     "price": 0,
     "available": true
   },
   {
-    "method": "蒜头虾",
+    "method": "豆酱",
     "price": 0,
     "available": true
   },
   {
-    "method": "蚝油虾",
+    "method": "姜葱",
     "price": 0,
     "available": true
   },
   {
-    "method": "亚参虾",
+    "method": "金香",
     "price": 0,
     "available": true
   },
   {
-    "method": "印尼虾",
+    "method": "宫保",
     "price": 0,
     "available": true
   },
   {
-    "method": "沙律虾",
+    "method": "香辣",
     "price": 0,
     "available": true
   },
   {
-    "method": "咖喱虾",
+    "method": "咖喱粉",
     "price": 0,
     "available": true
   },
   {
-    "method": "冬炎虾",
+    "method": "参峇",
     "price": 0,
     "available": true
   },
   {
-    "method": "酸甜虾",
+    "method": "沙煲红烧",
     "price": 0,
     "available": true
   },
   {
-    "method": "咖喱粉虾",
+    "method": "红烧",
     "price": 0,
     "available": true
   },
   {
-    "method": "叁峇虾",
+    "method": "炒辣",
     "price": 0,
     "available": true
   },
   {
-    "method": "虾球",
+    "method": "冬炎",
     "price": 0,
     "available": true
   }

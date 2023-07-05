@@ -1,0 +1,37 @@
+[
+  {
+    "method": "枸杞汤（炖）",
+    "price": 5,
+    "available": true
+  },
+  {
+    "method": "咸菜苦瓜汤（炖）",
+    "price": 5,
+    "available": true
+  },
+  {
+    "method": "咸菜豆腐汤",
+    "price": 5,
+    "available": true
+  },
+  {
+    "method": "杂菜汤",
+    "price": 5,
+    "available": true
+  },
+  {
+    "method": "菜心汤",
+    "price": 5,
+    "available": true
+  },
+  {
+    "method": "鱼丸汤",
+    "price": 5,
+    "available": true
+  },
+  {
+    "method": "紫菜汤",
+    "price": 5,
+    "available": true
+  }
+]

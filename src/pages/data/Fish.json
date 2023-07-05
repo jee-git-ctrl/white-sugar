@@ -1,262 +1,316 @@
 [
   {
-    "method": "清蒸",
-    "name" : [
+    "method": "亚参蒸",
+    "fishName": [
       {
-        "name": "红西 Red Fish",
+        "name": "红狮 Red Fish",
+        "price": "时价",
         "available": true
-      },
-      {
-        "name": "黑昌 Black Promfret",
-        "available": false
-      },
-      {
-        "name": "白昌 White Promfret",
-        "available": false
       },
       {
         "name": "石甲 Siakap",
+        "price": "时价",
         "available": true
       },
       {
+        "name": "白昌 White Promfret",
+        "price": "时价",
+        "available": false
+      },
+      {
+        "name": "黑昌 Black Promfret",
+        "price": "时价",
+        "available": false
+      },
+      {
         "name": "石斑 Grouper Fish",
+        "price": "时价",
         "available": false
       },
       {
         "name": "斗底 Doo Promfret",
+        "price": "时价",
+        "available": false
+      }
+    ]
+  },
+  {
+    "method": "清蒸",
+    "fishName": [
+      {
+        "name": "红狮 Red Fish",
+        "price": "时价",
         "available": true
+      },
+      {
+        "name": "石甲 Siakap",
+        "price": "时价",
+        "available": true
+      },
+      {
+        "name": "白昌 White Promfret",
+        "price": "时价",
+        "available": false
+      },
+      {
+        "name": "黑昌 Black Promfret",
+        "price": "时价",
+        "available": false
+      },
+      {
+        "name": "石斑 Grouper Fish",
+        "price": "时价",
+        "available": false
+      },
+      {
+        "name": "斗底 Doo Promfret",
+        "price": "时价",
+        "available": false
       }
     ]
   },
   {
     "method": "潮州蒸",
-    "name" : [
+    "fishName": [
       {
-        "name": "红西 Red Fish",
+        "name": "红狮 Red Fish",
+        "price": "时价",
         "available": true
-      },
-      {
-        "name": "黑昌 Black Promfret",
-        "available": false
-      },
-      {
-        "name": "白昌 White Promfret",
-        "available": false
       },
       {
         "name": "石甲 Siakap",
+        "price": "时价",
         "available": true
       },
       {
+        "name": "白昌 White Promfret",
+        "price": "时价",
+        "available": false
+      },
+      {
+        "name": "黑昌 Black Promfret",
+        "price": "时价",
+        "available": false
+      },
+      {
         "name": "石斑 Grouper Fish",
+        "price": "时价",
         "available": false
       },
       {
         "name": "斗底 Doo Promfret",
-        "available": true
+        "price": "时价",
+        "available": false
       }
     ]
   },
   {
-    "method": "Asam蒸",
-    "name" : [
+    "method": "豆酱蒸",
+    "fishName": [
       {
-        "name": "红西 Red Fish",
+        "name": "红狮 Red Fish",
+        "price": "时价",
         "available": true
-      },
-      {
-        "name": "黑昌 Black Promfret",
-        "available": false
-      },
-      {
-        "name": "白昌 White Promfret",
-        "available": false
       },
       {
         "name": "石甲 Siakap",
+        "price": "时价",
         "available": true
       },
       {
+        "name": "白昌 White Promfret",
+        "price": "时价",
+        "available": false
+      },
+      {
+        "name": "黑昌 Black Promfret",
+        "price": "时价",
+        "available": false
+      },
+      {
         "name": "石斑 Grouper Fish",
+        "price": "时价",
         "available": false
       },
       {
         "name": "斗底 Doo Promfret",
-        "available": true
+        "price": "时价",
+        "available": false
       }
     ]
   },
   {
-    "method": "Tomyam蒸",
-    "name" : [
+    "method": "冬炎蒸",
+    "fishName": [
       {
-        "name": "红西 Red Fish",
+        "name": "红狮 Red Fish",
+        "price": "时价",
         "available": true
-      },
-      {
-        "name": "黑昌 Black Promfret",
-        "available": false
-      },
-      {
-        "name": "白昌 White Promfret",
-        "available": false
       },
       {
         "name": "石甲 Siakap",
+        "price": "时价",
         "available": true
       },
       {
+        "name": "白昌 White Promfret",
+        "price": "时价",
+        "available": false
+      },
+      {
+        "name": "黑昌 Black Promfret",
+        "price": "时价",
+        "available": false
+      },
+      {
         "name": "石斑 Grouper Fish",
+        "price": "时价",
         "available": false
       },
       {
         "name": "斗底 Doo Promfret",
-        "available": true
+        "price": "时价",
+        "available": false
       }
     ]
   },
   {
-    "method": "煎姜丝酱油",
-    "name" : [
+    "method": "干煎",
+    "fishName": [
       {
-        "name": "红西 Red Fish",
+        "name": "红狮 Red Fish",
+        "price": "时价",
         "available": true
-      },
-      {
-        "name": "黑昌 Black Promfret",
-        "available": false
-      },
-      {
-        "name": "白昌 White Promfret",
-        "available": false
       },
       {
         "name": "石甲 Siakap",
+        "price": "时价",
         "available": true
       },
       {
+        "name": "白昌 White Promfret",
+        "price": "时价",
+        "available": false
+      },
+      {
+        "name": "黑昌 Black Promfret",
+        "price": "时价",
+        "available": false
+      },
+      {
         "name": "石斑 Grouper Fish",
+        "price": "时价",
         "available": false
       },
       {
         "name": "斗底 Doo Promfret",
-        "available": true
+        "price": "时价",
+        "available": false
       }
     ]
   },
   {
-    "method": "煎三味",
-    "name" : [
+    "method": "三味",
+    "fishName": [
       {
-        "name": "红西 Red Fish",
+        "name": "红狮 Red Fish",
+        "price": "时价",
         "available": true
-      },
-      {
-        "name": "黑昌 Black Promfret",
-        "available": false
-      },
-      {
-        "name": "白昌 White Promfret",
-        "available": false
       },
       {
         "name": "石甲 Siakap",
+        "price": "时价",
         "available": true
       },
       {
+        "name": "白昌 White Promfret",
+        "price": "时价",
+        "available": false
+      },
+      {
+        "name": "黑昌 Black Promfret",
+        "price": "时价",
+        "available": false
+      },
+      {
         "name": "石斑 Grouper Fish",
+        "price": "时价",
         "available": false
       },
       {
         "name": "斗底 Doo Promfret",
-        "available": true
+        "price": "时价",
+        "available": false
       }
     ]
   },
   {
-    "method": "酸甜淋酸",
-    "name" : [
+    "method": "酸甜",
+    "fishName": [
       {
-        "name": "红西 Red Fish",
+        "name": "红狮 Red Fish",
+        "price": "时价",
         "available": true
-      },
-      {
-        "name": "黑昌 Black Promfret",
-        "available": false
-      },
-      {
-        "name": "白昌 White Promfret",
-        "available": false
       },
       {
         "name": "石甲 Siakap",
+        "price": "时价",
         "available": true
       },
       {
+        "name": "白昌 White Promfret",
+        "price": "时价",
+        "available": false
+      },
+      {
+        "name": "黑昌 Black Promfret",
+        "price": "时价",
+        "available": false
+      },
+      {
         "name": "石斑 Grouper Fish",
+        "price": "时价",
         "available": false
       },
       {
         "name": "斗底 Doo Promfret",
-        "available": true
+        "price": "时价",
+        "available": false
       }
     ]
   },
   {
-    "method": "煎干",
-    "name" : [
+    "method": "炒豆酱",
+    "fishName": [
       {
-        "name": "红西 Red Fish",
+        "name": "红狮 Red Fish",
+        "price": "时价",
         "available": true
-      },
-      {
-        "name": "黑昌 Black Promfret",
-        "available": false
-      },
-      {
-        "name": "白昌 White Promfret",
-        "available": false
       },
       {
         "name": "石甲 Siakap",
+        "price": "时价",
         "available": true
       },
       {
+        "name": "白昌 White Promfret",
+        "price": "时价",
+        "available": false
+      },
+      {
+        "name": "黑昌 Black Promfret",
+        "price": "时价",
+        "available": false
+      },
+      {
         "name": "石斑 Grouper Fish",
+        "price": "时价",
         "available": false
       },
       {
         "name": "斗底 Doo Promfret",
-        "available": true
-      }
-    ]
-  },
-  {
-    "method": "沙煲",
-    "name" : [
-      {
-        "name": "红西 Red Fish",
-        "available": true
-      },
-      {
-        "name": "黑昌 Black Promfret",
+        "price": "时价",
         "available": false
-      },
-      {
-        "name": "白昌 White Promfret",
-        "available": false
-      },
-      {
-        "name": "石甲 Siakap",
-        "available": true
-      },
-      {
-        "name": "石斑 Grouper Fish",
-        "available": false
-      },
-      {
-        "name": "斗底 Doo Promfret",
-        "available": true
       }
     ]
   }

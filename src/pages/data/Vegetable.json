@@ -1,0 +1,102 @@
+[
+  {
+    "name": "番薯叶",
+    "price": 0,
+    "method": [
+      {
+        "method": "清炒"
+      },
+      {
+        "method": "叁峇"
+      }
+    ]
+  },
+  {
+    "name": "芥兰",
+    "price": 0,
+    "method": [
+      {
+        "method": "清炒"
+      },
+      {
+        "method": "咸鱼"
+      },
+      {
+        "method": "炒杂"
+      }
+    ]
+  },
+  {
+    "name": "小白菜",
+    "price": 0,
+    "method": [
+      {
+        "method": "清炒"
+      },
+      {
+        "method": "咸鱼"
+      },
+      {
+        "method": "炒杂"
+      }
+    ]
+  },
+  {
+    "name": "菜心",
+    "price": 0,
+    "method": [
+      {
+        "method": "清炒"
+      },
+      {
+        "method": "咸鱼"
+      },
+      {
+        "method": "炒杂"
+      }
+    ]
+  },
+  {
+    "name": "豆芽",
+    "price": 0,
+    "method": [
+      {
+        "method": "清炒"
+      },
+      {
+        "method": "咸鱼"
+      }
+    ]
+  },
+  {
+    "name": "苦瓜",
+    "price": 0,
+    "method": [
+      {
+        "method": "炒豆酱"
+      },
+      {
+        "method": "炒蛋"
+      },
+      {
+        "method": "炒杂"
+      }
+    ]
+  },
+  {
+    "name": "罗汉斋",
+    "price": 0
+  },
+  {
+    "name": "茄子",
+    "price": 0
+  },
+  {
+    "name": "乌龟豆（四季豆）",
+    "price": 0
+  },
+  {
+    "name": "青龙菜",
+    "price": 0
+  }
+]

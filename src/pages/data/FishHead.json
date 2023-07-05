@@ -1,0 +1,52 @@
+[
+  {
+    "method": "亚参蒸",
+    "price": 0,
+    "available": true
+  },
+  {
+    "method": "清蒸",
+    "price": 0,
+    "available": true
+  },
+  {
+    "method": "潮州蒸",
+    "price": 0,
+    "available": true
+  },
+  {
+    "method": "豆酱蒸",
+    "price": 0,
+    "available": true
+  },
+  {
+    "method": "冬炎蒸",
+    "price": 0,
+    "available": true
+  },
+  {
+    "method": "咖喱",
+    "price": 0,
+    "available": true
+  },
+  {
+    "method": "沙煲红烧",
+    "price": 0,
+    "available": true
+  },
+  {
+    "method": "红烧",
+    "price": 0,
+    "available": true
+  },
+  {
+    "method": "豆酱",
+    "price": 0,
+    "available": true
+  },
+  {
+    "method": "炒辣",
+    "price": 0,
+    "available": true
+  }
+]

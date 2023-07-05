@@ -1,71 +1,61 @@
 [
   {
-    "method": "黄金虾",
+    "method": "炒饭",
     "price": 0,
     "available": true
   },
   {
-    "method": "金香虾",
+    "method": "叁峇炒饭",
     "price": 0,
     "available": true
   },
   {
-    "method": "宫保虾",
+    "method": "咸鱼炒饭",
     "price": 0,
     "available": true
   },
   {
-    "method": "蒜头虾",
+    "method": "鸳鸯",
     "price": 0,
     "available": true
   },
   {
-    "method": "蚝油虾",
+    "method": "鸳鸯干",
     "price": 0,
     "available": true
   },
   {
-    "method": "亚参虾",
+    "method": "生面",
     "price": 0,
     "available": true
   },
   {
-    "method": "印尼虾",
+    "method": "沙煲面",
     "price": 0,
     "available": true
   },
   {
-    "method": "沙律虾",
+    "method": "米粉干",
     "price": 0,
     "available": true
   },
   {
-    "method": "咖喱虾",
+    "method": "米粉湿",
     "price": 0,
     "available": true
   },
   {
-    "method": "冬炎虾",
+    "method": "咸鱼米粉",
     "price": 0,
     "available": true
   },
   {
-    "method": "酸甜虾",
+    "method": "叁峇米粉",
     "price": 0,
     "available": true
   },
   {
-    "method": "咖喱粉虾",
-    "price": 0,
-    "available": true
-  },
-  {
-    "method": "叁峇虾",
-    "price": 0,
-    "available": true
-  },
-  {
-    "method": "虾球",
+    "method": "星洲米粉",
     "price": 0,
     "available": true
   }
