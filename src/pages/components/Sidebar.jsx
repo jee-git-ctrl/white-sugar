@@ -8,12 +8,7 @@ const ShowingType = styled.div`
   padding: 2px 5px;
 `;
 const Bar = styled.div`
-  position: fixed;
-  width: 20%;
-  height: 80%;
   background-color: #e8e9eb;
-  z-index: 10;
-  overflow-y: scroll;
 `;
 
 const SideBar = () => {
