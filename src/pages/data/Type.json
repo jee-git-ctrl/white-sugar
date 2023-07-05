@@ -4,6 +4,14 @@
     "english": "Fish"
   },
   {
+    "chinese": "鱼片",
+    "english": "Fish Slice"
+  },
+  {
+    "chinese": "鱼头",
+    "english": "Fish Head"
+  },
+  {
     "chinese": "虾类",
     "english": "Prawn"
   },
@@ -16,16 +24,24 @@
     "english": "Sotong"
   },
   {
+    "chinese": "软壳蟹",
+    "english": "Soft Shell Crab"
+  },
+  {
+    "chinese": "鸭类",
+    "english": "Duck"
+  },
+  {
     "chinese": "田鸡",
     "english": "Frog"
   },
   {
-    "chinese": "猪肉类",
-    "english": "Pork"
+    "chinese": "鸡肉",
+    "english": "Chicken"
   },
   {
-    "chinese": "鸡肉类",
-    "english": "Chicken"
+    "chinese": "猪肉",
+    "english": "Pork"
   },
   {
     "chinese": "蛋",
@@ -40,19 +56,23 @@
     "english": "Vegetable"
   },
   {
-    "chinese": "其他",
-    "english": "Others"
-  },
-  {
     "chinese": "汤类",
     "english": "Soup"
   },
   {
-    "chinese": "炒饭 / 粥 / 面",
-    "english": "Fried Rice / Porridge / Noodle"
+    "chinese": "炒饭 / 面",
+    "english": "Fried Rice / Noodle"
   },
   {
     "chinese": "白饭",
     "english": "Rice"
+  },
+  {
+    "chinese": "套餐",
+    "english": "Set"
+  },
+  {
+    "chinese": "其他",
+    "english": "Others"
   }
 ]
