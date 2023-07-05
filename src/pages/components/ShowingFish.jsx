@@ -22,11 +22,13 @@ const ShowAvailable = styled.div`
   width: 100%;
   border: 1px solid black;
   border-radius: 5px;
+  margin: 1px;
 `;
 const ShowUnavailable = styled.div`
   width: 100%;
   border: 1px solid black;
   border-radius: 5px;
+  margin: 1px;
 `;
 
 const ShowingFish = () => {
@@ -37,11 +39,25 @@ const ShowingFish = () => {
     </Title>
     <Box>
       {Fish.map(food => {
-        return (
-          <ShowAvailable>
-            {food.method}
-          </ShowAvailable>
-        );
+        const { method, price, available } = food;
+
+        if(available) {
+          return (
+            <ShowAvailable>
+              {method}
+              <br/>
+              RM 时价
+            </ShowAvailable>
+          );
+        } else {
+          return (
+            <ShowUnavailable>
+              {method}
+              <br/>
+              RM 时价
+            </ShowUnavailable>
+          );
+        }
       })}
     </Box>
     </>

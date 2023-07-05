@@ -21,11 +21,13 @@ const ShowAvailable = styled.div`
   width: 100%;
   border: 1px solid black;
   border-radius: 5px;
+  margin: 1px;
 `;
 const ShowUnavailable = styled.div`
   width: 100%;
   border: 1px solid black;
   border-radius: 5px;
+  margin: 1px;
 `;
 
 const ShowingDetails = ({ Name, Foods }) => {
@@ -43,7 +45,7 @@ const ShowingDetails = ({ Name, Foods }) => {
             <ShowAvailable>
               {method}
               <br/>
-              RM{price}
+              RM {price}
             </ShowAvailable>
           );
         } else {
@@ -51,7 +53,7 @@ const ShowingDetails = ({ Name, Foods }) => {
             <ShowUnavailable>
               {method}
               <br/>
-              RM{price}
+              RM {price}
             </ShowUnavailable>
           );
         }
