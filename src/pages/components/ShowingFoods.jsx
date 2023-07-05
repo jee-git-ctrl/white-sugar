@@ -1,6 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-import Fish from "../data/Fish.json";
 
 const Box = styled.div`
   display: flex;
@@ -29,23 +28,37 @@ const ShowUnavailable = styled.div`
   border-radius: 5px;
 `;
 
-const ShowingFish = () => {
+const ShowingDetails = ({ Name, Foods }) => {
   return (
     <>
     <Title>
-      鱼类 Fish
+      {Name}
     </Title>
     <Box>
-      {Fish.map(food => {
-        return (
-          <ShowAvailable>
-            {food.method}
-          </ShowAvailable>
-        );
+      {Foods.map(food => {
+        const { method, price, available } = food;
+
+        if(available) {
+          return (
+            <ShowAvailable>
+              {method}
+              <br/>
+              RM{price}
+            </ShowAvailable>
+          );
+        } else {
+          return (
+            <ShowUnavailable>
+              {method}
+              <br/>
+              RM{price}
+            </ShowUnavailable>
+          );
+        }
       })}
     </Box>
     </>
   )
 }
 
-export default ShowingFish;
+export default ShowingDetails;
