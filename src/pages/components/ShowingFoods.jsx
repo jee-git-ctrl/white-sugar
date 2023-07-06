@@ -33,7 +33,8 @@ const ShowUnavailable = styled.div`
   opacity: 0.4;
 `;
 
-const ShowingDetails = ({ Name, Foods }) => {
+const ShowingFoods = ({ Name, Foods }) => {
+  console.log(Foods);
   return (
     <>
     <Title>
@@ -41,8 +42,6 @@ const ShowingDetails = ({ Name, Foods }) => {
     </Title>
     <Box>
       {Foods.map(food => {
-
-        console.log(food);
         const { method, price, available } = food;
 
         if(available) {
@@ -68,4 +67,4 @@ const ShowingDetails = ({ Name, Foods }) => {
   )
 }
 
-export default ShowingDetails;
+export default ShowingFoods;
