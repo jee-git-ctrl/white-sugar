@@ -15,19 +15,22 @@ const Box = styled.div`
 const Title = styled.div`
   font-size: 1.5em;
   background-color: #e8e9eb;
+  margin: 0 0.5%;
   padding: 2px;
 `;
 const ShowAvailable = styled.div`
-  width: 100%;
+  width: 98%;
   border: 1px solid black;
   border-radius: 5px;
-  margin: 1px;
+  margin: 2px 1%;
+  cursor: pointer;
 `;
 const ShowUnavailable = styled.div`
-  width: 100%;
+  width: 98%;
   border: 1px solid black;
   border-radius: 5px;
-  margin: 1px;
+  margin: 2px 1%;
+  opacity: 0.4;
 `;
 
 const ShowingDetails = ({ Name, Foods }) => {
@@ -45,7 +48,7 @@ const ShowingDetails = ({ Name, Foods }) => {
             <ShowAvailable>
               {method}
               <br/>
-              RM {price}
+              RM {price}++
             </ShowAvailable>
           );
         } else {
@@ -53,7 +56,7 @@ const ShowingDetails = ({ Name, Foods }) => {
             <ShowUnavailable>
               {method}
               <br/>
-              RM {price}
+              RM {price}++
             </ShowUnavailable>
           );
         }
