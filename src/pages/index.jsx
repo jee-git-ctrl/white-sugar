@@ -10,19 +10,34 @@ const Main = styled.div`
   grid-template-areas: 
   "head head head"
   "side info info"
-  "side info info";
+  "side info info"
+  "foot foot foot";
   grid-template-columns: 1fr 1.5fr 1.5fr;
+  overflow: hidden;
 `;
 const Heading = styled.h1`
   grid-area: head;
+  height: 10vh;
+  margin: 0;
 `;
 const Side = styled.div`
   grid-area: side;
+  height: 90vh;
+  overflow-x: auto;
 `;
 const Info = styled.div`
   grid-area: info;
   margin: 0 2px;
+  height: 90vh;
+  overflow-x: auto;
 `;
+const Footer = styled.div`
+  grid-area: foot;
+  height: 3vh;
+  width: 100%;
+  background-color: #999;
+`;
+
 
 const IndexPage = () => {
   const fishSlice = require("./data/FishSlide.json");
@@ -78,6 +93,8 @@ const IndexPage = () => {
         <ShowingFoods Name={"其他 Others"} Foods={others} />
 
       </Info>
+
+      <Footer />
     </Main>
   )
 }
