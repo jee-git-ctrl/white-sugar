@@ -2,6 +2,7 @@ import * as React from "react";
 import styled from 'styled-components';
 import SideBar from "./components/Sidebar";
 import ShowingFish from "./components/ShowingFish";
+import ShowingVegetable from "./components/ShowingVegetable";
 import ShowingFoods from "./components/ShowingFoods";
 
 const Main = styled.div`
@@ -69,7 +70,7 @@ const IndexPage = () => {
         <ShowingFoods Name={"猪肉 Pork"} Foods={pork} />
         <ShowingFoods Name={"蛋 Egg"} Foods={egg} />
         <ShowingFoods Name={"豆腐 Tofu"} Foods={tofu} />
-        {/* <ShowingFoods Name={"菜类 Vegetable"} Foods={vegetable} /> */}
+        <ShowingVegetable />
         <ShowingFoods Name={"汤类 Soup"} Foods={soup} />
         <ShowingFoods Name={"炒饭 / 面 Fried Rice / Noodle"} Foods={friedRice_Noodle} />
         <ShowingFoods Name={"白饭 Rice"} Foods={rice} />
