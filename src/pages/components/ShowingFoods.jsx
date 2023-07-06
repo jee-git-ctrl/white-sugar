@@ -41,7 +41,7 @@ const ShowingFoods = ({ Name, Foods }) => {
       {Name}
     </Title>
     <Box>
-      {Foods.map(food => {
+      {Foods && Foods.map(food => {
         const { method, price, available } = food;
 
         if(available) {
