@@ -41,6 +41,8 @@ const ShowingDetails = ({ Name, Foods }) => {
     </Title>
     <Box>
       {Foods.map(food => {
+
+        console.log(food);
         const { method, price, available } = food;
 
         if(available) {
