@@ -34,7 +34,6 @@ const ShowUnavailable = styled.div`
 `;
 
 const ShowingFoods = ({ Name, Foods }) => {
-  console.log(Foods);
   return (
     <>
     <Title>
