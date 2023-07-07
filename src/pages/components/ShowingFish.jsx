@@ -96,7 +96,7 @@ const ShowingFish = () => {
         <ShowingFishDetailBox>
           <Header>
             <MethodTitle>
-              asdf
+            鱼类 Fish
             </MethodTitle>
           </Header>
   
@@ -131,7 +131,7 @@ const ShowingFish = () => {
 
   return (
     <>
-    <Title>
+    <Title id="鱼类 Fish">
       鱼类 Fish
     </Title>
     <Box>

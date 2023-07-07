@@ -36,7 +36,7 @@ const ShowUnavailable = styled.div`
 const ShowingVegetable = () => {
   return (
     <>
-    <Title>
+    <Title id="菜类 Vegetable">
       菜类 Vegetable
     </Title>
     <Box>

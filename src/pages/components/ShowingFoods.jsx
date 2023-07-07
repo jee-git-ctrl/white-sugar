@@ -35,7 +35,7 @@ const ShowUnavailable = styled.div`
 const ShowingFoods = ({ Name, Foods }) => {
   return (
     <>
-    <Title>
+    <Title id={Name}>
       {Name}
     </Title>
     <Box>

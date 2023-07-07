@@ -3,12 +3,17 @@ import styled from 'styled-components';
 import Type from "../data/Type.json";
 
 
-const ShowingType = styled.div`
-  border: 1px solid black;
+const ShowingType = styled.a`
+  border-top: 1px solid #a8a9ab;
+  color: black;
+  text-decoration: none;
   padding: 2px 5px;
 `;
 const Bar = styled.div`
-  background-color: #e8e9eb;
+  display: grid;
+  :hover {  
+    background-color: #e8e9eb;
+  }
 `;
 
 const SideBar = () => {
@@ -16,10 +21,8 @@ const SideBar = () => {
     <Bar>
       {Type.map((value => {
         return (
-          <ShowingType>
-            {value.chinese}
-            <br />
-            {value.english}
+          <ShowingType href={`#${value.name}`}>
+            {value.name}
           </ShowingType>
         );
       }))}
