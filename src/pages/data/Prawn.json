@@ -10,11 +10,6 @@
     "available": true
   },
   {
-    "method": "宫保虾",
-    "price": 0,
-    "available": true
-  },
-  {
     "method": "蒜头虾",
     "price": 0,
     "available": true
@@ -51,11 +46,6 @@
   },
   {
     "method": "酸甜虾",
-    "price": 0,
-    "available": true
-  },
-  {
-    "method": "咖喱粉虾",
     "price": 0,
     "available": true
   },
