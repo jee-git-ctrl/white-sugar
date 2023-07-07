@@ -81,9 +81,11 @@ const ShowingFishUnavailable = styled.div`
 const ShowingFish = () => {
   const [isFishDetailVisible, setIsFishDetailVisible] = useState(false);
   const [selectedMethod, setSelectedMethod] = useState([]);
+  const [selectedIndex, setSelectedIndex] = useState(-1);
 
-  const handleMethodSelected = (fishNames) => {
+  const handleMethodSelected = (fishNames, index) => {
     setSelectedMethod(() => fishNames);
+    setSelectedIndex(() => index);
     setIsFishDetailVisible(() => true);
   } 
 
@@ -91,13 +93,15 @@ const ShowingFish = () => {
     setIsFishDetailVisible(() => false);
   }
 
-  const ShowFishDetail = ({ fishNames }) => {
+  const ShowFishDetail = ({ fishNames, index }) => {
+    const selectedMethod = Fish[index].method;
+
     return (
       <ShowingFishDetailOutline>
         <ShowingFishDetailBox>
           <Header>
             <MethodTitle>
-            鱼类 Fish
+              {selectedMethod}
             </MethodTitle>
           </Header>
   
@@ -136,11 +140,11 @@ const ShowingFish = () => {
       鱼类 Fish
     </Title>
     <Box>
-      {Fish.map(food => {
+      {Fish.map((food, index) => {
         const { method, fishNames } = food;
 
         return (
-          <ShowAvailable onClick={() => handleMethodSelected(fishNames)}>
+          <ShowAvailable onClick={() => handleMethodSelected(fishNames, index)}>
             {method}
             <br/>
             时价
@@ -150,7 +154,7 @@ const ShowingFish = () => {
     </Box>
     
     {isFishDetailVisible && 
-      <ShowFishDetail fishNames={selectedMethod} />
+      <ShowFishDetail fishNames={selectedMethod} index={selectedIndex} />
     }
     </>
   )
