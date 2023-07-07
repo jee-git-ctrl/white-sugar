@@ -26,13 +26,13 @@ const ShowAvailable = styled.div`
   margin: 2px 0;
   cursor: pointer;
 `;
-const ShowUnavailable = styled.div`
-  width: 98%;
-  border: 1px solid black;
-  border-radius: 5px;
-  margin: 2px 0;
-  opacity: 0.4;
-`;
+// const ShowUnavailable = styled.div`
+//   width: 98%;
+//   border: 1px solid black;
+//   border-radius: 5px;
+//   margin: 2px 0;
+//   opacity: 0.4;
+// `;
 const ShowingFishDetailOutline = styled.div`
   display: block;
   position: absolute;
@@ -142,7 +142,7 @@ const ShowingFish = () => {
           <ShowAvailable onClick={() => handleMethodSelected(fishNames)}>
             {method}
             <br/>
-            RM 时价
+            时价
           </ShowAvailable>
         );
       })}

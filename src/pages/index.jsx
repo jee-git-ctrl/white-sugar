@@ -17,25 +17,37 @@ const Main = styled.div`
 `;
 const Heading = styled.h1`
   grid-area: head;
-  height: 10vh;
+  height: fit-content;
+  min-height: 10vh;
   margin: 0;
+
 `;
 const Side = styled.div`
   grid-area: side;
-  height: 90vh;
+  height: 86vh;
   overflow-x: auto;
+
+  @media only screen and (min-width: 768px) {
+  }
 `;
 const Info = styled.div`
   grid-area: info;
-  margin: 0 2px;
-  height: 90vh;
+  height: 86vh;
+  margin-left: 1%;
   overflow-x: auto;
+
+  @media only screen and (min-width: 768px) {
+  }
 `;
 const Footer = styled.div`
   grid-area: foot;
-  height: 3vh;
+  height: 25px;
   width: 100%;
   background-color: #999;
+
+  @media only screen and (min-width: 768px) {
+    height: 3vh;
+  }
 `;
 
 
