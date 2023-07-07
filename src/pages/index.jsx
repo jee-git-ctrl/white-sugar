@@ -28,6 +28,7 @@ const Side = styled.div`
   overflow-x: auto;
 
   @media only screen and (min-width: 768px) {
+    height: 89vh;
   }
 `;
 const Info = styled.div`
@@ -37,13 +38,18 @@ const Info = styled.div`
   overflow-x: auto;
 
   @media only screen and (min-width: 768px) {
+    height: 89vh;
   }
 `;
 const Footer = styled.div`
   grid-area: foot;
   height: 25px;
   width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background-color: #999;
+  color: white;
 
   @media only screen and (min-width: 768px) {
     height: 3vh;
@@ -106,7 +112,9 @@ const IndexPage = () => {
 
       </Info>
 
-      <Footer />
+      <Footer>
+        © 2023 WHITE SUGAR RESTAURANT
+      </Footer>
     </Main>
   )
 }
