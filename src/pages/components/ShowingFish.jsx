@@ -4,6 +4,7 @@ import { AiOutlineClose } from "react-icons/ai";
 import Fish from "../data/Fish.json";
 
 const Box = styled.div`
+  font-size: 1.5em;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -15,7 +16,7 @@ const Box = styled.div`
   }
 `;
 const Title = styled.div`
-  font-size: 1.5em;
+  font-size: 1.8em;
   background-color: #e8e9eb;
   padding: 2px;
 `;

@@ -5,6 +5,7 @@ import Type from "../data/Type.json";
 
 const ShowingType = styled.a`
   border-top: 1px solid #a8a9ab;
+  font-size: 1.5em;
   color: black;
   text-decoration: none;
   padding: 2px 5px;
