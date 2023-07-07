@@ -16,21 +16,20 @@ const Box = styled.div`
 const Title = styled.div`
   font-size: 1.5em;
   background-color: #e8e9eb;
-  margin: 0 0.5%;
   padding: 2px;
 `;
 const ShowAvailable = styled.div`
   width: 98%;
   border: 1px solid black;
   border-radius: 5px;
-  margin: 2px 1%;
+  margin: 2px 0;
   cursor: pointer;
 `;
 const ShowUnavailable = styled.div`
   width: 98%;
   border: 1px solid black;
   border-radius: 5px;
-  margin: 2px 1%;
+  margin: 2px 0;
   opacity: 0.4;
 `;
 
