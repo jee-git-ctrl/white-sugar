@@ -41,12 +41,12 @@ const ShowingFoods = ({ Name, Foods }) => {
     </Title>
     <Box>
       {Foods && Foods.map(food => {
-        const { method, price, available } = food;
+        const { selectInfo, price, available } = food;
 
         if(available) {
           return (
             <ShowAvailable>
-              {method}
+              {selectInfo}
               <br/>
               RM {price}++
             </ShowAvailable>
@@ -54,7 +54,7 @@ const ShowingFoods = ({ Name, Foods }) => {
         } else {
           return (
             <ShowUnavailable>
-              {method}
+              {selectInfo}
               <br/>
               RM {price}++
             </ShowUnavailable>

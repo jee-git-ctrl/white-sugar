@@ -1,31 +1,31 @@
 [
   {
-    "method": "虾仁煎蛋",
+    "selectInfo": "虾仁煎蛋",
     "price": 0,
     "available": true
   },
   {
-    "method": "腊肠煎蛋",
+    "selectInfo": "腊肠煎蛋",
     "price": 0,
     "available": true
   },
   {
-    "method": "大葱煎蛋",
+    "selectInfo": "大葱煎蛋",
     "price": 0,
     "available": true
   },
   {
-    "method": "芙蓉蛋",
+    "selectInfo": "芙蓉蛋",
     "price": 0,
     "available": true
   },
   {
-    "method": "苦瓜煎蛋",
+    "selectInfo": "苦瓜煎蛋",
     "price": 0,
     "available": true
   },
   {
-    "method": "荷包蛋",
+    "selectInfo": "荷包蛋",
     "price": 0,
     "available": true
   }

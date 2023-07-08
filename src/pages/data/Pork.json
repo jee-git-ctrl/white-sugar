@@ -1,46 +1,46 @@
 [
   {
-    "method": "排骨王",
+    "selectInfo": "排骨王",
     "price": 0,
     "available": true
   },
   {
-    "method": "咕咾肉",
+    "selectInfo": "咕咾肉",
     "price": 0,
     "available": true
   },
   {
-    "method": "姜丝肉",
+    "selectInfo": "姜丝肉",
     "price": 0,
     "available": true
   },
   {
-    "method": "暹猪脚",
+    "selectInfo": "暹猪脚",
     "price": 0,
     "available": true
   },
   {
-    "method": "红烧猪脚",
+    "selectInfo": "红烧猪脚",
     "price": 0,
     "available": true
   },
   {
-    "method": "花腩煲",
+    "selectInfo": "花腩煲",
     "price": 0,
     "available": true
   },
   {
-    "method": "梅菜扣肉",
+    "selectInfo": "梅菜扣肉",
     "price": 0,
     "available": true
   },
   {
-    "method": "芋头扣肉",
+    "selectInfo": "芋头扣肉",
     "price": 0,
     "available": true
   },
   {
-    "method": "咖喱排骨",
+    "selectInfo": "咖喱排骨",
     "price": 0,
     "available": true
   }

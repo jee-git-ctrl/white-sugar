@@ -4,10 +4,10 @@
     "price": 0,
     "method": [
       {
-        "method": "清炒"
+        "selectInfo": "清炒"
       },
       {
-        "method": "叁峇"
+        "selectInfo": "叁峇"
       }
     ]
   },
@@ -16,13 +16,13 @@
     "price": 0,
     "method": [
       {
-        "method": "清炒"
+        "selectInfo": "清炒"
       },
       {
-        "method": "咸鱼"
+        "selectInfo": "咸鱼"
       },
       {
-        "method": "炒杂"
+        "selectInfo": "炒杂"
       }
     ]
   },
@@ -31,13 +31,13 @@
     "price": 0,
     "method": [
       {
-        "method": "清炒"
+        "selectInfo": "清炒"
       },
       {
-        "method": "咸鱼"
+        "selectInfo": "咸鱼"
       },
       {
-        "method": "炒杂"
+        "selectInfo": "炒杂"
       }
     ]
   },
@@ -46,13 +46,13 @@
     "price": 0,
     "method": [
       {
-        "method": "清炒"
+        "selectInfo": "清炒"
       },
       {
-        "method": "咸鱼"
+        "selectInfo": "咸鱼"
       },
       {
-        "method": "炒杂"
+        "selectInfo": "炒杂"
       }
     ]
   },
@@ -61,10 +61,10 @@
     "price": 0,
     "method": [
       {
-        "method": "清炒"
+        "selectInfo": "清炒"
       },
       {
-        "method": "咸鱼"
+        "selectInfo": "咸鱼"
       }
     ]
   },
@@ -73,13 +73,13 @@
     "price": 0,
     "method": [
       {
-        "method": "炒豆酱"
+        "selectInfo": "炒豆酱"
       },
       {
-        "method": "炒蛋"
+        "selectInfo": "炒蛋"
       },
       {
-        "method": "炒杂"
+        "selectInfo": "炒杂"
       }
     ]
   },

@@ -1,71 +1,71 @@
 [
   {
-    "method": "咖喱鱼片",
+    "selectInfo": "咖喱鱼片",
     "price": 0,
     "available": true
   },
   {
-    "method": "三味鱼片",
+    "selectInfo": "三味鱼片",
     "price": 0,
     "available": true
   },
   {
-    "method": "酸甜鱼片",
+    "selectInfo": "酸甜鱼片",
     "price": 0,
     "available": true
   },
   {
-    "method": "豆酱鱼片",
+    "selectInfo": "豆酱鱼片",
     "price": 0,
     "available": true
   },
   {
-    "method": "姜葱鱼片",
+    "selectInfo": "姜葱鱼片",
     "price": 0,
     "available": true
   },
   {
-    "method": "金香鱼片",
+    "selectInfo": "金香鱼片",
     "price": 0,
     "available": true
   },
   {
-    "method": "宫保鱼片",
+    "selectInfo": "宫保鱼片",
     "price": 0,
     "available": true
   },
   {
-    "method": "香辣鱼片",
+    "selectInfo": "香辣鱼片",
     "price": 0,
     "available": true
   },
   {
-    "method": "咖喱粉鱼片",
+    "selectInfo": "咖喱粉鱼片",
     "price": 0,
     "available": true
   },
   {
-    "method": "参峇鱼片",
+    "selectInfo": "参峇鱼片",
     "price": 0,
     "available": true
   },
   {
-    "method": "沙煲红烧鱼片",
+    "selectInfo": "沙煲红烧鱼片",
     "price": 0,
     "available": true
   },
   {
-    "method": "红烧鱼片",
+    "selectInfo": "红烧鱼片",
     "price": 0,
     "available": true
   },
   {
-    "method": "炒辣鱼片",
+    "selectInfo": "炒辣鱼片",
     "price": 0,
     "available": true
   },
   {
-    "method": "冬炎鱼片",
+    "selectInfo": "冬炎鱼片",
     "price": 0,
     "available": true
   }

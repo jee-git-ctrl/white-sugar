@@ -1,51 +1,51 @@
 [
   {
-    "method": "亚参蒸鱼头",
+    "selectInfo": "亚参蒸鱼头",
     "price": 0,
     "available": true
   },
   {
-    "method": "清蒸鱼头",
+    "selectInfo": "清蒸鱼头",
     "price": 0,
     "available": true
   },
   {
-    "method": "潮州蒸鱼头",
+    "selectInfo": "潮州蒸鱼头",
     "price": 0,
     "available": true
   },
   {
-    "method": "豆酱蒸鱼头",
+    "selectInfo": "豆酱蒸鱼头",
     "price": 0,
     "available": true
   },
   {
-    "method": "冬炎蒸鱼头",
+    "selectInfo": "冬炎蒸鱼头",
     "price": 0,
     "available": true
   },
   {
-    "method": "咖喱鱼头",
+    "selectInfo": "咖喱鱼头",
     "price": 0,
     "available": true
   },
   {
-    "method": "沙煲红烧鱼头",
+    "selectInfo": "沙煲红烧鱼头",
     "price": 0,
     "available": true
   },
   {
-    "method": "红烧鱼头",
+    "selectInfo": "红烧鱼头",
     "price": 0,
     "available": true
   },
   {
-    "method": "豆酱鱼头",
+    "selectInfo": "豆酱鱼头",
     "price": 0,
     "available": true
   },
   {
-    "method": "炒辣鱼头",
+    "selectInfo": "炒辣鱼头",
     "price": 0,
     "available": true
   }

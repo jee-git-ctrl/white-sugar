@@ -1,41 +1,41 @@
 [
   {
-    "method": "佛砵（罗汉斋）",
+    "selectInfo": "佛砵（罗汉斋）",
     "price": 0,
     "available": true
   },
   {
-    "method": "佛砵（咕咾肉）",
+    "selectInfo": "佛砵（咕咾肉）",
     "price": 0,
     "available": true
   },
   {
-    "method": "佛砵（排骨王）",
+    "selectInfo": "佛砵（排骨王）",
     "price": 0,
     "available": true
   },
   {
-    "method": "佛砵（虾姑肉）",
+    "selectInfo": "佛砵（虾姑肉）",
     "price": 0,
     "available": true
   },
   {
-    "method": "沙煲鱼漂",
+    "selectInfo": "沙煲鱼漂",
     "price": 0,
     "available": true
   },
   {
-    "method": "鱼翅",
+    "selectInfo": "鱼翅",
     "price": 0,
     "available": true
   },
   {
-    "method": "黄金莲藕",
+    "selectInfo": "黄金莲藕",
     "price": 0,
     "available": true
   },
   {
-    "method": "肉松莲藕",
+    "selectInfo": "肉松莲藕",
     "price": 0,
     "available": true
   }

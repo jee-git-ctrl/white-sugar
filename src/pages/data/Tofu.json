@@ -1,21 +1,21 @@
 [
   {
-    "method": "招牌豆腐",
+    "selectInfo": "招牌豆腐",
     "price": 0,
     "available": true
   },
   {
-    "method": "沙煲豆腐",
+    "selectInfo": "沙煲豆腐",
     "price": 0,
     "available": true
   },
   {
-    "method": "铁板豆腐",
+    "selectInfo": "铁板豆腐",
     "price": 0,
     "available": true
   },
   {
-    "method": "红烧豆腐",
+    "selectInfo": "红烧豆腐",
     "price": 0,
     "available": true
   }

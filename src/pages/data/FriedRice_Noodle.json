@@ -1,61 +1,61 @@
 [
   {
-    "method": "炒饭",
+    "selectInfo": "炒饭",
     "price": 0,
     "available": true
   },
   {
-    "method": "叁峇炒饭",
+    "selectInfo": "叁峇炒饭",
     "price": 0,
     "available": true
   },
   {
-    "method": "咸鱼炒饭",
+    "selectInfo": "咸鱼炒饭",
     "price": 0,
     "available": true
   },
   {
-    "method": "鸳鸯",
+    "selectInfo": "鸳鸯",
     "price": 0,
     "available": true
   },
   {
-    "method": "鸳鸯干",
+    "selectInfo": "鸳鸯干",
     "price": 0,
     "available": true
   },
   {
-    "method": "生面",
+    "selectInfo": "生面",
     "price": 0,
     "available": true
   },
   {
-    "method": "沙煲面",
+    "selectInfo": "沙煲面",
     "price": 0,
     "available": true
   },
   {
-    "method": "米粉干",
+    "selectInfo": "米粉干",
     "price": 0,
     "available": true
   },
   {
-    "method": "米粉湿",
+    "selectInfo": "米粉湿",
     "price": 0,
     "available": true
   },
   {
-    "method": "咸鱼米粉",
+    "selectInfo": "咸鱼米粉",
     "price": 0,
     "available": true
   },
   {
-    "method": "叁峇米粉",
+    "selectInfo": "叁峇米粉",
     "price": 0,
     "available": true
   },
   {
-    "method": "星洲米粉",
+    "selectInfo": "星洲米粉",
     "price": 0,
     "available": true
   }

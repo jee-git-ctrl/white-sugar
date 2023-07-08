@@ -1,61 +1,61 @@
 [
   {
-    "method": "黄金虾",
+    "selectInfo": "黄金虾",
     "price": 0,
     "available": true
   },
   {
-    "method": "金香虾",
+    "selectInfo": "金香虾",
     "price": 0,
     "available": true
   },
   {
-    "method": "蒜头虾",
+    "selectInfo": "蒜头虾",
     "price": 0,
     "available": true
   },
   {
-    "method": "蚝油虾",
+    "selectInfo": "蚝油虾",
     "price": 0,
     "available": true
   },
   {
-    "method": "亚参虾",
+    "selectInfo": "亚参虾",
     "price": 0,
     "available": true
   },
   {
-    "method": "印尼虾",
+    "selectInfo": "印尼虾",
     "price": 0,
     "available": true
   },
   {
-    "method": "沙律虾",
+    "selectInfo": "沙律虾",
     "price": 0,
     "available": true
   },
   {
-    "method": "咖喱虾",
+    "selectInfo": "咖喱虾",
     "price": 0,
     "available": true
   },
   {
-    "method": "冬炎虾",
+    "selectInfo": "冬炎虾",
     "price": 0,
     "available": true
   },
   {
-    "method": "酸甜虾",
+    "selectInfo": "酸甜虾",
     "price": 0,
     "available": true
   },
   {
-    "method": "叁峇虾",
+    "selectInfo": "叁峇虾",
     "price": 0,
     "available": true
   },
   {
-    "method": "虾球",
+    "selectInfo": "虾球",
     "price": 0,
     "available": true
   }

@@ -1,11 +1,11 @@
 [
   {
-    "method": "宫保田鸡",
+    "selectInfo": "宫保田鸡",
     "price": 0,
     "available": false
   },
   {
-    "method": "姜葱田鸡",
+    "selectInfo": "姜葱田鸡",
     "price": 0,
     "available": false
   }

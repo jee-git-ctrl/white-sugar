@@ -1,36 +1,36 @@
 [
   {
-    "method": "炸苏东",
+    "selectInfo": "炸苏东",
     "price": 0,
     "available": true
   },
   {
-    "method": "咖喱粉苏东",
+    "selectInfo": "咖喱粉苏东",
     "price": 0,
     "available": true
   },
   {
-    "method": "宫保苏东",
+    "selectInfo": "宫保苏东",
     "price": 0,
     "available": true
   },
   {
-    "method": "叁峇苏东",
+    "selectInfo": "叁峇苏东",
     "price": 0,
     "available": true
   },
   {
-    "method": "叁峇苏东虾",
+    "selectInfo": "叁峇苏东虾",
     "price": 0,
     "available": true
   },
   {
-    "method": "咖喱苏东",
+    "selectInfo": "咖喱苏东",
     "price": 0,
     "available": true
   },
   {
-    "method": "冬炎苏东",
+    "selectInfo": "冬炎苏东",
     "price": 0,
     "available": true
   }

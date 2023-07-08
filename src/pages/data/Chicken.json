@@ -1,66 +1,66 @@
 [
   {
-    "method": "百花鸡",
+    "selectInfo": "百花鸡",
     "price": 0,
     "available": true
   },
   {
-    "method": "梅子鸡",
+    "selectInfo": "梅子鸡",
     "price": 0,
     "available": true
   },
   {
-    "method": "白斩鸡",
+    "selectInfo": "白斩鸡",
     "price": 0,
     "available": true
   },
   {
-    "method": "炸鸡",
+    "selectInfo": "炸鸡",
     "price": 0,
     "available": true
   },
   {
-    "method": "峇拉煎鸡",
+    "selectInfo": "峇拉煎鸡",
     "price": 0,
     "available": true
   },
   {
-    "method": "宫保鸡",
+    "selectInfo": "宫保鸡",
     "price": 0,
     "available": true
   },
   {
-    "method": "金香鸡",
+    "selectInfo": "金香鸡",
     "price": 0,
     "available": true
   },
   {
-    "method": "咖喱粉鸡",
+    "selectInfo": "咖喱粉鸡",
     "price": 0,
     "available": true
   },
   {
-    "method": "黄金鸡",
+    "selectInfo": "黄金鸡",
     "price": 0,
     "available": true
   },
   {
-    "method": "香油鸡",
+    "selectInfo": "香油鸡",
     "price": 0,
     "available": true
   },
   {
-    "method": "香辣鸡",
+    "selectInfo": "香辣鸡",
     "price": 0,
     "available": true
   },
   {
-    "method": "酸甜鸡",
+    "selectInfo": "酸甜鸡",
     "price": 0,
     "available": true
   },
   {
-    "method": "叁峇鸡",
+    "selectInfo": "叁峇鸡",
     "price": 0,
     "available": true
   }

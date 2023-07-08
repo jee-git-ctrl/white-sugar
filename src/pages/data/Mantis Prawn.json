@@ -1,21 +1,21 @@
 [
   {
-    "method": "黄金虾姑肉",
+    "selectInfo": "黄金虾姑肉",
     "price": 0,
     "available": true
   },
   {
-    "method": "宫保虾姑肉",
+    "selectInfo": "宫保虾姑肉",
     "price": 0,
     "available": true
   },
   {
-    "method": "金香虾姑肉",
+    "selectInfo": "金香虾姑肉",
     "price": 0,
     "available": true
   },
   {
-    "method": "沙律虾姑肉",
+    "selectInfo": "沙律虾姑肉",
     "price": 0,
     "available": true
   }
