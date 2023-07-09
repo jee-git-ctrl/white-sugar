@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import styled from "styled-components";
-import { AiOutlineClose } from "react-icons/ai";
+import ShowingDetails from "./ShowingDetails";
 import Fish from "../data/Fish.json";
 
 const Box = styled.div`
@@ -34,104 +34,14 @@ const ShowAvailable = styled.div`
 //   margin: 2px 0;
 //   opacity: 0.4;
 // `;
-const ShowingFishDetailOutline = styled.div`
-  display: block;
-  position: absolute;
-  background-color: rgb(0,0,0,0.5);
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: 20;
-`;
-const ShowingFishDetailBox = styled.div`
-  position: relative;
-  background-color: #fff;
-  margin: 10%;
-  width: 80%;
-  max-height: 80%;
-  border-radius: 5px;
-`;
-const Header = styled.div`
-  display: flex;
-  justify-content: center;
-  align-items: center;
-`;
-const MethodTitle = styled.div`
-  font-size: 1.5em;
-  font-weight: 500;
-  margin-bottom: 2px;
-`;
-const CloseBox = styled.div`
-  position: absolute;
-  top: 1%;
-  right: 1%;
-  cursor: pointer;
-`;
-const ShowingFishAvailable = styled.div`
-  color: #000;
-  color: black;
-  padding: 1px;
-`;
-const ShowingFishUnavailable = styled.div`
-  padding: 1px;
-  opacity: 0.4;
-`;
 
 const ShowingFish = () => {
-  const [isFishDetailVisible, setIsFishDetailVisible] = useState(false);
+  const [isDetailVisible, setIsDetailVisible] = useState(false);
   const [selectedMethod, setSelectedMethod] = useState([]);
-  const [selectedIndex, setSelectedIndex] = useState(-1);
 
-  const handleMethodSelected = (fishNames, index) => {
-    setSelectedMethod(() => fishNames);
-    setSelectedIndex(() => index);
-    setIsFishDetailVisible(() => true);
-  } 
-
-  const handleCloseFishDetail = () => {
-    setIsFishDetailVisible(() => false);
-  }
-
-  const ShowFishDetail = ({ fishNames, index }) => {
-    const selectedMethod = Fish[index].method;
-
-    return (
-      <ShowingFishDetailOutline>
-        <ShowingFishDetailBox>
-          <Header>
-            <MethodTitle>
-              {selectedMethod}
-            </MethodTitle>
-          </Header>
-  
-          <CloseBox onClick={() => handleCloseFishDetail()}>
-            <AiOutlineClose size={20} />
-          </CloseBox>
-          {fishNames.map(value => {
-            const { name, price, available } = value;
-            
-            if(available) {
-              return (
-                <ShowingFishAvailable>
-                  {name}
-                  <br />
-                  {price}
-                </ShowingFishAvailable>
-              )
-            } else {
-              return (
-                <ShowingFishUnavailable>
-                  {name}
-                  <br />
-                  {price}
-                </ShowingFishUnavailable>
-              )
-            }
-          })}
-        </ShowingFishDetailBox>
-      </ShowingFishDetailOutline>
-    )
+  const handleMethodSelected = (SelectInfo) => {
+    setSelectedMethod(() => SelectInfo);
+    setIsDetailVisible(() => true);
   } 
 
   return (
@@ -140,11 +50,11 @@ const ShowingFish = () => {
       鱼类 Fish
     </Title>
     <Box>
-      {Fish.map((food, index) => {
-        const { method, fishNames } = food;
-
+      {Fish.map(food => {
+        const { method, SelectInfo } = food;
+        
         return (
-          <ShowAvailable onClick={() => handleMethodSelected(fishNames, index)}>
+          <ShowAvailable onClick={() => handleMethodSelected(SelectInfo)}>
             {method}
             <br/>
             时价
@@ -153,8 +63,8 @@ const ShowingFish = () => {
       })}
     </Box>
     
-    {isFishDetailVisible && 
-      <ShowFishDetail fishNames={selectedMethod} index={selectedIndex} />
+    {isDetailVisible && 
+      <ShowingDetails Title={"鱼类 Fish"} Details={selectedMethod} />
     }
     </>
   )

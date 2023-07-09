@@ -1,5 +1,6 @@
-import React from "react";
+import React, { useState } from "react";
 import styled from "styled-components";
+import ShowingDetails from "./ShowingDetails";
 
 const Box = styled.div`
   font-size: 1.5em;
@@ -34,6 +35,14 @@ const ShowUnavailable = styled.div`
 `;
 
 const ShowingFoods = ({ Name, Foods }) => {
+  const [isDetailVisible, setIsDetailVisible] = useState(false);
+  const [selectedFood, setSelectedFood] = useState([]);
+  
+  const handleFoodSelected = (food) => {
+    setSelectedFood(() => food);
+    setIsDetailVisible(() => true);
+  } 
+
   return (
     <>
     <Title id={Name}>
@@ -41,11 +50,11 @@ const ShowingFoods = ({ Name, Foods }) => {
     </Title>
     <Box>
       {Foods && Foods.map(food => {
-        const { selectInfo, price, available } = food;
+        const { selectInfo, price, available, SelectInfo } = food;
 
         if(available) {
           return (
-            <ShowAvailable>
+            <ShowAvailable onClick={() => handleFoodSelected(SelectInfo)}>
               {selectInfo}
               <br/>
               RM {price}++
@@ -62,6 +71,10 @@ const ShowingFoods = ({ Name, Foods }) => {
         }
       })}
     </Box>
+
+    {isDetailVisible && 
+      <ShowingDetails Title={Name} Details={selectedFood} />
+    }
     </>
   )
 }
