@@ -3,12 +3,16 @@
     "name": "番薯叶",
     "price": 0,
     "available": true,
-    "method": [
+    "SelectInfo": [
       {
-        "selectInfo": "清炒"
+        "selectInfo": "清炒",
+        "price": 0,
+        "available": true
       },
       {
-        "selectInfo": "叁峇"
+        "selectInfo": "叁峇",
+        "price": 0,
+        "available": true
       }
     ]
   },
@@ -16,15 +20,21 @@
     "name": "芥兰",
     "price": 0,
     "available": true,
-    "method": [
+    "SelectInfo": [
       {
-        "selectInfo": "清炒"
+        "selectInfo": "清炒",
+        "price": 0,
+        "available": true
       },
       {
-        "selectInfo": "咸鱼"
+        "selectInfo": "咸鱼",
+        "price": 0,
+        "available": true
       },
       {
-        "selectInfo": "炒杂"
+        "selectInfo": "炒杂",
+        "price": 0,
+        "available": true
       }
     ]
   },
@@ -32,15 +42,21 @@
     "name": "小白菜",
     "price": 0,
     "available": true,
-    "method": [
+    "SelectInfo": [
       {
-        "selectInfo": "清炒"
+        "selectInfo": "清炒",
+        "price": 0,
+        "available": true
       },
       {
-        "selectInfo": "咸鱼"
+        "selectInfo": "咸鱼",
+        "price": 0,
+        "available": true
       },
       {
-        "selectInfo": "炒杂"
+        "selectInfo": "炒杂",
+        "price": 0,
+        "available": true
       }
     ]
   },
@@ -48,15 +64,21 @@
     "name": "菜心",
     "price": 0,
     "available": true,
-    "method": [
+    "SelectInfo": [
       {
-        "selectInfo": "清炒"
+        "selectInfo": "清炒",
+        "price": 0,
+        "available": true
       },
       {
-        "selectInfo": "咸鱼"
+        "selectInfo": "咸鱼",
+        "price": 0,
+        "available": true
       },
       {
-        "selectInfo": "炒杂"
+        "selectInfo": "炒杂",
+        "price": 0,
+        "available": true
       }
     ]
   },
@@ -64,12 +86,16 @@
     "name": "豆芽",
     "price": 0,
     "available": true,
-    "method": [
+    "SelectInfo": [
       {
-        "selectInfo": "清炒"
+        "selectInfo": "清炒",
+        "price": 0,
+        "available": true
       },
       {
-        "selectInfo": "咸鱼"
+        "selectInfo": "咸鱼",
+        "price": 0,
+        "available": true
       }
     ]
   },
@@ -77,35 +103,70 @@
     "name": "苦瓜",
     "price": 0,
     "available": true,
-    "method": [
+    "SelectInfo": [
       {
-        "selectInfo": "炒豆酱"
+        "selectInfo": "炒豆酱",
+        "price": 0,
+        "available": true
       },
       {
-        "selectInfo": "炒蛋"
+        "selectInfo": "炒蛋",
+        "price": 0,
+        "available": true
       },
       {
-        "selectInfo": "炒杂"
+        "selectInfo": "炒杂",
+        "price": 0,
+        "available": true
       }
     ]
   },
   {
     "name": "罗汉斋",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "炒杂",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "name": "茄子",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "炒杂",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "name": "乌龟豆（四季豆）",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "炒虾米",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "name": "青龙菜",
-    "price": 0
+    "price": 0,
+    "available": false,
+    "SelectInfo": [
+      {
+        "selectInfo": "炒杂",
+        "price": 0,
+        "available": false
+      }
+    ]
   }
 ]

@@ -1,6 +1,7 @@
-import React from "react";
+import React, { useState } from "react";
 import styled from "styled-components";
-import Fish from "../data/Fish.json";
+import Vegetable from "../data/Vegetable.json";
+import ShowingDetails from "./ShowingDetails";
 
 const Box = styled.div`
   font-size: 1.5em;
@@ -35,34 +36,48 @@ const ShowUnavailable = styled.div`
 `;
 
 const ShowingVegetable = () => {
+  const [isDetailVisible, setIsDetailVisible] = useState(false);
+  const [selectedFoodName, setSelectedFoodName] = useState("");
+  const [selectedFoodInfo, setSelectedFoodInfo] = useState([]);
+  
+  const handleFoodSelected = (name, info) => {
+    setSelectedFoodName(() => name);
+    setSelectedFoodInfo(() => info);
+    setIsDetailVisible(() => true);
+  } 
+
   return (
     <>
     <Title id="菜类 Vegetable">
       菜类 Vegetable
     </Title>
     <Box>
-      {Fish.map(food => {
-        const { method, price, available } = food;
+      {Vegetable.map(food => {
+        const { name, price, available, SelectInfo } = food;
 
         if(available) {
           return (
-            <ShowAvailable>
-              {method}
+            <ShowAvailable onClick={() => handleFoodSelected(name, SelectInfo)}>
+              {name}
               <br/>
-              RM 时价
+              RM {price}++
             </ShowAvailable>
           );
         } else {
           return (
             <ShowUnavailable>
-              {method}
+              {name}
               <br/>
-              RM 时价
+              RM {price}++
             </ShowUnavailable>
           );
         }
       })}
     </Box>
+
+    {isDetailVisible && 
+      <ShowingDetails Title={selectedFoodName} Details={selectedFoodInfo} />
+    }
     </>
   )
 }
