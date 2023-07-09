@@ -22,7 +22,7 @@ const SideBar = () => {
     <Bar>
       {Type.map((value => {
         return (
-          <ShowingType href={`#${value.name}`}>
+          <ShowingType key={value.name} href={`#${value.name}`}>
             {value.name}
           </ShowingType>
         );

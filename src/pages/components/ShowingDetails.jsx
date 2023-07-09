@@ -87,7 +87,7 @@ const ShowingDetails = ({ Title, Details, Visible }) => {
             
           if(available) {
             return (
-              <ShowAvailable>
+              <ShowAvailable key={selectInfo}>
                 {selectInfo}
                 <span>
                   {price > 0 ? `RM ${price}` : `${price}`}
@@ -96,7 +96,7 @@ const ShowingDetails = ({ Title, Details, Visible }) => {
             );
           } else {
             return (
-              <ShowUnavailable>
+              <ShowUnavailable key={selectInfo}>
                 {selectInfo}
                 <span>
                   {price > 0 ? `RM ${price}` : `${price}`}

@@ -57,7 +57,7 @@ const ShowingVegetable = () => {
 
         if(available) {
           return (
-            <ShowAvailable onClick={() => handleFoodSelected(name, SelectInfo)}>
+            <ShowAvailable key={name} onClick={() => handleFoodSelected(name, SelectInfo)}>
               {name}
               <br/>
               RM {price}++
@@ -65,7 +65,7 @@ const ShowingVegetable = () => {
           );
         } else {
           return (
-            <ShowUnavailable>
+            <ShowUnavailable key={name}>
               {name}
               <br/>
               RM {price}++

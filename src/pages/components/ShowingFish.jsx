@@ -56,7 +56,7 @@ const ShowingFish = () => {
         const { method, SelectInfo } = food;
         
         return (
-          <ShowAvailable onClick={() => handleFoodSelected(method, SelectInfo)}>
+          <ShowAvailable key={method} onClick={() => handleFoodSelected(method, SelectInfo)}>
             {method}
             <br/>
             时价
