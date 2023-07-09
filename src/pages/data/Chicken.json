@@ -2,66 +2,274 @@
   {
     "selectInfo": "百花鸡",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "梅子鸡",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "白斩鸡",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "炸鸡",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "峇拉煎鸡",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "宫保鸡",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "金香鸡",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "咖喱粉鸡",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "黄金鸡",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "香油鸡",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "香辣鸡",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "酸甜鸡",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "叁峇鸡",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   }
 ]

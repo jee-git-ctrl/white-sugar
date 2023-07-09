@@ -2,46 +2,190 @@
   {
     "selectInfo": "排骨王",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "咕咾肉",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "姜丝肉",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "暹猪脚",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "红烧猪脚",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "花腩煲",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "梅菜扣肉",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "芋头扣肉",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "咖喱排骨",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   }
 ]

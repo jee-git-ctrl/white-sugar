@@ -2,21 +2,85 @@
   {
     "selectInfo": "黄金虾姑肉",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "宫保虾姑肉",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "金香虾姑肉",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "沙律虾姑肉",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   }
 ]

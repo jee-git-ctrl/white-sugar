@@ -2,6 +2,22 @@
   {
     "selectInfo": "白饭",
     "price": 1,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   }
 ]

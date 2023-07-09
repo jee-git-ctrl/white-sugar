@@ -2,61 +2,253 @@
   {
     "selectInfo": "炒饭",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "叁峇炒饭",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "咸鱼炒饭",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "鸳鸯",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "鸳鸯干",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "生面",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "沙煲面",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "米粉干",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "米粉湿",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "咸鱼米粉",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "叁峇米粉",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   },
   {
     "selectInfo": "星洲米粉",
     "price": 0,
-    "available": true
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小",
+        "price": 0,
+        "available": true
+      },
+      {
+        "selectInfo": "中",
+        "price": 0,
+        "available": true
+      },{
+        "selectInfo": "大",
+        "price": 0,
+        "available": true
+      }
+    ]
   }
 ]

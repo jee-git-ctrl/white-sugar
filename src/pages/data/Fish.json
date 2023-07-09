@@ -1,7 +1,7 @@
 [
   {
     "method": "亚参蒸",
-    "fishNames": [
+    "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
         "price": "时价",
@@ -36,7 +36,7 @@
   },
   {
     "method": "清蒸",
-    "fishNames": [
+    "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
         "price": "时价",
@@ -71,7 +71,7 @@
   },
   {
     "method": "潮州蒸",
-    "fishNames": [
+    "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
         "price": "时价",
@@ -106,7 +106,7 @@
   },
   {
     "method": "豆酱蒸",
-    "fishNames": [
+    "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
         "price": "时价",
@@ -141,7 +141,7 @@
   },
   {
     "method": "冬炎蒸",
-    "fishNames": [
+    "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
         "price": "时价",
@@ -176,7 +176,7 @@
   },
   {
     "method": "干煎",
-    "fishNames": [
+    "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
         "price": "时价",
@@ -211,7 +211,7 @@
   },
   {
     "method": "三味",
-    "fishNames": [
+    "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
         "price": "时价",
@@ -246,7 +246,7 @@
   },
   {
     "method": "酸甜",
-    "fishNames": [
+    "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
         "price": "时价",
@@ -281,7 +281,7 @@
   },
   {
     "method": "炒豆酱",
-    "fishNames": [
+    "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
         "price": "时价",
