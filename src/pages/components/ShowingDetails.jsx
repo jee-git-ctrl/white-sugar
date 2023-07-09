@@ -1,7 +1,17 @@
-import React from "react";
+import React, { useEffect, useRef } from "react";
 import { AiOutlineClose } from "react-icons/ai";
 import styled from "styled-components";
 
+const Outline = styled.div`
+  display: block;
+  position: absolute;
+  background-color: rgb(0,0,0,0.5);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 110%;
+  z-index: 20;
+`;
 const InfoBox = styled.div`
   position: relative;
   background-color: #fff;
@@ -41,19 +51,40 @@ const ShowUnavailable = styled.div`
   color: rgb(0, 0, 0, 0.4);
 `;
 
-const ShowingDetails = ({ Title, Details }) => {
+const ShowingDetails = ({ Title, Details, Visible }) => {
+  const checkClose = useRef();
+
+  useEffect(() => {
+    const handleClickOutside = (e) => {
+      if(!checkClose.current.contains(e.target)) {
+        Visible(() => false);
+      }
+    }
+
+    document.addEventListener("mousedown", handleClickOutside);
+
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside);
+    }
+  })
+
+  const handleVisible = () => {
+    Visible(() => false);
+  }
+
   return (
-      <InfoBox>
+    <Outline>
+      <InfoBox ref={checkClose}>
         <Header>
           {Title}
-          <CloseBox>
+          <CloseBox onClick={() => handleVisible()}>
             <AiOutlineClose size={20} />
           </CloseBox>
         </Header>
 
         {Details && Details.map(detail => {
           const { selectInfo, price, available } = detail;
-          
+            
           if(available) {
             return (
               <ShowAvailable>
@@ -76,7 +107,8 @@ const ShowingDetails = ({ Title, Details }) => {
 
         })}
       </InfoBox>
+    </Outline>
   );
 }
 
-export default ShowingDetails;
+  export default ShowingDetails;
