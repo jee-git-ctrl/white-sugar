@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import styled from "styled-components";
 import Vegetable from "../data/Vegetable.json";
 import ShowingDetails from "./ShowingDetails";
@@ -34,12 +34,40 @@ const ShowUnavailable = styled.div`
   margin: 2px 0;
   opacity: 0.4;
 `;
+const Outline = styled.div`
+  display: block;
+  position: absolute;
+  background-color: rgb(0,0,0,0.5);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 110%;
+  z-index: 20;
+`;
 
 const ShowingVegetable = () => {
   const [isDetailVisible, setIsDetailVisible] = useState(false);
   const [selectedFoodName, setSelectedFoodName] = useState("");
   const [selectedFoodInfo, setSelectedFoodInfo] = useState([]);
   
+  const checkClose = useRef();
+
+  useEffect(() => {
+    const handleClickOutside = (e) => {
+      if(!checkClose.current.contains(e.target)) {
+        setIsDetailVisible(() => false);
+      }
+    }
+
+    if(isDetailVisible) {
+      document.addEventListener("mousedown", handleClickOutside);
+    }
+
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside);
+    }
+  })
+
   const handleFoodSelected = (name, info) => {
     setSelectedFoodName(() => name);
     setSelectedFoodInfo(() => info);
@@ -76,7 +104,11 @@ const ShowingVegetable = () => {
     </Box>
 
     {isDetailVisible && 
-      <ShowingDetails Title={selectedFoodName} Details={selectedFoodInfo} />
+      <Outline>
+        <div ref={checkClose}>
+          <ShowingDetails Title={selectedFoodName} Details={selectedFoodInfo} />
+        </div>
+      </Outline>
     }
     </>
   )

@@ -2,16 +2,6 @@ import React from "react";
 import { AiOutlineClose } from "react-icons/ai";
 import styled from "styled-components";
 
-const Outline = styled.div`
-  display: block;
-  position: absolute;
-  background-color: rgb(0,0,0,0.5);
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 110%;
-  z-index: 20;
-`;
 const InfoBox = styled.div`
   position: relative;
   background-color: #fff;
@@ -52,10 +42,7 @@ const ShowUnavailable = styled.div`
 `;
 
 const ShowingDetails = ({ Title, Details }) => {
-
-  console.log("Details:" + Details);
   return (
-    <Outline>
       <InfoBox>
         <Header>
           {Title}
@@ -89,7 +76,6 @@ const ShowingDetails = ({ Title, Details }) => {
 
         })}
       </InfoBox>
-    </Outline>
   );
 }
 
