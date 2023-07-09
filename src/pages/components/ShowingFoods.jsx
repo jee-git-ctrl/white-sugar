@@ -36,10 +36,12 @@ const ShowUnavailable = styled.div`
 
 const ShowingFoods = ({ Name, Foods }) => {
   const [isDetailVisible, setIsDetailVisible] = useState(false);
-  const [selectedFood, setSelectedFood] = useState([]);
+  const [selectedFoodName, setSelectedFoodName] = useState("");
+  const [selectedFoodInfo, setSelectedFoodInfo] = useState([]);
   
-  const handleFoodSelected = (food) => {
-    setSelectedFood(() => food);
+  const handleFoodSelected = (name, info) => {
+    setSelectedFoodName(() => name);
+    setSelectedFoodInfo(() => info);
     setIsDetailVisible(() => true);
   } 
 
@@ -54,7 +56,7 @@ const ShowingFoods = ({ Name, Foods }) => {
 
         if(available) {
           return (
-            <ShowAvailable onClick={() => handleFoodSelected(SelectInfo)}>
+            <ShowAvailable onClick={() => handleFoodSelected(selectInfo, SelectInfo)}>
               {selectInfo}
               <br/>
               RM {price}++
@@ -73,7 +75,7 @@ const ShowingFoods = ({ Name, Foods }) => {
     </Box>
 
     {isDetailVisible && 
-      <ShowingDetails Title={Name} Details={selectedFood} />
+      <ShowingDetails Title={selectedFoodName} Details={selectedFoodInfo} />
     }
     </>
   )
