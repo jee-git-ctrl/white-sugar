@@ -37,12 +37,14 @@ const ShowAvailable = styled.div`
 
 const ShowingFish = () => {
   const [isDetailVisible, setIsDetailVisible] = useState(false);
-  const [selectedMethod, setSelectedMethod] = useState([]);
-
-  const handleMethodSelected = (SelectInfo) => {
-    setSelectedMethod(() => SelectInfo);
+  const [selectedFoodName, setSelectedFoodName] = useState("");
+  const [selectedFoodInfo, setSelectedFoodInfo] = useState([]);
+  
+  const handleFoodSelected = (name, info) => {
+    setSelectedFoodName(() => name);
+    setSelectedFoodInfo(() => info);
     setIsDetailVisible(() => true);
-  } 
+  }
 
   return (
     <>
@@ -54,7 +56,7 @@ const ShowingFish = () => {
         const { method, SelectInfo } = food;
         
         return (
-          <ShowAvailable onClick={() => handleMethodSelected(SelectInfo)}>
+          <ShowAvailable onClick={() => handleFoodSelected(method, SelectInfo)}>
             {method}
             <br/>
             时价
@@ -64,7 +66,7 @@ const ShowingFish = () => {
     </Box>
     
     {isDetailVisible && 
-      <ShowingDetails Title={"鱼类 Fish"} Details={selectedMethod} />
+      <ShowingDetails Title={selectedFoodName} Details={selectedFoodInfo} />
     }
     </>
   )
