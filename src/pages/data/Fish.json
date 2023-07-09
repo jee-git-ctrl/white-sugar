@@ -1,6 +1,7 @@
 [
   {
     "method": "亚参蒸",
+    "available": true,
     "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
@@ -36,6 +37,7 @@
   },
   {
     "method": "清蒸",
+    "available": true,
     "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
@@ -71,6 +73,7 @@
   },
   {
     "method": "潮州蒸",
+    "available": true,
     "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
@@ -106,6 +109,7 @@
   },
   {
     "method": "豆酱蒸",
+    "available": true,
     "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
@@ -141,6 +145,7 @@
   },
   {
     "method": "冬炎蒸",
+    "available": true,
     "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
@@ -176,6 +181,7 @@
   },
   {
     "method": "干煎",
+    "available": true,
     "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
@@ -211,6 +217,7 @@
   },
   {
     "method": "三味",
+    "available": true,
     "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
@@ -246,6 +253,7 @@
   },
   {
     "method": "酸甜",
+    "available": true,
     "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
@@ -281,6 +289,7 @@
   },
   {
     "method": "炒豆酱",
+    "available": true,
     "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",

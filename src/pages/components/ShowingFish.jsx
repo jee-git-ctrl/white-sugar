@@ -27,13 +27,13 @@ const ShowAvailable = styled.div`
   margin: 2px 0;
   cursor: pointer;
 `;
-// const ShowUnavailable = styled.div`
-//   width: 98%;
-//   border: 1px solid black;
-//   border-radius: 5px;
-//   margin: 2px 0;
-//   opacity: 0.4;
-// `;
+const ShowUnavailable = styled.div`
+  width: 98%;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 2px 0;
+  opacity: 0.4;
+`;
 
 const ShowingFish = () => {
   const [isDetailVisible, setIsDetailVisible] = useState(false);
@@ -53,15 +53,26 @@ const ShowingFish = () => {
     </Title>
     <Box>
       {Fish.map(food => {
-        const { method, SelectInfo } = food;
+        const { method, SelectInfo, available } = food;
         
-        return (
-          <ShowAvailable key={method} onClick={() => handleFoodSelected(method, SelectInfo)}>
-            {method}
-            <br/>
-            时价
-          </ShowAvailable>
-        );
+        if(available) {
+          return (
+            <ShowAvailable key={method} onClick={() => handleFoodSelected(method, SelectInfo)}>
+              {method}
+              <br/>
+              时价
+            </ShowAvailable>
+          );
+        } else {
+          return (
+            <ShowUnavailable key={method}>
+              {method}
+              <br/>
+              时价
+            </ShowUnavailable>
+          );
+        }
+        
       })}
     </Box>
     
