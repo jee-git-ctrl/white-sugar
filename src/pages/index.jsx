@@ -70,7 +70,6 @@ const IndexPage = () => {
   const pork = require("./data/Pork.json");
   const egg = require("./data/Egg.json");
   const tofu = require("./data/Tofu.json");
-  const vegetable = require("./data/Vegetable.json");
   const soup = require("./data/Soup.json");
   const friedRice_Noodle = require("./data/FriedRice_Noodle.json");
   const rice = require("./data/Rice.json");
