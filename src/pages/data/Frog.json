@@ -7,16 +7,16 @@
       {
         "selectInfo": "小",
         "price": 0,
-        "available": true
+        "available": false
       },
       {
         "selectInfo": "中",
         "price": 0,
-        "available": true
+        "available": false
       },{
         "selectInfo": "大",
         "price": 0,
-        "available": true
+        "available": false
       }
     ]
   },
@@ -28,16 +28,16 @@
       {
         "selectInfo": "小",
         "price": 0,
-        "available": true
+        "available": false
       },
       {
         "selectInfo": "中",
         "price": 0,
-        "available": true
+        "available": false
       },{
         "selectInfo": "大",
         "price": 0,
-        "available": true
+        "available": false
       }
     ]
   }

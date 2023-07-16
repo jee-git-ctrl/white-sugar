@@ -1,168 +1,121 @@
 [
   {
-    "selectInfo": "佛砵（罗汉斋）",
-    "price": 0,
+    "selectInfo": "佛砵（罗汉斋） Yam Ring with Vegetable",
+    "price": 22,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "一份 A Set",
+        "price": 22,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "佛砵（咕咾肉）",
-    "price": 0,
+    "selectInfo": "佛砵（咕咾肉） Yam Ring with Sweet Sour Pork",
+    "price": 25,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "一份 A Set",
+        "price": 25,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "佛砵（排骨王）",
-    "price": 0,
+    "selectInfo": "佛砵（排骨王） Yam Ring with Pork Rib King",
+    "price": 25,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "一份 A Set",
+        "price": 25,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "佛砵（虾姑肉）",
-    "price": 0,
+    "selectInfo": "佛砵（虾姑肉） Yam Ring with Mantis Prawn",
+    "price": 25,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "一份 A Set",
+        "price": 25,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "沙煲鱼漂",
-    "price": 0,
+    "selectInfo": "沙煲鱼漂 Fish Maw Soup in Claypot",
+    "price": 20,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": 20,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": 40,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "鱼翅",
-    "price": 0,
+    "selectInfo": "鱼翅 Shark Fin",
+    "price": 20,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": 20,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "中 Medium",
+        "price": 30,
         "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+      },
+      {
+        "selectInfo": "大 Big",
+        "price": 50,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "黄金莲藕",
-    "price": 0,
+    "selectInfo": "黄金莲藕 Salted Egg Lotus Root",
+    "price": 10,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": 10,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": 18,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "肉松莲藕",
-    "price": 0,
+    "selectInfo": "肉松莲藕 Fried Lotus Root with Floss",
+    "price": 10,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": 10,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": 18,
         "available": true
       }
     ]

@@ -1,84 +1,84 @@
 [
   {
-    "selectInfo": "黄金虾姑肉",
-    "price": 0,
+    "selectInfo": "黄金虾姑肉 Salted Egg Mantis Prawn",
+    "price": 15,
     "available": true,
-    "SelectInfo": [
+   "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": 15,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "中 Medium",
+        "price": 25,
         "available": true
       },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": 35,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "宫保虾姑肉",
-    "price": 0,
+    "selectInfo": "宫保虾姑肉 Dry Chili Mantis Prawn",
+    "price": 15,
     "available": true,
-    "SelectInfo": [
+   "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": 15,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "中 Medium",
+        "price": 25,
         "available": true
       },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": 35,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "金香虾姑肉",
-    "price": 0,
+    "selectInfo": "金香虾姑肉 Kam Heong Mantis Prawn",
+    "price": 15,
     "available": true,
-    "SelectInfo": [
+   "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": 15,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "中 Medium",
+        "price": 25,
         "available": true
       },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": 35,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "沙律虾姑肉",
-    "price": 0,
+    "selectInfo": "沙律虾姑肉 Salad Mantis Prawn",
+    "price": 15,
     "available": true,
-    "SelectInfo": [
+   "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": 15,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "中 Medium",
+        "price": 25,
         "available": true
       },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": 35,
         "available": true
       }
     ]

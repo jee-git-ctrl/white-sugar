@@ -1,21 +1,17 @@
 [
   {
-    "selectInfo": "琵琶鸭",
-    "price": 0,
+    "selectInfo": "琵琶鸭 Duck",
+    "price": 28,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "半只 Half",
+        "price": 28,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "一只 Whole",
+        "price": 56,
         "available": true
       }
     ]

@@ -1,126 +1,159 @@
 [
   {
-    "selectInfo": "虾仁煎蛋",
-    "price": 0,
+    "selectInfo": "虾仁煎蛋 Fried Eggs with Shrimp",
+    "price": 8,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": 8,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "中 Medium",
+        "price": 10,
         "available": true
       },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": 12,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "腊肠煎蛋",
-    "price": 0,
+    "selectInfo": "腊肠煎蛋 Fried Egg with Chinese Sausage",
+    "price": 8,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": 8,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "中 Medium",
+        "price": 10,
         "available": true
       },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": 12,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "大葱煎蛋",
-    "price": 0,
+    "selectInfo": "芙蓉蛋 Egg Foo Young(Shrimp, Chinese Sausage)",
+    "price": 8,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": 8,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "中 Medium",
+        "price": 10,
         "available": true
       },{
-        "selectInfo": "大",
-        "price": 0,
-        "available": true
-      }
-    ]
-  },
-  {
-    "selectInfo": "芙蓉蛋",
-    "price": 0,
-    "available": true,
-    "SelectInfo": [
-      {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": 12,
         "available": true
       }
     ]
   },
   {
     "selectInfo": "苦瓜煎蛋",
-    "price": 0,
+    "price": 8,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": 8,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "中 Medium",
+        "price": 10,
         "available": true
       },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": 12,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "荷包蛋",
-    "price": 0,
+    "selectInfo": "大葱煎蛋 Fried Egg with Onion",
+    "price": 6,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": 6,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "中 Medium",
+        "price": 8,
         "available": true
       },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "selectInfo": "散蛋 Fried Egg",
+    "price": 6,
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小 Small",
+        "price": 6,
+        "available": true
+      },
+      {
+        "selectInfo": "中 Medium",
+        "price": 8,
+        "available": true
+      },{
+        "selectInfo": "大 Big",
+        "price": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "selectInfo": "蒸蛋 Steamed Egg",
+    "price": 6,
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小 Small",
+        "price": 6,
+        "available": true
+      },
+      {
+        "selectInfo": "中 Medium",
+        "price": 8,
+        "available": true
+      },{
+        "selectInfo": "大 Big",
+        "price": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "selectInfo": "荷包蛋 Fried Egg",
+    "price": 1.20,
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "一颗 One",
+        "price": 1.20,
         "available": true
       }
     ]

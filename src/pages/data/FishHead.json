@@ -1,210 +1,105 @@
 [
   {
-    "selectInfo": "亚参蒸鱼头",
-    "price": 0,
+    "selectInfo": "亚参蒸鱼头 Asam Steamed Fish Head",
+    "price": "时价",
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small Small",
+        "price": "时价",
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "中 Medium",
+        "price": "时价",
         "available": true
       },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": "时价",
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "清蒸鱼头",
-    "price": 0,
+    "selectInfo": "豆酱蒸鱼头 Bean Paste Steamed Fish Head",
+    "price": "时价",
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": "时价",
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "中 Medium",
+        "price": "时价",
         "available": true
       },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": "时价",
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "潮州蒸鱼头",
-    "price": 0,
+    "selectInfo": "咖喱鱼头 Curry Fish Head",
+    "price": 20,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": 20,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "中 Medium",
+        "price": 30,
         "available": true
       },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": 40,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "豆酱蒸鱼头",
-    "price": 0,
+    "selectInfo": "沙煲红烧鱼头 Braised Fish Head in Casserole",
+    "price": 20,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": 20,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "中 Medium",
+        "price": 30,
         "available": true
       },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": 40,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "冬炎蒸鱼头",
-    "price": 0,
+    "selectInfo": "红烧鱼头 Braised Fish Head",
+    "price": 20,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": 20,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "中 Medium",
+        "price": 30,
         "available": true
       },{
-        "selectInfo": "大",
-        "price": 0,
-        "available": true
-      }
-    ]
-  },
-  {
-    "selectInfo": "咖喱鱼头",
-    "price": 0,
-    "available": true,
-    "SelectInfo": [
-      {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
-        "available": true
-      }
-    ]
-  },
-  {
-    "selectInfo": "沙煲红烧鱼头",
-    "price": 0,
-    "available": true,
-    "SelectInfo": [
-      {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
-        "available": true
-      }
-    ]
-  },
-  {
-    "selectInfo": "红烧鱼头",
-    "price": 0,
-    "available": true,
-    "SelectInfo": [
-      {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
-        "available": true
-      }
-    ]
-  },
-  {
-    "selectInfo": "豆酱鱼头",
-    "price": 0,
-    "available": true,
-    "SelectInfo": [
-      {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
-        "available": true
-      }
-    ]
-  },
-  {
-    "selectInfo": "炒辣鱼头",
-    "price": 0,
-    "available": true,
-    "SelectInfo": [
-      {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": 40,
         "available": true
       }
     ]

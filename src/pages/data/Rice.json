@@ -1,21 +1,17 @@
 [
   {
-    "selectInfo": "白饭",
-    "price": 1,
+    "selectInfo": "白饭 Rice",
+    "price": 0.50,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": 0.50,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": 1,
         "available": true
       }
     ]

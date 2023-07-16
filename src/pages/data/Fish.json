@@ -1,6 +1,6 @@
 [
   {
-    "method": "亚参蒸",
+    "method": "亚参蒸 Asam Steam",
     "available": true,
     "SelectInfo": [
       {
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "method": "清蒸",
+    "method": "清蒸 Steam with Soy Sauce",
     "available": true,
     "SelectInfo": [
       {
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "method": "潮州蒸",
+    "method": "潮州蒸 Teow Chew Steam",
     "available": true,
     "SelectInfo": [
       {
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "method": "豆酱蒸",
+    "method": "豆酱蒸 Bean Paste Steam",
     "available": true,
     "SelectInfo": [
       {
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "method": "冬炎蒸",
+    "method": "冬炎蒸 Tomyam Steam",
     "available": true,
     "SelectInfo": [
       {
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "method": "干煎",
+    "method": "干煎 Fried with Ginger and Soy Sauce",
     "available": true,
     "SelectInfo": [
       {
@@ -216,7 +216,7 @@
     ]
   },
   {
-    "method": "三味",
+    "method": "三味 Fried with 3 Taste",
     "available": true,
     "SelectInfo": [
       {
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "method": "酸甜",
+    "method": "酸甜 Fried with Sweet Sour",
     "available": true,
     "SelectInfo": [
       {
@@ -288,7 +288,7 @@
     ]
   },
   {
-    "method": "炒豆酱",
+    "method": "炒豆酱 Fried with Bean Paste",
     "available": true,
     "SelectInfo": [
       {
