@@ -58,7 +58,7 @@ const Footer = styled.div`
 
 
 const IndexPage = () => {
-  const fishSlice = require("./data/FishSlide.json");
+  const fishSlice = require("./data/FishSlice.json");
   const fishHead = require("./data/FishHead.json");
   const prawn = require("./data/Prawn.json");
   const mantisPrawn = require("./data/Mantis Prawn.json");
