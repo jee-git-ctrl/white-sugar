@@ -1,0 +1,70 @@
+[
+  {
+    "selectInfo": "招牌豆腐 Signature Tofu",
+    "price": 8,
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小 Small",
+        "price": 8,
+        "available": true
+      },
+      {
+        "selectInfo": "大 Big Big",
+        "price": 14,
+        "available": true
+      }
+    ]
+  },
+  {
+    "selectInfo": "沙煲豆腐 Claypot Tofu",
+    "price": 8,
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小 Small",
+        "price": 8,
+        "available": true
+      },
+      {
+        "selectInfo": "大 Big Big",
+        "price": 14,
+        "available": true
+      }
+    ]
+  },
+  {
+    "selectInfo": "铁板豆腐 Sizzling Tofu",
+    "price": 12,
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小 Small",
+        "price": 12,
+        "available": true
+      },
+      {
+        "selectInfo": "大 Big",
+        "price": 16,
+        "available": true
+      }
+    ]
+  },
+  {
+    "selectInfo": "红烧豆腐 Braised Tofu",
+    "price": 8,
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小 Small",
+        "price": 8,
+        "available": true
+      },
+      {
+        "selectInfo": "大 Big Big",
+        "price": 14,
+        "available": true
+      }
+    ]
+  }
+]

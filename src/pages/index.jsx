@@ -69,7 +69,8 @@ const IndexPage = () => {
   const chicken = require("./data/Chicken.json");
   const pork = require("./data/Pork.json");
   const egg = require("./data/Egg.json");
-  const tofu = require("./data/Tofu.json");
+  const homemadeTofu = require("./data/HomemadeTofu.json");
+  const japaneseTofu = require("./data/JapaneseTofu.json")
   const soup = require("./data/Soup.json");
   const friedRice_Noodle = require("./data/FriedRice_Noodle.json");
   const rice = require("./data/Rice.json");
@@ -101,7 +102,8 @@ const IndexPage = () => {
         <ShowingFoods Name={"鸡肉 Chicken"} Foods={chicken} />
         <ShowingFoods Name={"猪肉 Pork"} Foods={pork} />
         <ShowingFoods Name={"蛋 Egg"} Foods={egg} />
-        <ShowingFoods Name={"豆腐 Tofu"} Foods={tofu} />
+        <ShowingFoods Name={"豆腐 Homemade Tofu"} Foods={homemadeTofu} />
+        <ShowingFoods Name={"日本豆腐 Japanese Tofu"} Foods={japaneseTofu} />
         <ShowingVegetable />
         <ShowingFoods Name={"汤类 Soup"} Foods={soup} />
         <ShowingFoods Name={"炒饭 / 面 Fried Rice / Noodle"} Foods={friedRice_Noodle} />
