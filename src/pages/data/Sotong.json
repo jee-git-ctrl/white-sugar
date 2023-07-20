@@ -1,147 +1,119 @@
 [
   {
-    "selectInfo": "炸苏东",
-    "price": 0,
+    "selectInfo": "炸苏东 Fried Sotong",
+    "price": 16,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": 16,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": 24,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "咖喱粉苏东",
-    "price": 0,
+    "selectInfo": "咖喱粉苏东 Curry Powder Sotong",
+    "price": 16,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": 16,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": 24,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "宫保苏东",
-    "price": 0,
+    "selectInfo": "宫保苏东 Dry Chili Sotong",
+    "price": 16,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": 16,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": 24,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "叁峇苏东",
-    "price": 0,
+    "selectInfo": "叁峇苏东 Sambal Sotong",
+    "price": 16,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": 16,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": 24,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "叁峇苏东虾",
-    "price": 0,
+    "selectInfo": "叁峇苏东虾 Sambal Sotong + Shrimp",
+    "price": 16,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": 16,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": 24,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "咖喱苏东",
-    "price": 0,
+    "selectInfo": "咖喱苏东 Curry Sotong",
+    "price": 16,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": 16,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": 24,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "冬炎苏东",
-    "price": 0,
+    "selectInfo": "冬炎苏东 Tomyam Sotong",
+    "price": 16,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": 16,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": 24,
         "available": true
       }
     ]

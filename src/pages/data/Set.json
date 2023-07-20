@@ -1,273 +1,156 @@
 [
   {
-    "selectInfo": "咕咾肉饭",
-    "price": 0,
+    "selectInfo": "咕咾肉饭 Sweet Sour Pork Rice",
+    "price": 7,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "一份 A Set",
+        "price": 7,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "排骨王饭",
-    "price": 0,
+    "selectInfo": "排骨王饭 Pork Rib King Rice",
+    "price": 7,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "一份 A Set",
+        "price": 7,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "姜丝肉饭",
-    "price": 0,
+    "selectInfo": "姜丝肉饭 Fried Pork with Ginger Rice",
+    "price": 7,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "一份 A Set",
+        "price": 7,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "宫保鸡肉饭",
-    "price": 0,
+    "selectInfo": "宫保鸡肉饭 Dry Chili Chicken Rice",
+    "price": 7,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "一份 A Set",
+        "price": 7,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "姜葱鸡肉饭",
-    "price": 0,
+    "selectInfo": "姜葱鸡肉饭 Ginger Onion Chicken Rice",
+    "price": 7,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "一份 A Set",
+        "price": 7,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "金香鸡肉饭",
-    "price": 0,
+    "selectInfo": "金香鸡肉饭 Kam Heong Chicken Rice",
+    "price": 7,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "一份 A Set",
+        "price": 7,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "香辣鸡肉饭",
-    "price": 0,
+    "selectInfo": "香辣鸡肉饭 Spicy Chicken Rice",
+    "price": 7,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "一份 A Set",
+        "price": 7,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "姜葱鱼肉饭",
-    "price": 0,
+    "selectInfo": "姜葱鱼肉饭 Ginger Onion Fish Slice Rice",
+    "price": 8,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "一份 A Set",
+        "price": 8,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "宫保鱼肉饭",
-    "price": 0,
+    "selectInfo": "宫保鱼肉饭 Dry Chili Fish Slice Rice",
+    "price": 8,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "一份 A Set",
+        "price": 8,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "金香鱼肉饭",
-    "price": 0,
+    "selectInfo": "金香鱼肉饭 Kam Heong Fish Slice Rice",
+    "price": 8,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "一份 A Set",
+        "price": 8,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "香辣鱼肉饭",
-    "price": 0,
+    "selectInfo": "香辣鱼肉饭 Spicy Fish Slice Rice",
+    "price": 8,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "一份 A Set",
+        "price": 8,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "宫保虾姑肉饭",
-    "price": 0,
+    "selectInfo": "宫保虾姑肉饭 Dry Chili Mantis Prawn Rice",
+    "price": 8,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "一份 A Set",
+        "price": 8,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "淋饭",
-    "price": 0,
+    "selectInfo": "淋饭 Braised Rice",
+    "price": 6,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "一份 A Set",
+        "price": 6,
         "available": true
       }
     ]

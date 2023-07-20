@@ -1,21 +1,17 @@
 [
   {
-    "selectInfo": "炸软壳蟹",
-    "price": 0,
+    "selectInfo": "炸软壳蟹 Fried Soft Shell Crab",
+    "price": 16,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "小 Small",
+        "price": 16,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "大 Big",
+        "price": 30,
         "available": true
       }
     ]

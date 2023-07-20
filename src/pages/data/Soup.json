@@ -1,147 +1,84 @@
 [
   {
-    "selectInfo": "枸杞汤（炖）",
+    "selectInfo": "枸杞汤（炖） Herba Soup",
     "price": 5,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "一份 A Set",
+        "price": 5,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "咸菜苦瓜汤（炖）",
+    "selectInfo": "咸菜苦瓜汤（炖） Salted Vegetable + Bitter Gourd Soup",
     "price": 5,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "一份 A Set",
+        "price": 5,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "咸菜豆腐汤",
+    "selectInfo": "咸菜豆腐汤 Salted Vegetable + Tofu Soup",
     "price": 5,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "一份 A Set",
+        "price": 5,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "杂菜汤",
+    "selectInfo": "杂菜汤 Mix Vegetable Soup",
     "price": 5,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "一份 A Set",
+        "price": 5,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "菜心汤",
+    "selectInfo": "菜心汤 Choy Sum Soup",
     "price": 5,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "一份 A Set",
+        "price": 5,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "鱼丸汤",
+    "selectInfo": "鱼丸汤 Fishball Soup",
     "price": 5,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "一份 A Set",
+        "price": 5,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "紫菜汤",
+    "selectInfo": "紫菜汤 Seaweed Soup",
     "price": 5,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
-        "available": true
-      },
-      {
-        "selectInfo": "中",
-        "price": 0,
-        "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+        "selectInfo": "一份 A Set",
+        "price": 5,
         "available": true
       }
     ]

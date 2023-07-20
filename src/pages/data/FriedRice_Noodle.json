@@ -1,252 +1,286 @@
 [
   {
-    "selectInfo": "炒饭",
-    "price": 0,
+    "selectInfo": "炒饭 Fried Rice",
+    "price": 6,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "一人份 One",
+        "price": 6,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "二人份 Two",
+        "price": 12,
         "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+      },
+      {
+        "selectInfo": "三人份 Three",
+        "price": 18,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "叁峇炒饭",
-    "price": 0,
+    "selectInfo": "叁峇炒饭 Sambal Fried Rice",
+    "price": 7,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "一人份 One",
+        "price": 7,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "二人份 Two",
+        "price": 14,
         "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+      },
+      {
+        "selectInfo": "三人份 Three",
+        "price": 21,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "咸鱼炒饭",
-    "price": 0,
+    "selectInfo": "咸鱼炒饭 Salted Fish Fried Rice",
+    "price": 7,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "一人份 One",
+        "price": 7,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "二人份 Two",
+        "price": 14,
         "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+      },
+      {
+        "selectInfo": "三人份 Three",
+        "price": 21,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "鸳鸯",
-    "price": 0,
+    "selectInfo": "鸳鸯 Kuey Teow Basah",
+    "price": 6,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "一人份 One",
+        "price": 6,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "二人份 Two",
+        "price": 12,
         "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+      },
+      {
+        "selectInfo": "三人份 Three",
+        "price": 18,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "鸳鸯干",
-    "price": 0,
+    "selectInfo": "鸳鸯干 Kuey Teow Goreng",
+    "price": 6,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "一人份 One",
+        "price": 6,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "二人份 Two",
+        "price": 12,
         "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+      },
+      {
+        "selectInfo": "三人份 Three",
+        "price": 18,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "生面",
-    "price": 0,
+    "selectInfo": "生面 Noodle",
+    "price": 6,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "一人份 One",
+        "price": 6,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "二人份 Two",
+        "price": 12,
         "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+      },
+      {
+        "selectInfo": "三人份 Three",
+        "price": 18,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "沙煲面",
-    "price": 0,
+    "selectInfo": "生面干 Fried Noodle",
+    "price": 6,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "一人份 One",
+        "price": 6,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "二人份 Two",
+        "price": 12,
         "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+      },
+      {
+        "selectInfo": "三人份 Three",
+        "price": 18,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "米粉干",
-    "price": 0,
+    "selectInfo": "沙煲面 Claypot Noodle",
+    "price": 7,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "一人份 One",
+        "price": 7,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "二人份 Two",
+        "price": 14,
         "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+      },
+      {
+        "selectInfo": "三人份 Three",
+        "price": 21,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "米粉湿",
-    "price": 0,
+    "selectInfo": "米粉干 Fried Bihun",
+    "price": 6,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "一人份 One",
+        "price": 6,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "二人份 Two",
+        "price": 12,
         "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+      },
+      {
+        "selectInfo": "三人份 Three",
+        "price": 18,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "咸鱼米粉",
-    "price": 0,
+    "selectInfo": "米粉湿 Bihun Basah",
+    "price": 6,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "一人份 One",
+        "price": 6,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "二人份 Two",
+        "price": 12,
         "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+      },
+      {
+        "selectInfo": "三人份 Three",
+        "price": 18,
         "available": true
       }
     ]
   },
   {
-    "selectInfo": "叁峇米粉",
-    "price": 0,
+    "selectInfo": "咸鱼米粉 Salted Fish Fried Bihun",
+    "price": 7,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "一人份 One",
+        "price": 7,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "二人份 Two",
+        "price": 14,
         "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+      },
+      {
+        "selectInfo": "三人份 Three",
+        "price": 21,
+        "available": true
+      }
+    ]
+  },
+  {
+    "selectInfo": "叁峇米粉 Sambal Bihun",
+    "price": 7,
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "一人份 One",
+        "price": 7,
+        "available": true
+      },
+      {
+        "selectInfo": "二人份 Two",
+        "price": 14,
+        "available": true
+      },
+      {
+        "selectInfo": "三人份 Three",
+        "price": 21,
         "available": true
       }
     ]
   },
   {
     "selectInfo": "星洲米粉",
-    "price": 0,
+    "price": 6,
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小",
-        "price": 0,
+        "selectInfo": "一人份 One",
+        "price": 6,
         "available": true
       },
       {
-        "selectInfo": "中",
-        "price": 0,
+        "selectInfo": "二人份 Two",
+        "price": 12,
         "available": true
-      },{
-        "selectInfo": "大",
-        "price": 0,
+      },
+      {
+        "selectInfo": "三人份 Three",
+        "price": 18,
         "available": true
       }
     ]
