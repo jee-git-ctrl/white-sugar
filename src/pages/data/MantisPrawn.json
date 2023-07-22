@@ -3,22 +3,22 @@
     "selectInfo": "黄金虾姑肉 Salted Egg Mantis Prawn",
     "price": 15,
     "available": true,
-   "SelectInfo": [
-      {
-        "selectInfo": "小 Small",
-        "price": 15,
-        "available": true
-      },
-      {
-        "selectInfo": "中 Medium",
-        "price": 25,
-        "available": true
-      },{
-        "selectInfo": "大 Big",
-        "price": 35,
-        "available": true
-      }
-    ]
+    "SelectInfo": [
+        {
+          "selectInfo": "小 Small",
+          "price": 15,
+          "available": true
+        },
+        {
+          "selectInfo": "中 Medium",
+          "price": 25,
+          "available": true
+        },{
+          "selectInfo": "大 Big",
+          "price": 35,
+          "available": true
+        }
+      ]
   },
   {
     "selectInfo": "宫保虾姑肉 Dry Chili Mantis Prawn",

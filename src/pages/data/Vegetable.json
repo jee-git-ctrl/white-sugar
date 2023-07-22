@@ -3,148 +3,293 @@
     "name": "番薯叶 Potato Leaves",
     "price": 8,
     "available": true,
-    "SelectInfo": [
-      {
-        "selectInfo": "清炒",
-        "price": 8,
-        "available": true
-      },
-      {
-        "selectInfo": "叁峇",
-        "price": 8,
-        "available": true
-      }
-    ]
+    "SelectInfo": {
+      "methods": [
+        {
+          "selectMethod": "清炒", 
+          "available": true
+        },
+        {
+          "selectMethod": "叁峇", 
+          "available": true
+        }
+      ],
+      "prices": [
+        {
+          "selectInfo": "小 Small",
+          "price": 8,
+          "available": true
+        },
+        {
+          "selectInfo": "中 Medium",
+          "price": 12,
+          "available": true
+        },{
+          "selectInfo": "大 Big",
+          "price": 16,
+          "available": true
+        }
+      ]
+    }
   },
   {
     "name": "芥兰 Kai Lan",
     "price": 8,
     "available": true,
-    "SelectInfo": [
-      {
-        "selectInfo": "清炒",
-        "price": 8,
-        "available": true
-      },
-      {
-        "selectInfo": "咸鱼",
-        "price": 8,
-        "available": true
-      },
-      {
-        "selectInfo": "炒杂",
-        "price": 8,
-        "available": true
-      }
-    ]
+    "SelectInfo": {
+      "methods": [
+        {
+          "selectMethod": "清炒", 
+          "available": true
+        },
+        {
+          "selectMethod": "炒杂", 
+          "available": true
+        },
+        {
+          "selectMethod": "咸鱼", 
+          "available": true
+        }
+      ],
+      "prices": [
+        {
+          "selectInfo": "小 Small",
+          "price": 8,
+          "available": true
+        },
+        {
+          "selectInfo": "中 Medium",
+          "price": 12,
+          "available": true
+        },{
+          "selectInfo": "大 Big",
+          "price": 16,
+          "available": true
+        }
+      ]
+    }
   },
   {
     "name": "菜心 Choy Sum",
     "price": 8,
     "available": true,
-    "SelectInfo": [
-      {
-        "selectInfo": "清炒",
-        "price": 8,
-        "available": true
-      },
-      {
-        "selectInfo": "咸鱼",
-        "price": 8,
-        "available": true
-      },
-      {
-        "selectInfo": "炒杂",
-        "price": 8,
-        "available": true
-      }
-    ]
+    "SelectInfo": {
+      "methods": [
+        {
+          "selectMethod": "清炒", 
+          "available": true
+        },
+        {
+          "selectMethod": "炒杂", 
+          "available": true
+        },
+        {
+          "selectMethod": "咸鱼", 
+          "available": true
+        }
+      ],
+      "prices": [
+        {
+          "selectInfo": "小 Small",
+          "price": 8,
+          "available": true
+        },
+        {
+          "selectInfo": "中 Medium",
+          "price": 12,
+          "available": true
+        },{
+          "selectInfo": "大 Big",
+          "price": 16,
+          "available": true
+        }
+      ]
+    }
   },
   {
     "name": "豆芽 Tauge",
     "price": 8,
     "available": true,
-    "SelectInfo": [
-      {
-        "selectInfo": "清炒",
-        "price": 8,
-        "available": true
-      },
-      {
-        "selectInfo": "咸鱼",
-        "price": 8,
-        "available": true
-      }
-    ]
+    "SelectInfo": {
+      "methods": [
+        {
+          "selectMethod": "清炒", 
+          "available": true
+        },
+        {
+          "selectMethod": "咸鱼", 
+          "available": true
+        }
+      ],
+      "prices": [
+        {
+          "selectInfo": "小 Small",
+          "price": 8,
+          "available": true
+        },
+        {
+          "selectInfo": "中 Medium",
+          "price": 12,
+          "available": true
+        },{
+          "selectInfo": "大 Big",
+          "price": 16,
+          "available": true
+        }
+      ]
+    }
   },
   {
     "name": "苦瓜 Bitter Gourd",
     "price": 8,
     "available": true,
-    "SelectInfo": [
-      {
-        "selectInfo": "炒豆酱",
-        "price": 8,
-        "available": true
-      },
-      {
-        "selectInfo": "炒蛋",
-        "price": 8,
-        "available": true
-      },
-      {
-        "selectInfo": "炒杂",
-        "price": 8,
-        "available": true
-      }
-    ]
+    "SelectInfo": {
+      "methods": [
+        {
+          "selectMethod": "炒豆酱", 
+          "available": true
+        },
+        {
+          "selectMethod": "炒蛋", 
+          "available": true
+        },
+        {
+          "selectMethod": "炒杂", 
+          "available": true
+        }
+      ],
+      "prices": [
+        {
+          "selectInfo": "小 Small",
+          "price": 8,
+          "available": true
+        },
+        {
+          "selectInfo": "中 Medium",
+          "price": 12,
+          "available": true
+        },{
+          "selectInfo": "大 Big",
+          "price": 16,
+          "available": true
+        }
+      ]
+    }
   },
   {
     "name": "罗汉斋 Lohan Vege",
     "price": 15,
     "available": true,
-    "SelectInfo": [
-      {
-        "selectInfo": "炒杂",
-        "price": 15,
-        "available": true
-      }
-    ]
+    "SelectInfo": {
+      "methods": [
+        {
+          "selectMethod": "炒杂", 
+          "available": true
+        }
+      ],
+      "prices": [
+        {
+          "selectInfo": "小 Small",
+          "price": 15,
+          "available": true
+        },
+        {
+          "selectInfo": "中 Medium",
+          "price": 18,
+          "available": true
+        },{
+          "selectInfo": "大 Big",
+          "price": 21,
+          "available": true
+        }
+      ]
+    }
   },
   {
     "name": "茄子 Eggplant",
     "price": 8,
     "available": true,
-    "SelectInfo": [
-      {
-        "selectInfo": "炒杂",
-        "price": 8,
-        "available": true
-      }
-    ]
+    "SelectInfo": {
+      "methods": [
+        {
+          "selectMethod": "炒杂", 
+          "available": true
+        }
+      ],
+      "prices": [
+        {
+          "selectInfo": "小 Small",
+          "price": 8,
+          "available": true
+        },
+        {
+          "selectInfo": "中 Medium",
+          "price": 12,
+          "available": true
+        },{
+          "selectInfo": "大 Big",
+          "price": 16,
+          "available": true
+        }
+      ]
+    }
   },
   {
     "name": "乌龟豆（四季豆） Green Bean",
     "price": 10,
     "available": true,
-    "SelectInfo": [
-      {
-        "selectInfo": "炒虾米",
-        "price": 10,
-        "available": true
-      }
-    ]
+    "SelectInfo": {
+      "methods": [
+        {
+          "selectMethod": "炒虾米", 
+          "available": true
+        }
+      ],
+      "prices": [
+        {
+          "selectInfo": "小 Small",
+          "price": 10,
+          "available": true
+        },
+        {
+          "selectInfo": "中 Medium",
+          "price": 15,
+          "available": true
+        },{
+          "selectInfo": "大 Big",
+          "price": 20,
+          "available": true
+        }
+      ]
+    }
   },
   {
     "name": "青龙菜",
     "price": 0,
     "available": false,
-    "SelectInfo": [
-      {
-        "selectInfo": "炒杂",
-        "price": 0,
-        "available": false
-      }
-    ]
+    "SelectInfo": {
+      "methods": [
+        {
+          "selectMethod": "炒杂", 
+          "available": true
+        }
+      ],
+      "prices": [
+        {
+          "selectInfo": "小 Small",
+          "price": 8,
+          "available": true
+        },
+        {
+          "selectInfo": "中 Medium",
+          "price": 12,
+          "available": true
+        },{
+          "selectInfo": "大 Big",
+          "price": 16,
+          "available": true
+        }
+      ]
+    }
   }
 ]
