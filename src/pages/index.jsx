@@ -2,7 +2,7 @@ import * as React from "react";
 import styled from 'styled-components';
 import SideBar from "./components/Sidebar";
 import ShowingFish from "./components/ShowingFish";
-import ShowingVegetable from "./components/ShowingVegetable";
+import ShowingVegetable from "./components/Vegetable/ShowingVegetable";
 import ShowingFoods from "./components/ShowingFoods";
 
 const Main = styled.div`
@@ -61,7 +61,7 @@ const IndexPage = () => {
   const fishSlice = require("./data/FishSlice.json");
   const fishHead = require("./data/FishHead.json");
   const prawn = require("./data/Prawn.json");
-  const mantisPrawn = require("./data/Mantis Prawn.json");
+  const mantisPrawn = require("./data/MantisPrawn.json");
   const sotong = require("./data/Sotong.json");
   const softShellCrab = require("./data/SoftShellCrab.json");
   const duck = require("./data/Duck.json");

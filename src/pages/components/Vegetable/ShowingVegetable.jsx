@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import styled from "styled-components";
-import Vegetable from "../data/Vegetable.json";
+import Vegetable from "../../data/Vegetable.json";
 import ShowingDetails from "./ShowingDetails";
 
 const Box = styled.div`
