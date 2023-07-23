@@ -35,10 +35,14 @@ const ShowUnavailable = styled.div`
 `;
 
 const SplitName = (Name) => {
-  const num = Name.indexOf(" ");
-  const name = Name.split(" ", 1);
-  const englishName = Name.substr(num+1);
-  return [name[0], englishName];
+  if(Name !== null) {
+    const num = Name.indexOf(" ");
+    const name = Name.split(" ", 1);
+    const englishName = Name.substr(num+1);
+    
+    return [name[0], englishName];
+  }
+  return "";
 }
 
 const ShowingFoods = ({ Name, Foods }) => {
