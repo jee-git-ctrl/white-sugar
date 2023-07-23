@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 import Vegetable from "../../data/Vegetable.json";
-import ShowingDetails from "./ShowingDetails";
+import ShowingVegeDetails from "./ShowingVegeDetails";
 
 const Box = styled.div`
   font-size: 1.5em;
@@ -76,7 +76,7 @@ const ShowingVegetable = () => {
     </Box>
 
     {isDetailVisible && 
-      <ShowingDetails Title={selectedFoodName} Details={selectedFoodInfo} Visible={setIsDetailVisible} />
+      <ShowingVegeDetails Title={selectedFoodName} Details={selectedFoodInfo} Visible={setIsDetailVisible} />
     }
     </>
   )

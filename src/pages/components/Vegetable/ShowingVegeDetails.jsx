@@ -42,6 +42,10 @@ const ShowAvailable = styled.div`
   justify-content: space-between;
   padding: 2px 1%;
   color: #000;
+
+  &:last-child {
+    border-bottom: 1px solid #999;
+  }
 `;
 const ShowUnavailable = styled.div`
   font-size: 1.5em;
@@ -50,6 +54,10 @@ const ShowUnavailable = styled.div`
   justify-content: space-between;
   padding: 2px 1%;
   color: rgb(0, 0, 0, 0.4);
+  
+  &:last-child {
+    border-bottom: 1px solid #999;
+  }
 `;
 const MethodBox = styled.div``;
 const MethodTitle = styled.div`
@@ -61,13 +69,7 @@ font-size: 1.6em;
 `;
 
 const ShowingDetails = ({ Title, Details, Visible }) => {
-  console.log(Details);
-  const { methods = [
-    {
-      "selectMethod": "", 
-      "available": true
-    }
-  ], prices } = Details;
+  const { methods, prices } = Details;
   const checkClose = useRef();
 
   useEffect(() => {
