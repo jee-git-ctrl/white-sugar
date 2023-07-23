@@ -61,7 +61,8 @@ font-size: 1.6em;
 `;
 
 const ShowingDetails = ({ Title, Details, Visible }) => {
-  const { methods, prices } = Details;
+  console.log(Details);
+  const { methods = [], prices } = Details;
   const checkClose = useRef();
 
   useEffect(() => {
