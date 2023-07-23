@@ -38,7 +38,7 @@ const ShowUnavailable = styled.div`
 const ShowingVegetable = () => {
   const [isDetailVisible, setIsDetailVisible] = useState(false);
   const [selectedFoodName, setSelectedFoodName] = useState("");
-  const [selectedFoodInfo, setSelectedFoodInfo] = useState([]);
+  const [selectedFoodInfo, setSelectedFoodInfo] = useState({});
   
   const handleFoodSelected = (name, info) => {
     setSelectedFoodName(() => name);

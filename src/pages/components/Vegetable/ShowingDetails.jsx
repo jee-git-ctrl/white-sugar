@@ -38,7 +38,6 @@ const CloseBox = styled.div`
 const ShowAvailable = styled.div`
   font-size: 1.5em;
   border-top: 1px solid #999;
-  border-bottom: 1px solid #999;
   display: flex;
   justify-content: space-between;
   padding: 2px 1%;
@@ -53,9 +52,13 @@ const ShowUnavailable = styled.div`
   color: rgb(0, 0, 0, 0.4);
 `;
 const MethodBox = styled.div``;
-const MethodTitle = styled.div``;
+const MethodTitle = styled.div`
+  font-size: 1.6em;
+`;
 const PricesBox = styled.div``;
-const PricesTitle = styled.div``;
+const PricesTitle = styled.div`
+font-size: 1.6em;
+`;
 
 const ShowingDetails = ({ Title, Details, Visible }) => {
   const { methods, prices } = Details;
