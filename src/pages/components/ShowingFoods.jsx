@@ -34,22 +34,10 @@ const ShowUnavailable = styled.div`
   opacity: 0.4;
 `;
 
-const SplitName = (Name) => {
-  if(Name !== null) {
-    const num = Name.indexOf(" ");
-    const name = Name.split(" ", 1);
-    const englishName = Name.substr(num+1);
-    
-    return [name[0], englishName];
-  }
-  return "";
-}
-
-const ShowingFoods = ({ Name, Foods }) => {
+const ShowingFoods = ({ Name, EnglishName, Foods }) => {
   const [isDetailVisible, setIsDetailVisible] = useState(false);
   const [selectedFoodName, setSelectedFoodName] = useState("");
   const [selectedFoodInfo, setSelectedFoodInfo] = useState([]);
-  const [name, englishName] = SplitName(Name);
   
   const handleFoodSelected = (name, info) => {
     setSelectedFoodName(() => name);
@@ -59,8 +47,8 @@ const ShowingFoods = ({ Name, Foods }) => {
 
   return (
     <>
-    <Title id={englishName}>
-      {name} {englishName}
+    <Title id={EnglishName}>
+      {Name} {EnglishName}
     </Title>
     <Box>
       {Foods && Foods.map(food => {
