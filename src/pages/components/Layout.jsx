@@ -1,19 +1,21 @@
 import React from "react";
+import SideBar from "../components/Sidebar";
 import styled from "styled-components";
 
 const Header = styled.h1`
-  grid-area: head;
   height: fit-content;
   min-height: 10vh;
   margin: 0;
 `;
+const Side = styled.div`
+  overflow-y: auto;
+`;
 const Children = styled.div`
   margin: 0 auto;
-  maxWidth: 90%;
+  maxWidth: 100%;
   padding: 0 1rem;
 `;
 const Footer = styled.div`
-  grid-area: foot;
   height: 25px;
   width: 100%;
   display: flex;
@@ -31,6 +33,10 @@ export default function Layout({ children }) {
       <br />
       White Sugar Seafood Restaurant
     </Header>
+
+    <Side>
+      <SideBar />
+    </Side>
 
     <Children>
       {children}

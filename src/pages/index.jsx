@@ -1,62 +1,12 @@
 import * as React from "react";
 import styled from 'styled-components';
-import SideBar from "./components/Sidebar";
 import ShowingFish from "./components/ShowingFish";
 import ShowingVegetable from "./components/Vegetable/ShowingVegetable";
 import ShowingFoods from "./components/ShowingFoods";
+import Layout from "./components/Layout";
 
-const Main = styled.div`
-  display: grid;
-  grid-template-areas: 
-  "head head head"
-  "side info info"
-  "side info info"
-  "foot foot foot";
-  grid-template-columns: 1fr 1.5fr 1.5fr;
-  overflow: hidden;
-`;
-const Heading = styled.h1`
-  grid-area: head;
-  height: fit-content;
-  min-height: 10vh;
-  margin: 0;
-
-`;
-const Side = styled.div`
-  grid-area: side;
-  height: 86vh;
-  overflow-x: auto;
-
-  @media only screen and (min-width: 768px) {
-    height: 89vh;
-  }
-`;
 const Info = styled.div`
-  grid-area: info;
-  height: 86vh;
-  margin-left: 1%;
   overflow-x: auto;
-
-  @media only screen and (min-width: 768px) {
-    height: 89vh;
-  }
-`;
-const Footer = styled.div`
-  grid-area: foot;
-  height: 25px;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: #999;
-  color: white;
-
-  @media only screen and (min-width: 768px) {
-    height: 3vh;
-  }
-`;
-const Navbar = styled.div`
-  display: flex;
 `;
 
 const IndexPage = () => {
@@ -81,17 +31,7 @@ const IndexPage = () => {
   const others = require("./data/Others.json");
 
   return (
-    <Main>
-      <Heading>
-        白糖海鲜
-        <br />
-        White Sugar Seafood Restaurant
-      </Heading>
-
-      <Side>
-        <SideBar />
-      </Side>
-
+    <Layout>
       <Info>
         <ShowingFish />
         <ShowingFoods Name={"鱼片 Fish Slice"} Foods={fishSlice} />
@@ -115,11 +55,7 @@ const IndexPage = () => {
         <ShowingFoods Name={"其他 Others"} Foods={others} />
 
       </Info>
-
-      <Footer>
-        © 2023 WHITE SUGAR RESTAURANT
-      </Footer>
-    </Main>
+    </Layout>
   )
 }
 
