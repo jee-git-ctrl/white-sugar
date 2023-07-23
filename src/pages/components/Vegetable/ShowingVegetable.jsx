@@ -48,7 +48,7 @@ const ShowingVegetable = () => {
 
   return (
     <>
-    <Title id="菜类 Vegetable">
+    <Title id="Vegetable">
       菜类 Vegetable
     </Title>
     <Box>

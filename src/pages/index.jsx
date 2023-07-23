@@ -48,7 +48,7 @@ const IndexPage = () => {
         <ShowingFoods Name={"日本豆腐 Japanese Tofu"} Foods={japaneseTofu} />
         <ShowingVegetable />
         <ShowingFoods Name={"汤类 Soup"} Foods={soup} />
-        <ShowingFoods Name={"炒饭 / 面 Fried Rice / Noodle"} Foods={friedRice_Noodle} />
+        <ShowingFoods Name={"炒饭/面 FriedRice&Noodle"} Foods={friedRice_Noodle} />
         <ShowingFoods Name={"白饭 Rice"} Foods={rice} />
         <ShowingFoods Name={"套餐 Set"} Foods={set } />
         <ShowingFoods Name={"其他 Others"} Foods={others} />

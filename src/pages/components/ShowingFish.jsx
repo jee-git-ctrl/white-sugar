@@ -48,7 +48,7 @@ const ShowingFish = () => {
 
   return (
     <>
-    <Title id="鱼类 Fish">
+    <Title id="Fish">
       鱼类 Fish
     </Title>
     <Box>
