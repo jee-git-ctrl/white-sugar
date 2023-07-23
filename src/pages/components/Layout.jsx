@@ -1,5 +1,5 @@
 import React from "react";
-import SideBar from "../components/Sidebar";
+import NavBar from "./NavBar";
 import styled from "styled-components";
 
 const Header = styled.h1`
@@ -35,7 +35,7 @@ export default function Layout({ children }) {
     </Header>
 
     <Side>
-      <SideBar />
+      <NavBar />
     </Side>
 
     <Children>
