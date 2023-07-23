@@ -62,7 +62,12 @@ font-size: 1.6em;
 
 const ShowingDetails = ({ Title, Details, Visible }) => {
   console.log(Details);
-  const { methods = [], prices } = Details;
+  const { methods = [
+    {
+      "selectMethod": "", 
+      "available": true
+    }
+  ], prices } = Details;
   const checkClose = useRef();
 
   useEffect(() => {
