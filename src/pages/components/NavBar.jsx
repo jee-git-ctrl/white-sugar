@@ -9,7 +9,6 @@ const Bar = styled.div`
   }
 `;
 const ShowingType = styled.a`
-  border: 1px solid #a8a9ab;
   border-radius: 5px;
   width: fit-content;
   font-size: 1.3em;
