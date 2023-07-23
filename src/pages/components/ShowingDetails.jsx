@@ -9,8 +9,9 @@ const Outline = styled.div`
   top: 0;
   left: 0;
   width: 100%;
-  height: 110%;
+  height: 100vh;
   z-index: 20;
+  overflow: hidden;
 `;
 const InfoBox = styled.div`
   position: relative;

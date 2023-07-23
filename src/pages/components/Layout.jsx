@@ -2,18 +2,18 @@ import React from "react";
 import NavBar from "./NavBar";
 import styled from "styled-components";
 
+const Container = styled.div`
+  max-height: 100vh;
+  overflow: auto;
+`;
 const Header = styled.h1`
   height: fit-content;
   min-height: 10vh;
   margin: 0;
 `;
-const Side = styled.div`
-  overflow-y: auto;
-`;
 const Children = styled.div`
   margin: 0 auto;
   maxWidth: 100%;
-  padding: 0 1rem;
 `;
 const Footer = styled.div`
   height: 25px;
@@ -27,24 +27,22 @@ const Footer = styled.div`
 
 export default function Layout({ children }) {
   return (
-    <>
-    <Header>
-      白糖海鲜
-      <br />
-      White Sugar Seafood Restaurant
-    </Header>
+    <Container>
+      <Header>
+        白糖海鲜
+        <br />
+        White Sugar Seafood Restaurant
+      </Header>
 
-    <Side>
       <NavBar />
-    </Side>
 
-    <Children>
-      {children}
-    </Children>
+      <Children>
+        {children}
+      </Children>
 
-    <Footer>
-      © 2023 WHITE SUGAR SEAFOOD RESTAURANT
-    </Footer>
-    </>
+      <Footer>
+        © 2023 WHITE SUGAR SEAFOOD RESTAURANT
+      </Footer>
+    </Container>
   )
 }
