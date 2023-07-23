@@ -10,7 +10,6 @@ const Info = styled.div`
 `;
 
 const IndexPage = () => {
-  const type = require("./data/Type.json");
   const fishSlice = require("./data/FishSlice.json");
   const fishHead = require("./data/FishHead.json");
   const prawn = require("./data/Prawn.json");
