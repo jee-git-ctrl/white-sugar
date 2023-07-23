@@ -24,7 +24,7 @@ const IndexPage = () => {
   const homemadeTofu = require("./data/HomemadeTofu.json");
   const japaneseTofu = require("./data/JapaneseTofu.json")
   const soup = require("./data/Soup.json");
-  const friedRice_Noodle = require("./data/FriedRice_Noodle.json");
+  const friedRice_Noodle = require("./data/FriedRice&Noodle.json");
   const rice = require("./data/Rice.json");
   const set = require("./data/Set.json");
   const others = require("./data/Others.json");

@@ -3,7 +3,7 @@ import ShowingFoods from "../components/ShowingFoods";
 import Layout from "../components/Layout";
 
 export default function FriedRice_Noodle() {
-  const friedRice_Noodle = require("../data/FriedRice_Noodle.json");
+  const friedRice_Noodle = require("../data/FriedRice&Noodle.json");
 
   return (
     <Layout>
