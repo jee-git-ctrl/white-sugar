@@ -1,62 +1,82 @@
 [
   {
-    "name": "鱼类 Fish"
+    "name": "鱼类",
+    "englishName": "Fish"
   },
   {
-    "name": "鱼片 Fish Slice"
+    "name": "鱼片",
+    "englishName": "Fish Slice"
   },
   {
-    "name": "鱼头 Fish Head"
+    "name": "鱼头",
+    "englishName": "Fish Head"
   },
   {
-    "name": "虾类 Prawn"
+    "name": "虾类",
+    "englishName": "Prawn"
   },
   {
-    "name": "虾姑肉 Mantis Prawn"
+    "name": "虾姑肉",
+    "englishName": "Mantis Prawn"
   },
   {
-    "name": "苏东 Sotong"
+    "name": "苏东",
+    "englishName": "Sotong"
   },
   {
-    "name": "软壳蟹 Soft Shell Crab"
+    "name": "软壳蟹",
+    "englishName": "Soft Shell Crab"
   },
   {
-    "name": "鸭类 Duck"
+    "name": "鸭类",
+    "englishName": "Duck"
   },
   {
-    "name": "田鸡 Frog"
+    "name": "田鸡",
+    "englishName": "Frog"
   },
   {
-    "name": "鸡肉 Chicken"
+    "name": "鸡肉",
+    "englishName": "Chicken"
   },
   {
-    "name": "猪肉 Pork"
+    "name": "猪肉",
+    "englishName": "Pork"
   },
   {
-    "name": "蛋 Egg"
+    "name": "蛋",
+    "englishName": "Egg"
   },
   {
-    "name": "豆腐 Homemade Tofu"
+    "name": "豆腐",
+    "englishName": "Homemade Tofu"
   },
   {
-    "name": "日本豆腐 Japanese Tofu"
+    "name": "日本豆腐",
+    "englishName": "Japanese Tofu"
   },
   {
-    "name": "菜类 Vegetable"
+    "name": "菜类",
+    "englishName": "Vegetable"
   },
   {
-    "name": "汤类 Soup"
+    "name": "汤类",
+    "englishName": "Soup"
   },
   {
-    "name": "炒饭 / 面 Fried Rice / Noodle"
+    "name": "炒饭 / 面",
+    "englishName": "Fried Rice / Noodle"
   },
   {
-    "name": "白饭 Rice"
+    "name": "白饭",
+    "englishName": "Rice"
   },
   {
-    "name": "套餐 Set"
+    "name": "套餐",
+    "englishName": "Set"
   },
   {
-    "name": "其他 Others"
+    "name": "其他",
+    "englishName": "Others"
   }
 ]
