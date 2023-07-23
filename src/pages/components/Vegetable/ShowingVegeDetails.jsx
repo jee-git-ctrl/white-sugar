@@ -69,7 +69,22 @@ font-size: 1.6em;
 `;
 
 const ShowingDetails = ({ Title, Details, Visible }) => {
-  const { methods, prices } = Details ? Details : null;
+  const { methods, prices } = Details ? Details : 
+  { 
+    "methods": [
+      {
+        "selectMethod": "NA", 
+        "available": true
+      }
+    ],
+    "prices": [
+      {
+        "selectInfo": "NA",
+        "price": "NA",
+        "available": true
+      }
+    ]
+  };
   const checkClose = useRef();
 
   useEffect(() => {
