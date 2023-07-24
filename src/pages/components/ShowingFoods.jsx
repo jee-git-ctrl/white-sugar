@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 import ShowingDetails from "./ShowingDetails";
+import chicken from "../img/Chicken/Boiled Chicken.jpg";
 
 const Box = styled.div`
   font-size: 1.5em;
@@ -25,6 +26,9 @@ const ShowAvailable = styled.div`
   border-radius: 5px;
   margin: 2px 0;
   cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 `;
 const ShowUnavailable = styled.div`
   width: 98%;
@@ -32,6 +36,22 @@ const ShowUnavailable = styled.div`
   border-radius: 5px;
   margin: 2px 0;
   opacity: 0.4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+`;
+const FoodPhoto = styled.img`
+  border-radius: 40px;
+  width: 30%;
+  margin: 0 10%;
+
+  @media only screen and (min-width: 768px) {
+    border-radius: 20px;
+  }
+`;
+const PriceText = styled.div`
+  align-self: start;
+  margin-left: 5%;
 `;
 
 const ShowingFoods = ({ Name, EnglishName, Foods }) => {
@@ -51,23 +71,28 @@ const ShowingFoods = ({ Name, EnglishName, Foods }) => {
       {Name} {EnglishName}
     </Title>
     <Box>
+
       {Foods && Foods.map(food => {
-        const { selectInfo, price, available, SelectInfo } = food;
+        const { selectInfo, price, available, image, SelectInfo } = food;
 
         if(available) {
           return (
             <ShowAvailable key={selectInfo} onClick={() => handleFoodSelected(selectInfo, SelectInfo)}>
+              {image ? <FoodPhoto src={chicken} alt="" /> : null}
               {selectInfo}
-              <br/>
-              RM {price}++
+              <PriceText>
+                RM {price}++  
+              </PriceText>
             </ShowAvailable>
           );
         } else {
           return (
             <ShowUnavailable key={selectInfo}>
+              {image ? <FoodPhoto src={chicken} alt="" /> : null}
               {selectInfo}
-              <br/>
-              RM {price}++
+              <PriceText>
+                RM {price}++  
+              </PriceText>
             </ShowUnavailable>
           );
         }
