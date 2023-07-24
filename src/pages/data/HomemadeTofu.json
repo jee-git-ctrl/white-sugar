@@ -3,6 +3,7 @@
     "selectInfo": "招牌豆腐 Signature Tofu",
     "price": 8,
     "available": true,
+    "image": "src/pages/img/Homemade Tofu/Signature Tofu.jpg",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -20,6 +21,7 @@
     "selectInfo": "沙煲豆腐 Claypot Tofu",
     "price": 8,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -37,6 +39,7 @@
     "selectInfo": "铁板豆腐 Sizzling Tofu",
     "price": 12,
     "available": true,
+    "image": "src/pages/img/Homemade Tofu/Sizzling Tofu.jpg",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -54,6 +57,7 @@
     "selectInfo": "红烧豆腐 Braised Tofu",
     "price": 8,
     "available": true,
+    "image": "src/pages/img/Homemade Tofu/Braised Tofu.jpg",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",

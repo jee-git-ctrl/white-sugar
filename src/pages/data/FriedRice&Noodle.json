@@ -3,6 +3,7 @@
     "selectInfo": "炒饭 Fried Rice",
     "price": 6,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
@@ -25,6 +26,7 @@
     "selectInfo": "叁峇炒饭 Sambal Fried Rice",
     "price": 7,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
@@ -47,6 +49,7 @@
     "selectInfo": "咸鱼炒饭 Salted Fish Fried Rice",
     "price": 7,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
@@ -69,6 +72,7 @@
     "selectInfo": "鸳鸯 Kuey Teow Basah",
     "price": 6,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
@@ -91,6 +95,7 @@
     "selectInfo": "鸳鸯干 Kuey Teow Goreng",
     "price": 6,
     "available": true,
+    "image": "src/pages/img/FriedRice&Noodle/Kuey Teow Goreng.jpg",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
@@ -113,6 +118,7 @@
     "selectInfo": "生面 Noodle",
     "price": 6,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
@@ -135,6 +141,7 @@
     "selectInfo": "生面干 Fried Noodle",
     "price": 6,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
@@ -157,6 +164,7 @@
     "selectInfo": "沙煲面 Claypot Noodle",
     "price": 7,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
@@ -179,6 +187,7 @@
     "selectInfo": "米粉干 Fried Bihun",
     "price": 6,
     "available": true,
+    "image": "src/pages/img/FriedRice&Noodle/Fried Bihun.jpg",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
@@ -201,6 +210,7 @@
     "selectInfo": "米粉湿 Bihun Basah",
     "price": 6,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
@@ -223,6 +233,7 @@
     "selectInfo": "咸鱼米粉 Salted Fish Fried Bihun",
     "price": 7,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
@@ -245,6 +256,7 @@
     "selectInfo": "叁峇米粉 Sambal Bihun",
     "price": 7,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
@@ -264,9 +276,10 @@
     ]
   },
   {
-    "selectInfo": "星洲米粉",
+    "selectInfo": "星洲米粉 Singapore Bihun",
     "price": 6,
     "available": true,
+    "image": "src/pages/img/FriedRice&Noodle/Singapore Bihun.jpg",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",

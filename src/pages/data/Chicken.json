@@ -3,6 +3,7 @@
     "selectInfo": "百花鸡 Bai Hua Chicken",
     "price": 20,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "半只 Half",
@@ -20,6 +21,7 @@
     "selectInfo": "梅子鸡 Lemon Chicken",
     "price": 18,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "半只 Half",
@@ -37,6 +39,7 @@
     "selectInfo": "白斩鸡 Boiled Chicken",
     "price": 22,
     "available": true,
+    "image": "../img/Chicken/Boiled Chicken.jpg",
     "SelectInfo": [
       {
         "selectInfo": "半只 Half",
@@ -54,6 +57,7 @@
     "selectInfo": "炸鸡 Fried Chicken",
     "price": 12,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small Small",
@@ -64,7 +68,8 @@
         "selectInfo": "中 Medium",
         "price": 18,
         "available": true
-      },{
+      },
+      {
         "selectInfo": "大 Big Big",
         "price": 24,
         "available": true
@@ -75,6 +80,7 @@
     "selectInfo": "峇拉煎鸡 Belacan Chicken",
     "price": 12,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -85,7 +91,8 @@
         "selectInfo": "中 Medium",
         "price": 18,
         "available": true
-      },{
+      },
+      {
         "selectInfo": "大 Big",
         "price": 24,
         "available": true
@@ -96,6 +103,7 @@
     "selectInfo": "宫保鸡 Dry Chili Chicken",
     "price": 12,
     "available": true,
+    "image": "../img/Chicken/Dry Chili Chicken.jpg",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -106,7 +114,8 @@
         "selectInfo": "中 Medium",
         "price": 18,
         "available": true
-      },{
+      },
+      {
         "selectInfo": "大 Big",
         "price": 24,
         "available": true
@@ -117,6 +126,7 @@
     "selectInfo": "金香鸡 Kam Heong Chicken",
     "price": 12,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -127,7 +137,8 @@
         "selectInfo": "中 Medium",
         "price": 18,
         "available": true
-      },{
+      },
+      {
         "selectInfo": "大 Big",
         "price": 24,
         "available": true
@@ -138,6 +149,7 @@
     "selectInfo": "咖喱粉鸡 Curry Powder Chicken",
     "price": 12,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -148,7 +160,8 @@
         "selectInfo": "中 Medium",
         "price": 18,
         "available": true
-      },{
+      },
+      {
         "selectInfo": "大 Big",
         "price": 24,
         "available": true
@@ -159,6 +172,7 @@
     "selectInfo": "黄金鸡 Salted Egg Chicken",
     "price": 12,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -169,7 +183,8 @@
         "selectInfo": "中 Medium",
         "price": 18,
         "available": true
-      },{
+      },
+      {
         "selectInfo": "大 Big",
         "price": 24,
         "available": true
@@ -180,6 +195,7 @@
     "selectInfo": "香油鸡 Honey Chicken",
     "price": 12,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -190,7 +206,8 @@
         "selectInfo": "中 Medium",
         "price": 18,
         "available": true
-      },{
+      },
+      {
         "selectInfo": "大 Big",
         "price": 24,
         "available": true
@@ -201,6 +218,7 @@
     "selectInfo": "香辣鸡 Spicy Chicken",
     "price": 12,
     "available": true,
+    "image": "../img/Chicken/Spicy Chicken.jpg",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -211,7 +229,8 @@
         "selectInfo": "中 Medium",
         "price": 18,
         "available": true
-      },{
+      },
+      {
         "selectInfo": "大 Big",
         "price": 24,
         "available": true
@@ -222,6 +241,7 @@
     "selectInfo": "酸甜鸡 Sweet Sour Chicken",
     "price": 12,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -232,7 +252,8 @@
         "selectInfo": "中 Medium",
         "price": 18,
         "available": true
-      },{
+      },
+      {
         "selectInfo": "大 Big",
         "price": 24,
         "available": true
@@ -243,6 +264,7 @@
     "selectInfo": "叁峇鸡 Sambal Chicken",
     "price": 12,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -253,7 +275,8 @@
         "selectInfo": "中 Medium",
         "price": 18,
         "available": true
-      },{
+      },
+      {
         "selectInfo": "大 Big",
         "price": 24,
         "available": true

@@ -3,6 +3,7 @@
     "selectInfo": "咕咾肉饭 Sweet Sour Pork Rice",
     "price": 7,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -15,6 +16,7 @@
     "selectInfo": "排骨王饭 Pork Rib King Rice",
     "price": 7,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -27,6 +29,7 @@
     "selectInfo": "姜丝肉饭 Fried Pork with Ginger Rice",
     "price": 7,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -39,6 +42,7 @@
     "selectInfo": "宫保鸡肉饭 Dry Chili Chicken Rice",
     "price": 7,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -51,6 +55,7 @@
     "selectInfo": "姜葱鸡肉饭 Ginger Onion Chicken Rice",
     "price": 7,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -63,6 +68,7 @@
     "selectInfo": "金香鸡肉饭 Kam Heong Chicken Rice",
     "price": 7,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -75,6 +81,7 @@
     "selectInfo": "香辣鸡肉饭 Spicy Chicken Rice",
     "price": 7,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -87,6 +94,7 @@
     "selectInfo": "姜葱鱼肉饭 Ginger Onion Fish Slice Rice",
     "price": 8,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -99,6 +107,7 @@
     "selectInfo": "宫保鱼肉饭 Dry Chili Fish Slice Rice",
     "price": 8,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -111,6 +120,7 @@
     "selectInfo": "金香鱼肉饭 Kam Heong Fish Slice Rice",
     "price": 8,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -123,6 +133,7 @@
     "selectInfo": "香辣鱼肉饭 Spicy Fish Slice Rice",
     "price": 8,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -135,6 +146,7 @@
     "selectInfo": "宫保虾姑肉饭 Dry Chili Mantis Prawn Rice",
     "price": 8,
     "available": true,
+    "image": "src/pages/img/Set/Dry Chili Mantis Prawn Rice.jpg",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -147,6 +159,7 @@
     "selectInfo": "淋饭 Braised Rice",
     "price": 6,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",

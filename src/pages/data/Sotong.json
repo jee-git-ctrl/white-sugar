@@ -3,6 +3,7 @@
     "selectInfo": "炸苏东 Fried Sotong",
     "price": 16,
     "available": true,
+    "image": "src/pages/img/Sotong/Fried Sotong.jpg",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -20,6 +21,7 @@
     "selectInfo": "咖喱粉苏东 Curry Powder Sotong",
     "price": 16,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -37,6 +39,7 @@
     "selectInfo": "宫保苏东 Dry Chili Sotong",
     "price": 16,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -54,6 +57,7 @@
     "selectInfo": "叁峇苏东 Sambal Sotong",
     "price": 16,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -71,6 +75,7 @@
     "selectInfo": "叁峇苏东虾 Sambal Sotong + Shrimp",
     "price": 16,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -88,6 +93,7 @@
     "selectInfo": "咖喱苏东 Curry Sotong",
     "price": 16,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -105,6 +111,7 @@
     "selectInfo": "冬炎苏东 Tomyam Sotong",
     "price": 16,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",

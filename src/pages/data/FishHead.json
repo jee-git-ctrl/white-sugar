@@ -3,6 +3,7 @@
     "selectInfo": "亚参蒸鱼头 Asam Steamed Fish Head",
     "price": "时价",
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small Small",
@@ -13,7 +14,8 @@
         "selectInfo": "中 Medium",
         "price": "时价",
         "available": true
-      },{
+      },
+      {
         "selectInfo": "大 Big",
         "price": "时价",
         "available": true
@@ -24,6 +26,7 @@
     "selectInfo": "豆酱蒸鱼头 Bean Paste Steamed Fish Head",
     "price": "时价",
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -34,7 +37,8 @@
         "selectInfo": "中 Medium",
         "price": "时价",
         "available": true
-      },{
+      },
+      {
         "selectInfo": "大 Big",
         "price": "时价",
         "available": true
@@ -45,6 +49,7 @@
     "selectInfo": "咖喱鱼头 Curry Fish Head",
     "price": 20,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -55,7 +60,8 @@
         "selectInfo": "中 Medium",
         "price": 30,
         "available": true
-      },{
+      },
+      {
         "selectInfo": "大 Big",
         "price": 40,
         "available": true
@@ -66,6 +72,7 @@
     "selectInfo": "沙煲红烧鱼头 Braised Fish Head in Casserole",
     "price": 20,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -76,7 +83,8 @@
         "selectInfo": "中 Medium",
         "price": 30,
         "available": true
-      },{
+      },
+      {
         "selectInfo": "大 Big",
         "price": 40,
         "available": true
@@ -87,6 +95,7 @@
     "selectInfo": "红烧鱼头 Braised Fish Head",
     "price": 20,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -97,7 +106,8 @@
         "selectInfo": "中 Medium",
         "price": 30,
         "available": true
-      },{
+      },
+      {
         "selectInfo": "大 Big",
         "price": 40,
         "available": true

@@ -3,6 +3,7 @@
     "selectInfo": "宫保田鸡",
     "price": 0,
     "available": false,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小",
@@ -13,7 +14,8 @@
         "selectInfo": "中",
         "price": 0,
         "available": false
-      },{
+      },
+      {
         "selectInfo": "大",
         "price": 0,
         "available": false
@@ -24,6 +26,7 @@
     "selectInfo": "姜葱田鸡",
     "price": 0,
     "available": false,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小",
@@ -34,7 +37,8 @@
         "selectInfo": "中",
         "price": 0,
         "available": false
-      },{
+      },
+      {
         "selectInfo": "大",
         "price": 0,
         "available": false

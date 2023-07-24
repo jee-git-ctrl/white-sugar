@@ -3,6 +3,7 @@
     "selectInfo": "排骨王 Pork Rib King",
     "price": 16,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -20,6 +21,7 @@
     "selectInfo": "咕咾肉 Sweet Sour Pork",
     "price": 0,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小",
@@ -30,7 +32,8 @@
         "selectInfo": "中",
         "price": 0,
         "available": true
-      },{
+      },
+      {
         "selectInfo": "大",
         "price": 0,
         "available": true
@@ -41,6 +44,7 @@
     "selectInfo": "姜丝肉 Fried Pork with Ginger",
     "price": 0,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小",
@@ -51,7 +55,8 @@
         "selectInfo": "中",
         "price": 0,
         "available": true
-      },{
+      },
+      {
         "selectInfo": "大",
         "price": 0,
         "available": true
@@ -62,6 +67,7 @@
     "selectInfo": "暹猪手 Fried Thai Style Pork Knuckle",
     "price": 35,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "半支 Half",
@@ -74,6 +80,7 @@
     "selectInfo": "红烧猪手 Braised Pork Knuckle",
     "price": 35,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "半支 Half",
@@ -86,6 +93,7 @@
     "selectInfo": "花腩煲 Claypot Pork Belly with Salted Fish ",
     "price": 16,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -103,6 +111,7 @@
     "selectInfo": "梅菜扣肉 Braised Pork with Preserved Vegetables",
     "price": 12,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -115,6 +124,7 @@
     "selectInfo": "芋头扣肉 Braised Pork with Taro",
     "price": 12,
     "available": true,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -127,6 +137,7 @@
     "selectInfo": "咖喱排骨 Curry Pork Rib",
     "price": 15,
     "available": false,
+    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
