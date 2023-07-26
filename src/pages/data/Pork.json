@@ -1,9 +1,9 @@
 [
   {
-    "selectInfo": "排骨王 Pork Rib King",
+    "selectInfo": "排骨王",
+    "selectInfoEnglish": "Pork Rib King",
     "price": 16,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -18,10 +18,10 @@
     ]
   },
   {
-    "selectInfo": "咕咾肉 Sweet Sour Pork",
+    "selectInfo": "咕咾肉",
+    "selectInfoEnglish": "Sweet Sour Pork",
     "price": 0,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小",
@@ -41,10 +41,10 @@
     ]
   },
   {
-    "selectInfo": "姜丝肉 Fried Pork with Ginger",
+    "selectInfo": "姜丝肉",
+    "selectInfoEnglish": "Fried Pork with Ginger",
     "price": 0,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小",
@@ -64,10 +64,10 @@
     ]
   },
   {
-    "selectInfo": "暹猪手 Fried Thai Style Pork Knuckle",
+    "selectInfo": "暹猪手",
+    "selectInfoEnglish": "Fried Thai Style Pork Knuckle",
     "price": 35,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "半支 Half",
@@ -77,10 +77,10 @@
     ]
   },
   {
-    "selectInfo": "红烧猪手 Braised Pork Knuckle",
+    "selectInfo": "红烧猪手",
+    "selectInfoEnglish": "Braised Pork Knuckle",
     "price": 35,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "半支 Half",
@@ -90,10 +90,10 @@
     ]
   },
   {
-    "selectInfo": "花腩煲 Claypot Pork Belly with Salted Fish ",
+    "selectInfo": "花腩煲",
+    "selectInfoEnglish": "Claypot Pork Belly with Salted Fish ",
     "price": 16,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -108,10 +108,10 @@
     ]
   },
   {
-    "selectInfo": "梅菜扣肉 Braised Pork with Preserved Vegetables",
+    "selectInfo": "梅菜扣肉",
+    "selectInfoEnglish": "Braised Pork with Preserved Vegetables",
     "price": 12,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -121,10 +121,10 @@
     ]
   },
   {
-    "selectInfo": "芋头扣肉 Braised Pork with Taro",
+    "selectInfo": "芋头扣肉",
+    "selectInfoEnglish": "Braised Pork with Taro",
     "price": 12,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -134,10 +134,10 @@
     ]
   },
   {
-    "selectInfo": "咖喱排骨 Curry Pork Rib",
+    "selectInfo": "咖喱排骨",
+    "selectInfoEnglish": "Curry Pork Rib",
     "price": 15,
     "available": false,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",

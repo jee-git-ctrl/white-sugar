@@ -1,8 +1,8 @@
 [
   {
-    "method": "亚参蒸 Asam Steam",
+    "method": "亚参蒸",
+    "methodEnglish": "Asam Steam",
     "available": true,
-    "image": "../img/Fish/Asam Steam.jpg",
     "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
@@ -37,9 +37,9 @@
     ]
   },
   {
-    "method": "清蒸 Steam with Soy Sauce",
+    "method": "清蒸",
+    "methodEnglish": "Steam with Soy Sauce",
     "available": true,
-    "image": "../img/Fish/Steam with Soy Sauce.jpg",
     "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
@@ -74,9 +74,9 @@
     ]
   },
   {
-    "method": "潮州蒸 Teow Chew Steam",
+    "method": "潮州蒸",
+    "methodEnglish": "Teow Chew Steam",
     "available": true,
-    "image": "../img/Fish/Teow Chew Steam.jpg",
     "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
@@ -111,9 +111,9 @@
     ]
   },
   {
-    "method": "豆酱蒸 Bean Paste Steam",
+    "method": "豆酱蒸",
+    "methodEnglish": "Bean Paste Steam",
     "available": true,
-    "image": "../img/Fish/Bean Paste Steam.jpg",
     "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
@@ -148,9 +148,9 @@
     ]
   },
   {
-    "method": "干煎 Fried with Ginger and Soy Sauce",
+    "method": "干煎",
+    "methodEnglish": "Fried with Ginger and Soy Sauce",
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
@@ -185,9 +185,9 @@
     ]
   },
   {
-    "method": "三味 Fried with 3 Taste",
+    "method": "三味",
+    "methodEnglish": "Fried with 3 Taste",
     "available": true,
-    "image": "../img/Fish/Fried with 3 Taste.jpg",
     "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
@@ -222,9 +222,9 @@
     ]
   },
   {
-    "method": "酸甜 Fried with Sweet Sour",
+    "method": "酸甜",
+    "methodEnglish": "Fried with Sweet Sour",
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
@@ -259,9 +259,9 @@
     ]
   },
   {
-    "method": "炒豆酱 Fried with Bean Paste",
+    "method": "炒豆酱",
+    "methodEnglish": "Fried with Bean Paste",
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",

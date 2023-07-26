@@ -1,9 +1,9 @@
 [
   {
-    "selectInfo": "咖喱鱼片 Curry Fish Slice",
+    "selectInfo": "咖喱鱼",
+    "selectInfoEnglish": "Curry Fish Slice",
     "price": 20,
     "available": true,
-    "image": "../img/Fish Slice/Curry Fish Slice.jpg",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -23,10 +23,10 @@
     ]
   },
   {
-    "selectInfo": "三味鱼片 Fried Fish Slice with 3 Taste",
+    "selectInfo": "三味鱼",
+    "selectInfoEnglish": "Fried Fish Slice with 3 Taste",
     "price": 20,
     "available": true,
-    "image": "../img/Fish Slice/Fried Fish Slice with 3 Taste.jpg",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -46,10 +46,10 @@
     ]
   },
   {
-    "selectInfo": "酸甜鱼片 Fried Fish Slice with Sweet Sour",
+    "selectInfo": "酸甜鱼",
+    "selectInfoEnglish": "Fried Fish Slice with Sweet Sour",
     "price": 20,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -69,10 +69,10 @@
     ]
   },
   {
-    "selectInfo": "豆酱鱼片 Fried Fish Slice with Bean Paste",
+    "selectInfo": "豆酱鱼",
+    "selectInfoEnglish": "Fried Fish Slice with Bean Paste",
     "price": 20,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -92,10 +92,10 @@
     ]
   },
   {
-    "selectInfo": "姜葱鱼片 Ginger Onion Fish Slice",
+    "selectInfo": "姜葱鱼",
+    "selectInfoEnglish": "Ginger Onion Fish Slice",
     "price": 20,
     "available": true,
-    "image": "../img/Fish Slice/Ginger Onion Fish Slice.jpg",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -115,10 +115,10 @@
     ]
   },
   {
-    "selectInfo": "金香鱼片 Kam Heong Fish Slice",
+    "selectInfo": "金香鱼",
+    "selectInfoEnglish": "Kam Heong Fish Slice",
     "price": 20,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -138,10 +138,10 @@
     ]
   },
   {
-    "selectInfo": "宫保鱼片 Dry Chili Fish Slice",
+    "selectInfo": "宫保鱼",
+    "selectInfoEnglish": "Dry Chili Fish Slice",
     "price": 20,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -161,10 +161,10 @@
     ]
   },
   {
-    "selectInfo": "咖喱粉鱼片 Curry Powder Fish Slice",
+    "selectInfo": "咖喱粉鱼",
+    "selectInfoEnglish": "Curry Powder Fish Slice",
     "price": 20,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -184,10 +184,10 @@
     ]
   },
   {
-    "selectInfo": "参峇鱼片 Sambal Fish Slice",
+    "selectInfo": "参峇鱼",
+    "selectInfoEnglish": "Sambal Fish Slice",
     "price": 20,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -207,10 +207,10 @@
     ]
   },
   {
-    "selectInfo": "沙煲红烧鱼片 Braised Fish Slice in Casserole",
+    "selectInfo": "沙煲红烧鱼",
+    "selectInfoEnglish": "Braised Fish Slice in Casserole",
     "price": 20,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -230,10 +230,10 @@
     ]
   },
   {
-    "selectInfo": "红烧鱼片 Braised Fish Slice",
+    "selectInfo": "红烧鱼",
+    "selectInfoEnglish": "Braised Fish Slice",
     "price": 20,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -253,10 +253,10 @@
     ]
   },
   {
-    "selectInfo": "炒辣鱼片 Fried Fish Slice with Chili Paste",
+    "selectInfo": "炒辣鱼",
+    "selectInfoEnglish": "Fried Fish Slice with Chili Paste",
     "price": 20,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -276,10 +276,10 @@
     ]
   },
   {
-    "selectInfo": "冬炎鱼片 Tomyam Fish Slice",
+    "selectInfo": "冬炎鱼",
+    "selectInfoEnglish": "Tomyam Fish Slice",
     "price": 20,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",

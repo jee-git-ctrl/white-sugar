@@ -1,9 +1,9 @@
 [
   {
-    "selectInfo": "枸杞汤（炖） Herba Soup",
+    "selectInfo": "枸杞汤（炖）",
+    "selectInfoEnglish": "Herba Soup",
     "price": 5,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -13,10 +13,10 @@
     ]
   },
   {
-    "selectInfo": "咸菜苦瓜汤（炖） Salted Vegetable + Bitter Gourd Soup",
+    "selectInfo": "咸菜苦瓜汤（炖）",
+    "selectInfoEnglish": "Salted Vegetable + Bitter Gourd Soup",
     "price": 5,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -26,10 +26,10 @@
     ]
   },
   {
-    "selectInfo": "咸菜豆腐汤 Salted Vegetable + Tofu Soup",
+    "selectInfo": "咸菜豆腐汤",
+    "selectInfoEnglish": "Salted Vegetable + Tofu Soup",
     "price": 5,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -39,10 +39,10 @@
     ]
   },
   {
-    "selectInfo": "杂菜汤 Mix Vegetable Soup",
+    "selectInfo": "杂菜汤",
+    "selectInfoEnglish": "Mix Vegetable Soup",
     "price": 5,
     "available": true,
-    "image": "../img/Soup/Mix Vegetable Soup.jpg",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -52,10 +52,10 @@
     ]
   },
   {
-    "selectInfo": "菜心汤 Choy Sum Soup",
+    "selectInfo": "菜心汤",
+    "selectInfoEnglish": "Choy Sum Soup",
     "price": 5,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -65,10 +65,10 @@
     ]
   },
   {
-    "selectInfo": "鱼丸汤 Fishball Soup",
+    "selectInfo": "鱼丸汤",
+    "selectInfoEnglish": "Fishball Soup",
     "price": 5,
     "available": true,
-    "image": "../img/Soup/Seaweed Soup.jpg",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -78,10 +78,10 @@
     ]
   },
   {
-    "selectInfo": "紫菜汤 Seaweed Soup",
+    "selectInfo": "紫菜汤",
+    "selectInfoEnglish": "Seaweed Soup",
     "price": 5,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",

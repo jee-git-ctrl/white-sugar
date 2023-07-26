@@ -1,9 +1,9 @@
 [
   {
-    "selectInfo": "虾仁煎蛋 Fried Eggs with Shrimp",
+    "selectInfo": "虾仁煎蛋",
+    "selectInfoEnglish": "Fried Eggs with Shrimp",
     "price": 8,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -23,10 +23,10 @@
     ]
   },
   {
-    "selectInfo": "腊肠煎蛋 Fried Egg with Chinese Sausage",
+    "selectInfo": "腊肠煎蛋",
+    "selectInfoEnglish": "Fried Egg with Chinese Sausage",
     "price": 8,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -46,10 +46,10 @@
     ]
   },
   {
-    "selectInfo": "芙蓉蛋 Egg Foo Young(Shrimp, Chinese Sausage)",
+    "selectInfo": "芙蓉蛋",
+    "selectInfoEnglish": "Egg Foo Young(Shrimp, Chinese Sausage)",
     "price": 8,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -72,7 +72,6 @@
     "selectInfo": "苦瓜煎蛋",
     "price": 8,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -92,10 +91,10 @@
     ]
   },
   {
-    "selectInfo": "大葱煎蛋 Fried Egg with Onion",
+    "selectInfo": "大葱煎蛋",
+    "selectInfoEnglish": "Fried Egg with Onion",
     "price": 6,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -115,10 +114,10 @@
     ]
   },
   {
-    "selectInfo": "散蛋 Fried Egg",
+    "selectInfo": "散蛋",
+    "selectInfoEnglish": "Fried Egg",
     "price": 6,
     "available": true,
-    "image": "../img/Egg/Fried Egg.jpg",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -138,10 +137,10 @@
     ]
   },
   {
-    "selectInfo": "蒸蛋 Steamed Egg",
+    "selectInfo": "蒸蛋",
+    "selectInfoEnglish": "Steamed Egg",
     "price": 6,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -161,10 +160,10 @@
     ]
   },
   {
-    "selectInfo": "荷包蛋 Fried Egg",
+    "selectInfo": "荷包蛋",
+    "selectInfoEnglish": "Fried Egg",
     "price": 1.20,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一颗 One",

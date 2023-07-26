@@ -1,9 +1,9 @@
 [
   {
-    "selectInfo": "亚参蒸鱼头 Asam Steamed Fish Head",
+    "selectInfo": "亚参蒸鱼",
+    "selectInfoEnglish": "Asam Steamed Fish Head",
     "price": "时价",
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small Small",
@@ -23,10 +23,10 @@
     ]
   },
   {
-    "selectInfo": "豆酱蒸鱼头 Bean Paste Steamed Fish Head",
+    "selectInfo": "豆酱蒸鱼",
+    "selectInfoEnglish": "Bean Paste Steamed Fish Head",
     "price": "时价",
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -46,33 +46,10 @@
     ]
   },
   {
-    "selectInfo": "咖喱鱼头 Curry Fish Head",
+    "selectInfo": "咖喱鱼",
+    "selectInfoEnglish": "Curry Fish Head",
     "price": 20,
     "available": true,
-    "image": "",
-    "SelectInfo": [
-      {
-        "selectInfo": "小 Small",
-        "price": 20,
-        "available": true
-      },
-      {
-        "selectInfo": "中 Medium",
-        "price": 30,
-        "available": true
-      },
-      {
-        "selectInfo": "大 Big",
-        "price": 40,
-        "available": true
-      }
-    ]
-  },
-  {
-    "selectInfo": "沙煲红烧鱼头 Braised Fish Head in Casserole",
-    "price": 20,
-    "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -92,10 +69,33 @@
     ]
   },
   {
-    "selectInfo": "红烧鱼头 Braised Fish Head",
+    "selectInfo": "沙煲红烧鱼",
+    "selectInfoEnglish": "Braised Fish Head in Casserole",
     "price": 20,
     "available": true,
-    "image": "",
+    "SelectInfo": [
+      {
+        "selectInfo": "小 Small",
+        "price": 20,
+        "available": true
+      },
+      {
+        "selectInfo": "中 Medium",
+        "price": 30,
+        "available": true
+      },
+      {
+        "selectInfo": "大 Big",
+        "price": 40,
+        "available": true
+      }
+    ]
+  },
+  {
+    "selectInfo": "红烧鱼",
+    "selectInfoEnglish": "Braised Fish Head",
+    "price": 20,
+    "available": true,
     "SelectInfo": [
       {
         "selectInfo": "小 Small",

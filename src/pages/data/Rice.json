@@ -1,9 +1,9 @@
 [
   {
-    "selectInfo": "白饭 Rice",
+    "selectInfo": "白饭",
+    "selectInfoEnglish": "Rice",
     "price": 0.50,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",

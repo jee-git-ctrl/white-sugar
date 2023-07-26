@@ -1,9 +1,9 @@
 [
   {
-    "selectInfo": "黄金虾姑肉 Salted Egg Mantis Prawn",
+    "selectInfo": "黄金虾姑肉",
+    "selectInfoEnglish": "Salted Egg Mantis Prawn",
     "price": 15,
     "available": true,
-    "image": "../img/MantisPrawn/Salted Egg Mantis Prawn.jpg",
     "SelectInfo": [
         {
           "selectInfo": "小 Small",
@@ -23,10 +23,10 @@
       ]
   },
   {
-    "selectInfo": "宫保虾姑肉 Dry Chili Mantis Prawn",
+    "selectInfo": "宫保虾姑肉",
+    "selectInfoEnglish": "Dry Chili Mantis Prawn",
     "price": 15,
     "available": true,
-    "image": "",
    "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -46,10 +46,10 @@
     ]
   },
   {
-    "selectInfo": "金香虾姑肉 Kam Heong Mantis Prawn",
+    "selectInfo": "金香虾姑肉",
+    "selectInfoEnglish": "Kam Heong Mantis Prawn",
     "price": 15,
     "available": true,
-    "image": "",
    "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -69,10 +69,10 @@
     ]
   },
   {
-    "selectInfo": "沙律虾姑肉 Salad Mantis Prawn",
+    "selectInfo": "沙律虾姑肉",
+    "selectInfoEnglish": "Salad Mantis Prawn",
     "price": 15,
     "available": true,
-    "image": "",
    "SelectInfo": [
       {
         "selectInfo": "小 Small",

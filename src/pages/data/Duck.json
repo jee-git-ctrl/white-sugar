@@ -1,9 +1,9 @@
 [
   {
-    "selectInfo": "琵琶鸭 Duck",
+    "selectInfo": "琵琶鸭",
+    "selecrInfoEnglish": "Duck",
     "price": 28,
     "available": true,
-    "image": "../img/Duck/Duck.jpg",
     "SelectInfo": [
       {
         "selectInfo": "半只 Half",

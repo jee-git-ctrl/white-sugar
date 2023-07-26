@@ -1,9 +1,9 @@
 [
   {
-    "selectInfo": "百花鸡 Bai Hua Chicken",
+    "selectInfo": "百花鸡",
+    "selectInfoEnglish": "Bai Hua Chicken",
     "price": 20,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "半只 Half",
@@ -18,10 +18,10 @@
     ]
   },
   {
-    "selectInfo": "梅子鸡 Lemon Chicken",
+    "selectInfo": "梅子鸡",
+    "selectInfoEnglish": "Lemon Chicken",
     "price": 18,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "半只 Half",
@@ -36,10 +36,10 @@
     ]
   },
   {
-    "selectInfo": "白斩鸡 Boiled Chicken",
+    "selectInfo": "白斩鸡",
+    "selectInfoEnglish": "Boiled Chicken",
     "price": 22,
     "available": true,
-    "image": "../img/Chicken/Boiled Chicken.jpg",
     "SelectInfo": [
       {
         "selectInfo": "半只 Half",
@@ -54,10 +54,10 @@
     ]
   },
   {
-    "selectInfo": "炸鸡 Fried Chicken",
+    "selectInfo": "炸鸡",
+    "selectInfoEnglish": "Fried Chicken",
     "price": 12,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small Small",
@@ -77,10 +77,10 @@
     ]
   },
   {
-    "selectInfo": "峇拉煎鸡 Belacan Chicken",
+    "selectInfo": "峇拉煎鸡",
+    "selectInfoEnglish": "Belacan Chicken",
     "price": 12,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -100,10 +100,10 @@
     ]
   },
   {
-    "selectInfo": "宫保鸡 Dry Chili Chicken",
+    "selectInfo": "宫保鸡",
+    "selectInfoEnglish": "Dry Chili Chicken",
     "price": 12,
     "available": true,
-    "image": "../img/Chicken/Dry Chili Chicken.jpg",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -123,10 +123,10 @@
     ]
   },
   {
-    "selectInfo": "金香鸡 Kam Heong Chicken",
+    "selectInfo": "金香鸡",
+    "selectInfoEnglish": "Kam Heong Chicken",
     "price": 12,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -146,10 +146,10 @@
     ]
   },
   {
-    "selectInfo": "咖喱粉鸡 Curry Powder Chicken",
+    "selectInfo": "咖喱粉鸡",
+    "selectInfoEnglish": "Curry Powder Chicken",
     "price": 12,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -169,10 +169,10 @@
     ]
   },
   {
-    "selectInfo": "黄金鸡 Salted Egg Chicken",
+    "selectInfo": "黄金鸡",
+    "selectInfoEnglish": "Salted Egg Chicken",
     "price": 12,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -192,10 +192,10 @@
     ]
   },
   {
-    "selectInfo": "香油鸡 Honey Chicken",
+    "selectInfo": "香油鸡",
+    "selectInfoEnglish": "Honey Chicken",
     "price": 12,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -215,10 +215,10 @@
     ]
   },
   {
-    "selectInfo": "香辣鸡 Spicy Chicken",
+    "selectInfo": "香辣鸡",
+    "selectInfoEnglish": "Spicy Chicken",
     "price": 12,
     "available": true,
-    "image": "../img/Chicken/Spicy Chicken.jpg",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -238,10 +238,10 @@
     ]
   },
   {
-    "selectInfo": "酸甜鸡 Sweet Sour Chicken",
+    "selectInfo": "酸甜鸡",
+    "selectInfoEnglish": "Sweet Sour Chicken",
     "price": 12,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -261,10 +261,10 @@
     ]
   },
   {
-    "selectInfo": "叁峇鸡 Sambal Chicken",
+    "selectInfo": "叁峇鸡",
+    "selectInfoEnglish": "Sambal Chicken",
     "price": 12,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",

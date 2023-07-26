@@ -1,9 +1,9 @@
 [
   {
-    "selectInfo": "黄金虾 Salted Egg Prawn",
+    "selectInfo": "黄金虾",
+    "selectInfoEnglish": "Salted Egg Prawn",
     "price": 25,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -23,10 +23,10 @@
     ]
   },
   {
-    "selectInfo": "金香虾 Kam Heong Prawn",
+    "selectInfo": "金香虾",
+    "selectInfoEnglish": "Kam Heong Prawn",
     "price": 25,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -46,10 +46,10 @@
     ]
   },
   {
-    "selectInfo": "蒜头虾 Garlic Prawn",
+    "selectInfo": "蒜头虾",
+    "selectInfoEnglish": "Garlic Prawn",
     "price": 25,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -69,10 +69,10 @@
     ]
   },
   {
-    "selectInfo": "蚝油虾 Oyster Sauce Prawn",
+    "selectInfo": "蚝油虾",
+    "selectInfoEnglish": "Oyster Sauce Prawn",
     "price": 25,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -92,10 +92,10 @@
     ]
   },
   {
-    "selectInfo": "亚参虾 Asam Prawn",
+    "selectInfo": "亚参虾",
+    "selectInfoEnglish": "Asam Prawn",
     "price": 25,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -115,10 +115,10 @@
     ]
   },
   {
-    "selectInfo": "印尼虾 Indonesia Style Prawn",
+    "selectInfo": "印尼虾",
+    "selectInfoEnglish": "Indonesia Style Prawn",
     "price": 25,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -138,10 +138,10 @@
     ]
   },
   {
-    "selectInfo": "沙律虾 Salad Prawn",
+    "selectInfo": "沙律虾",
+    "selectInfoEnglish": "Salad Prawn",
     "price": 25,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -161,10 +161,10 @@
     ]
   },
   {
-    "selectInfo": "咖喱虾 Curry Prawn",
+    "selectInfo": "咖喱虾",
+    "selectInfoEnglish": "Curry Prawn",
     "price": 25,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -184,10 +184,10 @@
     ]
   },
   {
-    "selectInfo": "冬炎虾 Tomyam Prawn",
+    "selectInfo": "冬炎虾",
+    "selectInfoEnglish": "Tomyam Prawn",
     "price": 25,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -207,10 +207,10 @@
     ]
   },
   {
-    "selectInfo": "叁峇虾 Sambal Prawn",
+    "selectInfo": "叁峇虾",
+    "selectInfoEnglish": "Sambal Prawn",
     "price": 25,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -230,10 +230,10 @@
     ]
   },
   {
-    "selectInfo": "虾球 Fried Prawn",
+    "selectInfo": "虾球",
+    "selectInfoEnglish": "Fried Prawn",
     "price": 25,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",

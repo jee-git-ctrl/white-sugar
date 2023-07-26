@@ -1,9 +1,9 @@
 [
   {
-    "selectInfo": "佛砵（罗汉斋） Yam Ring with Vegetable",
+    "selectInfo": "佛砵（罗汉斋）",
+    "selectInfoEnglish": "Yam Ring with Vegetable",
     "price": 22,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -13,10 +13,10 @@
     ]
   },
   {
-    "selectInfo": "佛砵（咕咾肉） Yam Ring with Sweet Sour Pork",
+    "selectInfo": "佛砵（咕咾肉）",
+    "selectInfoEnglish": "Yam Ring with Sweet Sour Pork",
     "price": 25,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -26,10 +26,10 @@
     ]
   },
   {
-    "selectInfo": "佛砵（排骨王） Yam Ring with Pork Rib King",
+    "selectInfo": "佛砵（排骨王）",
+    "selectInfoEnglish": "Yam Ring with Pork Rib King",
     "price": 25,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -39,10 +39,10 @@
     ]
   },
   {
-    "selectInfo": "佛砵（虾姑肉） Yam Ring with Mantis Prawn",
+    "selectInfo": "佛砵（虾姑肉）",
+    "selectInfoEnglish": "Yam Ring with Mantis Prawn",
     "price": 25,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -52,10 +52,10 @@
     ]
   },
   {
-    "selectInfo": "沙煲鱼漂 Fish Maw Soup in Claypot",
+    "selectInfo": "沙煲鱼漂",
+    "selectInfoEnglish": "Fish Maw Soup in Claypot",
     "price": 20,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -70,10 +70,10 @@
     ]
   },
   {
-    "selectInfo": "鱼翅 Shark Fin",
+    "selectInfo": "鱼翅",
+    "selectInfoEnglish": "Shark Fin",
     "price": 20,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -93,10 +93,10 @@
     ]
   },
   {
-    "selectInfo": "黄金莲藕 Salted Egg Lotus Root",
+    "selectInfo": "黄金莲藕",
+    "selectInfoEnglish": "Salted Egg Lotus Root",
     "price": 10,
     "available": true,
-    "image": "../img/Others/Salted Egg Lotus Root.jpg",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -111,10 +111,10 @@
     ]
   },
   {
-    "selectInfo": "肉松莲藕 Fried Lotus Root with Floss",
+    "selectInfo": "肉松莲藕",
+    "selectInfoEnglish": "Fried Lotus Root with Floss",
     "price": 10,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -129,10 +129,10 @@
     ]
   },
   {
-    "selectInfo": "咖喱海鲜 Curry Seafood",
+    "selectInfo": "咖喱海鲜",
+    "selectInfoEnglish": "Curry Seafood",
     "price": 25,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -152,10 +152,10 @@
     ]
   },
   {
-    "selectInfo": "冬炎海鲜 Tomyam Seafood",
+    "selectInfo": "冬炎海鲜",
+    "selectInfoEnglish": "Tomyam Seafood",
     "price": 25,
     "available": true,
-    "image": "../img/Others/Tomyam Seafood.jpg",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",

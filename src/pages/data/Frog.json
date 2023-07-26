@@ -1,9 +1,9 @@
 [
   {
     "selectInfo": "宫保田鸡",
+    "selectInfoEnglish": "",
     "price": 0,
     "available": false,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小",
@@ -24,9 +24,9 @@
   },
   {
     "selectInfo": "姜葱田鸡",
+    "selectInfoEnglish": "",
     "price": 0,
     "available": false,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "小",

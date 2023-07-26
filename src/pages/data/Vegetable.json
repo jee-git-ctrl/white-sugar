@@ -1,9 +1,9 @@
 [
   {
-    "name": "番薯叶 Potato Leaves",
+    "name": "番薯叶",
+    "nameEnglish": "Potato Leaves",
     "price": 8,
     "available": true,
-    "image": "",
     "SelectInfo": {
       "methods": [
         {
@@ -35,10 +35,10 @@
     }
   },
   {
-    "name": "芥兰 Kai Lan",
+    "name": "芥兰",
+    "nameEnglish": "Kai Lan",
     "price": 8,
     "available": true,
-    "image": "../img/Vegetable/Kai Lan.jpg",
     "SelectInfo": {
       "methods": [
         {
@@ -74,10 +74,10 @@
     }
   },
   {
-    "name": "菜心 Choy Sum",
+    "name": "菜心",
+    "nameEnglish": "Choy Sum",
     "price": 8,
     "available": true,
-    "image": "",
     "SelectInfo": {
       "methods": [
         {
@@ -113,10 +113,10 @@
     }
   },
   {
-    "name": "豆芽 Tauge",
+    "name": "豆芽",
+    "nameEnglish": "Tauge",
     "price": 8,
     "available": true,
-    "image": "",
     "SelectInfo": {
       "methods": [
         {
@@ -148,10 +148,10 @@
     }
   },
   {
-    "name": "苦瓜 Bitter Gourd",
+    "name": "苦瓜",
+    "nameEnglish": "Bitter Gourd",
     "price": 8,
     "available": true,
-    "image": "",
     "SelectInfo": {
       "methods": [
         {
@@ -187,10 +187,10 @@
     }
   },
   {
-    "name": "罗汉斋 Lohan Vege",
+    "name": "罗汉斋",
+    "nameEnglish": "Lohan Vege",
     "price": 15,
     "available": true,
-    "image": "",
     "SelectInfo": {
       "methods": [
         {
@@ -218,10 +218,10 @@
     }
   },
   {
-    "name": "茄子 Eggplant",
+    "name": "茄子",
+    "nameEnglish": "Eggplant",
     "price": 8,
     "available": true,
-    "image": "",
     "SelectInfo": {
       "methods": [
         {
@@ -249,10 +249,10 @@
     }
   },
   {
-    "name": "乌龟豆（四季豆） Green Bean",
+    "name": "乌龟豆（四季豆）",
+    "nameEnglish": "Green Bean",
     "price": 10,
     "available": true,
-    "image": "",
     "SelectInfo": {
       "methods": [
         {
@@ -281,9 +281,9 @@
   },
   {
     "name": "青龙菜",
+    "nameEnglish": "",
     "price": 0,
     "available": false,
-    "image": "",
     "SelectInfo": {
       "methods": [
         {
