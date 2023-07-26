@@ -1,6 +1,6 @@
 [
   {
-    "selectInfo": "亚参蒸鱼",
+    "selectInfo": "亚参蒸鱼头",
     "selectInfoEnglish": "Asam Steamed Fish Head",
     "price": "时价",
     "available": true,
@@ -23,7 +23,7 @@
     ]
   },
   {
-    "selectInfo": "豆酱蒸鱼",
+    "selectInfo": "豆酱蒸鱼头",
     "selectInfoEnglish": "Bean Paste Steamed Fish Head",
     "price": "时价",
     "available": true,
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "selectInfo": "咖喱鱼",
+    "selectInfo": "咖喱鱼头",
     "selectInfoEnglish": "Curry Fish Head",
     "price": 20,
     "available": true,
@@ -69,7 +69,7 @@
     ]
   },
   {
-    "selectInfo": "沙煲红烧鱼",
+    "selectInfo": "沙煲红烧鱼头",
     "selectInfoEnglish": "Braised Fish Head in Casserole",
     "price": 20,
     "available": true,
@@ -92,7 +92,7 @@
     ]
   },
   {
-    "selectInfo": "红烧鱼",
+    "selectInfo": "红烧鱼头",
     "selectInfoEnglish": "Braised Fish Head",
     "price": 20,
     "available": true,
