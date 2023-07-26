@@ -42,7 +42,7 @@
     "selectInfo": "杂菜汤 Mix Vegetable Soup",
     "price": 5,
     "available": true,
-    "image": "src/pages/img/Soup/Mix Vegetable Soup.jpg",
+    "image": "../img/Soup/Mix Vegetable Soup.jpg",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
@@ -68,7 +68,7 @@
     "selectInfo": "鱼丸汤 Fishball Soup",
     "price": 5,
     "available": true,
-    "image": "src/pages/img/Soup/Seaweed Soup.jpg",
+    "image": "../img/Soup/Seaweed Soup.jpg",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",

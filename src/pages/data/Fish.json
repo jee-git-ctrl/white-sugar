@@ -2,7 +2,7 @@
   {
     "method": "亚参蒸 Asam Steam",
     "available": true,
-    "image": "src/pages/img/Fish/Asam Steam.jpg",
+    "image": "../img/Fish/Asam Steam.jpg",
     "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
@@ -39,7 +39,7 @@
   {
     "method": "清蒸 Steam with Soy Sauce",
     "available": true,
-    "image": "src/pages/img/Fish/Steam with Soy Sauce.jpg",
+    "image": "../img/Fish/Steam with Soy Sauce.jpg",
     "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
@@ -76,7 +76,7 @@
   {
     "method": "潮州蒸 Teow Chew Steam",
     "available": true,
-    "image": "src/pages/img/Fish/Teow Chew Steam.jpg",
+    "image": "../img/Fish/Teow Chew Steam.jpg",
     "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
@@ -113,7 +113,7 @@
   {
     "method": "豆酱蒸 Bean Paste Steam",
     "available": true,
-    "image": "src/pages/img/Fish/Bean Paste Steam.jpg",
+    "image": "../img/Fish/Bean Paste Steam.jpg",
     "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",
@@ -187,7 +187,7 @@
   {
     "method": "三味 Fried with 3 Taste",
     "available": true,
-    "image": "src/pages/img/Fish/Fried with 3 Taste.jpg",
+    "image": "../img/Fish/Fried with 3 Taste.jpg",
     "SelectInfo": [
       {
         "selectInfo": "红狮 Red Fish",

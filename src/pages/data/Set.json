@@ -146,7 +146,7 @@
     "selectInfo": "宫保虾姑肉饭 Dry Chili Mantis Prawn Rice",
     "price": 8,
     "available": true,
-    "image": "src/pages/img/Set/Dry Chili Mantis Prawn Rice.jpg",
+    "image": "../img/Set/Dry Chili Mantis Prawn Rice.jpg",
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",

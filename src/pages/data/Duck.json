@@ -3,7 +3,7 @@
     "selectInfo": "琵琶鸭 Duck",
     "price": 28,
     "available": true,
-    "image": "src/pages/img/Duck/Duck.jpg",
+    "image": "../img/Duck/Duck.jpg",
     "SelectInfo": [
       {
         "selectInfo": "半只 Half",

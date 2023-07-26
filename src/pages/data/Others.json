@@ -96,7 +96,7 @@
     "selectInfo": "黄金莲藕 Salted Egg Lotus Root",
     "price": 10,
     "available": true,
-    "image": "src/pages/img/Others/Salted Egg Lotus Root.jpg",
+    "image": "../img/Others/Salted Egg Lotus Root.jpg",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -132,7 +132,7 @@
     "selectInfo": "咖喱海鲜 Curry Seafood",
     "price": 25,
     "available": true,
-    "image": "src/pages/img/Others/Tomyam Seafood.jpg",
+    "image": "../img/Others/Tomyam Seafood.jpg",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -155,7 +155,7 @@
     "selectInfo": "冬炎海鲜 Tomyam Seafood",
     "price": 25,
     "available": true,
-    "image": "src/pages/img/Others/Tomyam Seafood.jpg",
+    "image": "../img/Others/Tomyam Seafood.jpg",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",

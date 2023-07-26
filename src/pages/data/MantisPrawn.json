@@ -3,7 +3,7 @@
     "selectInfo": "黄金虾姑肉 Salted Egg Mantis Prawn",
     "price": 15,
     "available": true,
-    "image": "src/pages/img/MantisPrawn/Salted Egg Mantis Prawn.jpg",
+    "image": "../img/MantisPrawn/Salted Egg Mantis Prawn.jpg",
     "SelectInfo": [
         {
           "selectInfo": "小 Small",

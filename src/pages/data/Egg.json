@@ -118,7 +118,7 @@
     "selectInfo": "散蛋 Fried Egg",
     "price": 6,
     "available": true,
-    "image": "src/pages/img/Egg/Fried Egg.jpg",
+    "image": "../img/Egg/Fried Egg.jpg",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",

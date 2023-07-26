@@ -3,7 +3,7 @@
     "selectInfo": "咖喱鱼片 Curry Fish Slice",
     "price": 20,
     "available": true,
-    "image": "/img/Fish Slice/Curry Fish Slice.jpg",
+    "image": "../img/Fish Slice/Curry Fish Slice.jpg",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -26,7 +26,7 @@
     "selectInfo": "三味鱼片 Fried Fish Slice with 3 Taste",
     "price": 20,
     "available": true,
-    "image": "/img/Fish Slice/Fried Fish Slice with 3 Taste.jpg",
+    "image": "../img/Fish Slice/Fried Fish Slice with 3 Taste.jpg",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
@@ -95,7 +95,7 @@
     "selectInfo": "姜葱鱼片 Ginger Onion Fish Slice",
     "price": 20,
     "available": true,
-    "image": "/img/Fish Slice/Ginger Onion Fish Slice.jpg",
+    "image": "../img/Fish Slice/Ginger Onion Fish Slice.jpg",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",

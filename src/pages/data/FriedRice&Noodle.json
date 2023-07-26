@@ -95,7 +95,7 @@
     "selectInfo": "鸳鸯干 Kuey Teow Goreng",
     "price": 6,
     "available": true,
-    "image": "src/pages/img/FriedRice&Noodle/Kuey Teow Goreng.jpg",
+    "image": "../img/FriedRice&Noodle/Kuey Teow Goreng.jpg",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
@@ -187,7 +187,7 @@
     "selectInfo": "米粉干 Fried Bihun",
     "price": 6,
     "available": true,
-    "image": "src/pages/img/FriedRice&Noodle/Fried Bihun.jpg",
+    "image": "../img/FriedRice&Noodle/Fried Bihun.jpg",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
@@ -279,7 +279,7 @@
     "selectInfo": "星洲米粉 Singapore Bihun",
     "price": 6,
     "available": true,
-    "image": "src/pages/img/FriedRice&Noodle/Singapore Bihun.jpg",
+    "image": "../img/FriedRice&Noodle/Singapore Bihun.jpg",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",

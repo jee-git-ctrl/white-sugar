@@ -39,7 +39,7 @@
     "selectInfo": "铁板豆腐 Sizzling Tofu",
     "price": 12,
     "available": true,
-    "image": "src/pages/img/Japanese Tofu/Sizzling Tofu.jpg",
+    "image": "../img/Japanese Tofu/Sizzling Tofu.jpg",
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
