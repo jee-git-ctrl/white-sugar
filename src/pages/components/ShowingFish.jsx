@@ -43,15 +43,6 @@ const ShowUnavailable = styled.div`
   align-items: center;
   justify-self: center;
 `;
-const FoodPhoto = styled.img`
-  border-radius: 40px;
-  width: 30%;
-  margin: 2px 10%;
-
-  @media only screen and (min-width: 768px) {
-    border-radius: 20px;
-  }
-`;
 const NameText = styled.div`
   padding: 0 2px;
 `;
@@ -78,13 +69,13 @@ const ShowingFish = () => {
     </Title>
     <Box>
       {Fish.map(food => {
-        const { method, SelectInfo, available } = food;
+        const { method, methodEnglish, SelectInfo, available } = food;
         
         if(available) {
           return (
             <ShowAvailable key={method} onClick={() => handleFoodSelected(method, SelectInfo)}>
               <NameText>
-                {method}
+                {method} {methodEnglish}
               </NameText>
               <PriceText>
                 时价
@@ -95,7 +86,7 @@ const ShowingFish = () => {
           return (
             <ShowUnavailable key={method}>
               <NameText>
-                {method}
+                {method} {methodEnglish}
               </NameText>
               <PriceText>
                 时价

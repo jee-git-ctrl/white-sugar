@@ -43,15 +43,6 @@ const ShowUnavailable = styled.div`
   align-items: center;
   justify-self: center;
 `;
-const FoodPhoto = styled.img`
-  border-radius: 40px;
-  width: 30%;
-  margin: 2px 10%;
-
-  @media only screen and (min-width: 768px) {
-    border-radius: 20px;
-  }
-`;
 const NameText = styled.div`
   padding: 0 2px;
 `;
@@ -78,13 +69,13 @@ const ShowingVegetable = () => {
     </Title>
     <Box>
       {Vegetable.map(food => {
-        const { name, price, available, SelectInfo } = food;
+        const { name, nameEnglish, price, available, SelectInfo } = food;
 
         if(available) {
           return (
             <ShowAvailable key={name} onClick={() => handleFoodSelected(name, SelectInfo)}>
               <NameText>
-                {name}
+                {name} {nameEnglish}
               </NameText>
               <PriceText>
                 RM {price}++
@@ -95,7 +86,7 @@ const ShowingVegetable = () => {
           return (
             <ShowUnavailable key={name}>
               <NameText>
-                {name}
+                {name} {nameEnglish}
               </NameText>
               <PriceText>
                 RM {price}++

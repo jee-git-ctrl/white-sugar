@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 import ShowingDetails from "./ShowingDetails";
-import chicken from "../img/Chicken/Boiled Chicken.jpg";
 
 const Box = styled.div`
   font-size: 1.5em;
@@ -43,15 +42,6 @@ const ShowUnavailable = styled.div`
   align-items: center;
   justify-self: center;
 `;
-const FoodPhoto = styled.img`
-  border-radius: 40px;
-  width: 30%;
-  margin: 2px 10%;
-
-  @media only screen and (min-width: 768px) {
-    border-radius: 20px;
-  }
-`;
 const NameText = styled.div`
   padding: 0 2px;
 `;
@@ -79,14 +69,13 @@ const ShowingFoods = ({ Name, EnglishName, Foods }) => {
     <Box>
 
       {Foods && Foods.map(food => {
-        const { selectInfo, price, available, image, SelectInfo } = food;
+        const { selectInfo, selecteInfoEnglish, price, available, SelectInfo } = food;
 
         if(available) {
           return (
             <ShowAvailable key={selectInfo} onClick={() => handleFoodSelected(selectInfo, SelectInfo)}>
-              {image ? <FoodPhoto src={chicken} alt="" /> : null}
               <NameText>
-                {selectInfo}
+                {selectInfo} {selecteInfoEnglish}
               </NameText>
               <PriceText>
                 RM {price}++  
@@ -96,9 +85,8 @@ const ShowingFoods = ({ Name, EnglishName, Foods }) => {
         } else {
           return (
             <ShowUnavailable key={selectInfo}>
-              {image ? <FoodPhoto src={chicken} alt="" /> : null}
               <NameText>
-                {selectInfo}
+                {selectInfo} {selecteInfoEnglish}
               </NameText>
               <PriceText>
                 RM {price}++  
