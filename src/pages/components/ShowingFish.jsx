@@ -16,23 +16,48 @@ const Box = styled.div`
   }
 `;
 const Title = styled.div`
+  border-radius: 5px;
   font-size: 1.8em;
   background-color: #e8e9eb;
   padding: 2px;
 `;
 const ShowAvailable = styled.div`
-  width: 98%;
+  width: 90%;
   border: 1px solid black;
   border-radius: 5px;
   margin: 2px 0;
   cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-self: center;
 `;
 const ShowUnavailable = styled.div`
-  width: 98%;
+  width: 90%;
   border: 1px solid black;
   border-radius: 5px;
   margin: 2px 0;
   opacity: 0.4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-self: center;
+`;
+const FoodPhoto = styled.img`
+  border-radius: 40px;
+  width: 30%;
+  margin: 2px 10%;
+
+  @media only screen and (min-width: 768px) {
+    border-radius: 20px;
+  }
+`;
+const NameText = styled.div`
+  padding: 0 2px;
+`;
+const PriceText = styled.div`
+  align-self: start;
+  margin-left: 5%;
 `;
 
 const ShowingFish = () => {
@@ -58,17 +83,23 @@ const ShowingFish = () => {
         if(available) {
           return (
             <ShowAvailable key={method} onClick={() => handleFoodSelected(method, SelectInfo)}>
-              {method}
-              <br/>
-              时价
+              <NameText>
+                {method}
+              </NameText>
+              <PriceText>
+                时价
+              </PriceText>
             </ShowAvailable>
           );
         } else {
           return (
             <ShowUnavailable key={method}>
-              {method}
-              <br/>
-              时价
+              <NameText>
+                {method}
+              </NameText>
+              <PriceText>
+                时价
+              </PriceText>
             </ShowUnavailable>
           );
         }

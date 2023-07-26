@@ -16,12 +16,13 @@ const Box = styled.div`
   }
 `;
 const Title = styled.div`
+  border-radius: 5px;
   font-size: 1.8em;
   background-color: #e8e9eb;
   padding: 2px;
 `;
 const ShowAvailable = styled.div`
-  width: 98%;
+  width: 90%;
   border: 1px solid black;
   border-radius: 5px;
   margin: 2px 0;
@@ -29,9 +30,10 @@ const ShowAvailable = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-self: center;
 `;
 const ShowUnavailable = styled.div`
-  width: 98%;
+  width: 90%;
   border: 1px solid black;
   border-radius: 5px;
   margin: 2px 0;
@@ -39,15 +41,19 @@ const ShowUnavailable = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-self: center;
 `;
 const FoodPhoto = styled.img`
   border-radius: 40px;
   width: 30%;
-  margin: 0 10%;
+  margin: 2px 10%;
 
   @media only screen and (min-width: 768px) {
     border-radius: 20px;
   }
+`;
+const NameText = styled.div`
+  padding: 0 2px;
 `;
 const PriceText = styled.div`
   align-self: start;
@@ -79,7 +85,9 @@ const ShowingFoods = ({ Name, EnglishName, Foods }) => {
           return (
             <ShowAvailable key={selectInfo} onClick={() => handleFoodSelected(selectInfo, SelectInfo)}>
               {image ? <FoodPhoto src={chicken} alt="" /> : null}
-              {selectInfo}
+              <NameText>
+                {selectInfo}
+              </NameText>
               <PriceText>
                 RM {price}++  
               </PriceText>
@@ -89,7 +97,9 @@ const ShowingFoods = ({ Name, EnglishName, Foods }) => {
           return (
             <ShowUnavailable key={selectInfo}>
               {image ? <FoodPhoto src={chicken} alt="" /> : null}
-              {selectInfo}
+              <NameText>
+                {selectInfo}
+              </NameText>
               <PriceText>
                 RM {price}++  
               </PriceText>
