@@ -4,7 +4,6 @@
     "selectInfoEnglish": "Fried Rice",
     "price": 6,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
@@ -28,7 +27,6 @@
     "selectInfoEnglish": "Sambal Fried Rice",
     "price": 7,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
@@ -52,7 +50,6 @@
     "selectInfoEnglish": "Salted Fish Fried Rice",
     "price": 7,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
@@ -76,7 +73,6 @@
     "selectInfoEnglish": "Kuey Teow Basah",
     "price": 6,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
@@ -123,7 +119,6 @@
     "selectInfoEnglish": "Noodle",
     "price": 6,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
@@ -147,7 +142,6 @@
     "selectInfoEnglish": "Fried Noodle",
     "price": 6,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
@@ -171,7 +165,6 @@
     "selectInfoEnglish": "Claypot Noodle",
     "price": 7,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
@@ -218,7 +211,6 @@
     "selectInfoEnglish": "Bihun Basah",
     "price": 6,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
@@ -242,7 +234,6 @@
     "selectInfoEnglish": "Salted Fish Fried Bihun",
     "price": 7,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
@@ -266,7 +257,6 @@
     "selectInfoEnglish": "Sambal Bihun",
     "price": 7,
     "available": true,
-    "image": "",
     "SelectInfo": [
       {
         "selectInfo": "一人份 One",
