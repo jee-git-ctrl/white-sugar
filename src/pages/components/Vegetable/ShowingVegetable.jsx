@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import styled from "styled-components";
 import Vegetable from "../../data/Vegetable.json";
 import ShowingVegeDetails from "./ShowingVegeDetails";
+import ShowingFoodPhoto from "../ShowingFoodPhoto";
 
 const Box = styled.div`
   font-size: 1.5em;
@@ -74,6 +75,7 @@ const ShowingVegetable = () => {
         if(available) {
           return (
             <ShowAvailable key={name} onClick={() => handleFoodSelected(name, SelectInfo)}>
+              <ShowingFoodPhoto imageName={nameEnglish} />
               <NameText>
                 {name} {nameEnglish}
               </NameText>
@@ -85,6 +87,7 @@ const ShowingVegetable = () => {
         } else {
           return (
             <ShowUnavailable key={name}>
+              <ShowingFoodPhoto imageName={nameEnglish} />
               <NameText>
                 {name} {nameEnglish}
               </NameText>

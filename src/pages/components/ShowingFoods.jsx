@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 import ShowingDetails from "./ShowingDetails";
+import ShowingFoodPhoto from "./ShowingFoodPhoto";
 
 const Box = styled.div`
   font-size: 1.5em;
@@ -69,13 +70,14 @@ const ShowingFoods = ({ Name, EnglishName, Foods }) => {
     <Box>
 
       {Foods && Foods.map(food => {
-        const { selectInfo, selecteInfoEnglish, price, available, SelectInfo } = food;
+        const { selectInfo, selectInfoEnglish, price, available, SelectInfo } = food;
 
         if(available) {
           return (
             <ShowAvailable key={selectInfo} onClick={() => handleFoodSelected(selectInfo, SelectInfo)}>
+              <ShowingFoodPhoto imageName={selectInfoEnglish} />
               <NameText>
-                {selectInfo} {selecteInfoEnglish}
+                {selectInfo} {selectInfoEnglish}
               </NameText>
               <PriceText>
                 RM {price}++  
@@ -85,8 +87,9 @@ const ShowingFoods = ({ Name, EnglishName, Foods }) => {
         } else {
           return (
             <ShowUnavailable key={selectInfo}>
+              <ShowingFoodPhoto imageName={selectInfoEnglish} />
               <NameText>
-                {selectInfo} {selecteInfoEnglish}
+                {selectInfo} {selectInfoEnglish}
               </NameText>
               <PriceText>
                 RM {price}++  

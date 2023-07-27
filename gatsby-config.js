@@ -1,6 +1,8 @@
 /**
  * @type {import('gatsby').GatsbyConfig}
  */
+const path = require(`path`);
+
 module.exports = {
   siteMetadata: {
     title: `White Sugar`,
@@ -16,5 +18,13 @@ module.exports = {
       },
     },
     "gatsby-transformer-json",
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: path.join(__dirname, `src/pages`, `img`),
+      },
+    },
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
   ]
 };
