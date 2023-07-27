@@ -1,10 +1,11 @@
 import { graphql, useStaticQuery } from "gatsby";
 import React, { useMemo } from "react";
 import styled from "styled-components";
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 const ImageBox = styled.img`
   border-radius: 40px;
-  width: 30%;
+  height: 10rem;
   margin: 2px 10%;
 
   @media only screen and (min-width: 768px) {
@@ -20,6 +21,7 @@ const ShowingFoodPhoto = ({ imageName }) => {
           node {
             name
             publicURL
+            relativePath
           }
         }
       }
@@ -31,9 +33,18 @@ const ShowingFoodPhoto = ({ imageName }) => {
   , [data, imageName]);
 
   if (!match) return null;
-
   const imageLocation = match.node.publicURL;
 
+  const temp = match.node.relativePath;
+
+  const image = getImage(match);
+
+  // return (
+  //   <GatsbyImage
+  //     image={image}
+  //     alt=""
+  //   />
+  // )
   return <ImageBox src={imageLocation} alt="" />;
 }
 

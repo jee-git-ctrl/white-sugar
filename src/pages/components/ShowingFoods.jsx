@@ -1,7 +1,8 @@
-import React, { useState } from "react";
+import React, { Suspense, lazy, useState } from "react";
 import styled from "styled-components";
 import ShowingDetails from "./ShowingDetails";
-import ShowingFoodPhoto from "./ShowingFoodPhoto";
+import Loading from "./Loading";
+// import ShowingFoodPhoto from "./ShowingFoodPhoto";
 
 const Box = styled.div`
   font-size: 1.5em;
@@ -51,6 +52,8 @@ const PriceText = styled.div`
   margin-left: 5%;
 `;
 
+const ShowingFoodPhoto = lazy(() => import("./ShowingFoodPhoto"));
+
 const ShowingFoods = ({ Name, EnglishName, Foods }) => {
   const [isDetailVisible, setIsDetailVisible] = useState(false);
   const [selectedFoodName, setSelectedFoodName] = useState("");
@@ -75,7 +78,9 @@ const ShowingFoods = ({ Name, EnglishName, Foods }) => {
         if(available) {
           return (
             <ShowAvailable key={selectInfo} onClick={() => handleFoodSelected(selectInfo, SelectInfo)}>
-              <ShowingFoodPhoto imageName={selectInfoEnglish} />
+              <Suspense fallback={<Loading />}>
+                <ShowingFoodPhoto imageName={selectInfoEnglish} />
+              </Suspense>
               <NameText>
                 {selectInfo} {selectInfoEnglish}
               </NameText>
@@ -87,7 +92,9 @@ const ShowingFoods = ({ Name, EnglishName, Foods }) => {
         } else {
           return (
             <ShowUnavailable key={selectInfo}>
-              <ShowingFoodPhoto imageName={selectInfoEnglish} />
+              <Suspense fallback={<Loading />}>
+                <ShowingFoodPhoto imageName={selectInfoEnglish} />
+              </Suspense>
               <NameText>
                 {selectInfo} {selectInfoEnglish}
               </NameText>

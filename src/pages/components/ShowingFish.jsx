@@ -1,8 +1,10 @@
-import React, { useState } from "react";
+import React, { useState, lazy, Suspense } from "react";
 import styled from "styled-components";
 import Fish from "../data/Fish.json";
 import ShowingDetails from "./ShowingDetails";
-import ShowingFoodPhoto from "./ShowingFoodPhoto";
+import Loading from "./Loading";
+import { AiOutlineVerticalAlignMiddle } from "react-icons/ai";
+// import ShowingFoodPhoto from "./ShowingFoodPhoto";
 
 const Box = styled.div`
   font-size: 1.5em;
@@ -52,6 +54,8 @@ const PriceText = styled.div`
   margin-left: 5%;
 `;
 
+const ShowingFoodPhoto = lazy(() => import("./ShowingFoodPhoto"));
+
 const ShowingFish = () => {
   const [isDetailVisible, setIsDetailVisible] = useState(false);
   const [selectedFoodName, setSelectedFoodName] = useState("");
@@ -75,7 +79,9 @@ const ShowingFish = () => {
         if(available) {
           return (
             <ShowAvailable key={method} onClick={() => handleFoodSelected(method, SelectInfo)}>
-              <ShowingFoodPhoto imageName={methodEnglish} />
+              <Suspense fallback={<Loading />}>
+                <ShowingFoodPhoto imageName={methodEnglish} />
+              </Suspense>
               <NameText>
                 {method} {methodEnglish}
               </NameText>
@@ -87,7 +93,9 @@ const ShowingFish = () => {
         } else {
           return (
             <ShowUnavailable key={method}>
-              <ShowingFoodPhoto imageName={methodEnglish} />
+              <Suspense fallback={<Loading />}>
+                <ShowingFoodPhoto imageName={methodEnglish} />
+              </Suspense>
               <NameText>
                 {method} {methodEnglish}
               </NameText>
