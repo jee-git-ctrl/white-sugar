@@ -79,7 +79,7 @@ const ShowingFoods = ({ Name, EnglishName, Foods }) => {
           return (
             <ShowAvailable key={selectInfo} onClick={() => handleFoodSelected(selectInfo, SelectInfo)}>
               <Suspense fallback={<Loading />}>
-                <ShowingFoodPhoto imageName={selectInfoEnglish} />
+                <ShowingFoodPhoto englishName={EnglishName} imageName={selectInfoEnglish} />
               </Suspense>
               <NameText>
                 {selectInfo} {selectInfoEnglish}

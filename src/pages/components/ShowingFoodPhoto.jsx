@@ -1,7 +1,7 @@
 import { graphql, useStaticQuery } from "gatsby";
 import React, { useMemo } from "react";
 import styled from "styled-components";
-import { GatsbyImage, getImage } from "gatsby-plugin-image"
+import Img from "gatsby-image";
 
 const ImageBox = styled.img`
   border-radius: 40px;
@@ -13,15 +13,16 @@ const ImageBox = styled.img`
   }
 `;
 
-const ShowingFoodPhoto = ({ imageName }) => {
+const ShowingFoodPhoto = ({ englishName, imageName }) => {
   const data = useStaticQuery(graphql`
     query {
-      allFile(filter: { internal: { mediaType: { regex: "/image/" } } }) {
-        edges {
-          node {
-            name
-            publicURL
-            relativePath
+      allFile {
+        nodes {
+          name
+          childImageSharp {
+            fluid {
+              ...GatsbyImageSharpFluid
+            }
           }
         }
       }
@@ -29,15 +30,18 @@ const ShowingFoodPhoto = ({ imageName }) => {
   `);
 
   const match = useMemo(() => 
-    data.allFile.edges.find(({ node }) => imageName === node.name)
+    data.allFile.nodes.find(({ name }) => imageName === name)
   , [data, imageName]);
 
   if (!match) return null;
-  const imageLocation = match.node.publicURL;
 
-  const temp = match.node.relativePath;
+  const image = require(`../img/${englishName}/${imageName}.jpg`);
 
-  const image = getImage(match);
+  console.log(image);
+
+  return (
+    <ImageBox src={image.default} />
+  )
 
   // return (
   //   <GatsbyImage
@@ -45,7 +49,7 @@ const ShowingFoodPhoto = ({ imageName }) => {
   //     alt=""
   //   />
   // )
-  return <ImageBox src={imageLocation} alt="" />;
+  // return <ImageBox src={imageLocation} alt="" />;
 }
 
 export default ShowingFoodPhoto;

@@ -80,7 +80,7 @@ const ShowingFish = () => {
           return (
             <ShowAvailable key={method} onClick={() => handleFoodSelected(method, SelectInfo)}>
               <Suspense fallback={<Loading />}>
-                <ShowingFoodPhoto imageName={methodEnglish} />
+                <ShowingFoodPhoto englishName="Fish" imageName={methodEnglish} />
               </Suspense>
               <NameText>
                 {method} {methodEnglish}
