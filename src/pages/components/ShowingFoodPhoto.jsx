@@ -13,16 +13,6 @@ const ImageBox = styled.img`
 
 const ShowingFoodPhoto = ({ englishName, imageName }) => {
 
-  const data = require("../data/ImageLocation.json");
-
-  const ImageLoas = data[imageName];
-
-  if(!ImageLoas) return null
-
-  return (
-    <ImageBox src={ImageLoas} alt="" />
-  )
-
   try {
     const image = require(`../img/${englishName}/${imageName}.jpg`);
     return (
