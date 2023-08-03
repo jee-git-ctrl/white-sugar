@@ -205,13 +205,8 @@
           "available": true
         },
         {
-          "selectInfo": "中 Medium",
-          "price": 18,
-          "available": true
-        },
-      {
           "selectInfo": "大 Big",
-          "price": 21,
+          "price": 20,
           "available": true
         }
       ]
