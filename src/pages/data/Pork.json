@@ -18,6 +18,24 @@
     ]
   },
   {
+    "selectInfo": "南乳肉",
+    "selectInfoEnglish": "Nam Yu Pork",
+    "price": 16,
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小 Small",
+        "price": 16,
+        "available": true
+      },
+      {
+        "selectInfo": "大 Big",
+        "price": 25,
+        "available": true
+      }
+    ]
+  },
+  {
     "selectInfo": "咕咾肉",
     "selectInfoEnglish": "Sweet Sour Pork",
     "price": 0,
