@@ -306,6 +306,37 @@
     }
   },
   {
+    "name": "小白菜",
+    "nameEnglish": "Xiu Bak Choy",
+    "price": 15,
+    "available": true,
+    "SelectInfo": {
+      "methods": [
+        {
+          "selectMethod": "炒杂", 
+          "available": true
+        }
+      ],
+      "prices": [
+        {
+          "selectInfo": "小 Small",
+          "price": 8,
+          "available": true
+        },
+        {
+          "selectInfo": "中 Medium",
+          "price": 12,
+          "available": true
+        },
+      {
+          "selectInfo": "大 Big",
+          "price": 16,
+          "available": true
+        }
+      ]
+    }
+  },
+  {
     "name": "茄子",
     "nameEnglish": "Eggplant",
     "price": 8,
