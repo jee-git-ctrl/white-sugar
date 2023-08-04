@@ -35,6 +35,37 @@
     }
   },
   {
+    "name": "包菜",
+    "nameEnglish": "Cabbage",
+    "price": 8,
+    "available": true,
+    "SelectInfo": {
+      "methods": [
+        {
+          "selectMethod": "虾米", 
+          "available": true
+        }
+      ],
+      "prices": [
+        {
+          "selectInfo": "小 Small",
+          "price": 8,
+          "available": true
+        },
+        {
+          "selectInfo": "中 Medium",
+          "price": 12,
+          "available": true
+        },
+      {
+          "selectInfo": "大 Big",
+          "price": 16,
+          "available": true
+        }
+      ]
+    }
+  },
+  {
     "name": "芥兰",
     "nameEnglish": "Kai Lan",
     "price": 8,
@@ -113,6 +144,37 @@
     }
   },
   {
+    "name": "马来风光",
+    "nameEnglish": "Kang Kong",
+    "price": 8,
+    "available": true,
+    "SelectInfo": {
+      "methods": [
+        {
+          "selectMethod": "叁峇", 
+          "available": true
+        }
+      ],
+      "prices": [
+        {
+          "selectInfo": "小 Small",
+          "price": 8,
+          "available": true
+        },
+        {
+          "selectInfo": "中 Medium",
+          "price": 12,
+          "available": true
+        },
+      {
+          "selectInfo": "大 Big",
+          "price": 16,
+          "available": true
+        }
+      ]
+    }
+  },
+  {
     "name": "豆芽",
     "nameEnglish": "Tauge",
     "price": 8,
@@ -125,6 +187,37 @@
         },
         {
           "selectMethod": "咸鱼", 
+          "available": true
+        }
+      ],
+      "prices": [
+        {
+          "selectInfo": "小 Small",
+          "price": 8,
+          "available": true
+        },
+        {
+          "selectInfo": "中 Medium",
+          "price": 12,
+          "available": true
+        },
+      {
+          "selectInfo": "大 Big",
+          "price": 16,
+          "available": true
+        }
+      ]
+    }
+  },
+  {
+    "name": "杂菜",
+    "nameEnglish": "Mix Vegetable",
+    "price": 8,
+    "available": true,
+    "SelectInfo": {
+      "methods": [
+        {
+          "selectMethod": "炒杂", 
           "available": true
         }
       ],

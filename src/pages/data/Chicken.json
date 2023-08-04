@@ -215,6 +215,29 @@
     ]
   },
   {
+    "selectInfo": "姜葱鸡",
+    "selectInfoEnglish": "Ginger Onion Chicken",
+    "price": 12,
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小 Small",
+        "price": 12,
+        "available": true
+      },
+      {
+        "selectInfo": "中 Medium",
+        "price": 18,
+        "available": true
+      },
+      {
+        "selectInfo": "大 Big",
+        "price": 24,
+        "available": true
+      }
+    ]
+  },
+  {
     "selectInfo": "香辣鸡",
     "selectInfoEnglish": "Spicy Chicken",
     "price": 12,

@@ -209,22 +209,17 @@
   {
     "selectInfo": "叁峇虾",
     "selectInfoEnglish": "Sambal Prawn",
-    "price": 25,
+    "price": 18,
     "available": true,
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
-        "price": 25,
-        "available": true
-      },
-      {
-        "selectInfo": "中 Medium",
-        "price": 35,
+        "price": 18,
         "available": true
       },
       {
         "selectInfo": "大 Big",
-        "price": 50,
+        "price": 26,
         "available": true
       }
     ]

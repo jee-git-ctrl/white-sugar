@@ -72,6 +72,24 @@
     ]
   },
   {
+    "selectInfo": "咖喱粉肉",
+    "selectInfoEnglish": "Fried Pork with Curry Powder",
+    "price": 16,
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小 Small",
+        "price": 16,
+        "available": true
+      },
+      {
+        "selectInfo": "大 Big",
+        "price": 25,
+        "available": true
+      }
+    ]
+  },
+  {
     "selectInfo": "暹猪手",
     "selectInfoEnglish": "Fried Thai Style Pork Knuckle",
     "price": 35,
