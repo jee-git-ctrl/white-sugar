@@ -1,6 +1,7 @@
 import React from "react";
 import NavBar from "./NavBar";
 import styled from "styled-components";
+import { AiFillPhone } from "react-icons/ai";
 
 const Container = styled.div`
   max-height: 100vh;
@@ -9,6 +10,9 @@ const Container = styled.div`
 const Header = styled.h1`
   height: fit-content;
   min-height: 10vh;
+  margin: 0;
+`;
+const Phone = styled.h2`
   margin: 0;
 `;
 const Children = styled.div`
@@ -33,6 +37,9 @@ export default function Layout({ children }) {
         <br />
         White Sugar Seafood Restaurant
       </Header>
+      <Phone>
+        <AiFillPhone /> : 016-4873344
+      </Phone>
 
       <NavBar />
 
