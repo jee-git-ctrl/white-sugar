@@ -23,29 +23,6 @@
     ]
   },
   {
-    "selectInfo": "清蒸",
-    "selectInfoEnglish": "Fish Head Steamed with Soy Sauce",
-    "price": 25,
-    "available": true,
-    "SelectInfo": [
-      {
-        "selectInfo": "小 Small",
-        "price": 25,
-        "available": true
-      },
-      {
-        "selectInfo": "中 Medium",
-        "price": 35,
-        "available": true
-      },
-      {
-        "selectInfo": "大 Big",
-        "price": 45,
-        "available": true
-      }
-    ]
-  },
-  {
     "selectInfo": "豆酱蒸鱼头",
     "selectInfoEnglish": "Bean Paste Steamed Fish Head",
     "price": 25,

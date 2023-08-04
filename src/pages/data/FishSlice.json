@@ -1,6 +1,6 @@
 [
   {
-    "selectInfo": "咖喱鱼",
+    "selectInfo": "咖喱鱼片",
     "selectInfoEnglish": "Curry Fish Slice",
     "price": 20,
     "available": true,
@@ -23,7 +23,7 @@
     ]
   },
   {
-    "selectInfo": "三味鱼",
+    "selectInfo": "三味鱼片",
     "selectInfoEnglish": "Fried Fish Slice with 3 Taste",
     "price": 20,
     "available": true,
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "selectInfo": "酸甜鱼",
+    "selectInfo": "酸甜鱼片",
     "selectInfoEnglish": "Fried Fish Slice with Sweet Sour",
     "price": 20,
     "available": true,
@@ -69,7 +69,7 @@
     ]
   },
   {
-    "selectInfo": "豆酱鱼",
+    "selectInfo": "豆酱鱼片",
     "selectInfoEnglish": "Fried Fish Slice with Bean Paste",
     "price": 20,
     "available": true,
@@ -253,7 +253,7 @@
     ]
   },
   {
-    "selectInfo": "冬炎鱼",
+    "selectInfo": "冬炎鱼片",
     "selectInfoEnglish": "Tomyam Fish Slice",
     "price": 20,
     "available": true,
