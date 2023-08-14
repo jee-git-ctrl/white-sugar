@@ -8,9 +8,11 @@ const Bar = styled.div`
   position: sticky;
   top: 0;
   padding-top: 5px;
-  background-color: #fff;
+  border-radius: 5px;
+  background-color: #f4ef5f;
   overflow-y: auto;
   z-index: 20;
+  font-weight: 900;
 
   :hover {  
     background-color: #e8e9eb;
