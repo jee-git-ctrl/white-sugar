@@ -47,6 +47,9 @@ const ShowUnavailable = styled.div`
 const NameText = styled.div`
   padding: 0 2px;
 `;
+const ChineseName = styled.span`
+  font-weight: 900;
+`;
 const PriceText = styled.div`
   align-self: start;
   margin-left: 5%;
@@ -82,7 +85,7 @@ const ShowingFoods = ({ Name, EnglishName, Foods }) => {
                 <ShowingFoodPhoto englishName={EnglishName} imageName={selectInfoEnglish} />
               </Suspense>
               <NameText>
-                {selectInfo} {selectInfoEnglish}
+                <ChineseName>{selectInfo}</ChineseName> {selectInfoEnglish}
               </NameText>
               <PriceText>
                 RM {price}++  
@@ -96,7 +99,7 @@ const ShowingFoods = ({ Name, EnglishName, Foods }) => {
                 <ShowingFoodPhoto imageName={selectInfoEnglish} />
               </Suspense>
               <NameText>
-                {selectInfo} {selectInfoEnglish}
+                <ChineseName>{selectInfo}</ChineseName> {selectInfoEnglish}
               </NameText>
               <PriceText>
                 RM {price}++  
