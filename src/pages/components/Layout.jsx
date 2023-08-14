@@ -6,11 +6,15 @@ import { AiFillPhone } from "react-icons/ai";
 const Container = styled.div`
   max-height: 100vh;
   overflow: auto;
+  font-family: "Times New Roman", "KaiTi", "??", STKaiti, "????", serif;;
 `;
 const Header = styled.h1`
   height: fit-content;
   min-height: 10vh;
   margin: 0;
+`;
+const ChineseName = styled.span`
+  font-size: 1.5em;
 `;
 const Phone = styled.h2`
   margin: 0;
@@ -33,7 +37,7 @@ export default function Layout({ children }) {
   return (
     <Container>
       <Header>
-        白糖海鲜
+        <ChineseName>白糖海鲜</ChineseName>
         <br />
         White Sugar Seafood Restaurant
       </Header>
