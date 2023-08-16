@@ -64,7 +64,12 @@ const MethodTitle = styled.div`
   font-size: 1.6em;
   font-weight: bolder;
 `;
-const PricesBox = styled.div``;
+const PricesBox =  styled.div``;
+const PriceBox = styled.div`
+  width: 10%;
+  display: flex;
+  justify-content: space-between;
+`;
 const PricesTitle = styled.div`
   font-size: 1.6em;
   font-weight: bolder;
@@ -154,20 +159,20 @@ const ShowingDetails = ({ Title, Details, Visible }) => {
               return (
                 <ShowAvailable key={selectInfo}>
                   <BoldText>{selectInfo}</BoldText>
-                  <span>
+                  <PriceBox>
                     {price > 0 ? `RM ` : ``}
                     <BoldText>{price}</BoldText>
-                  </span>
+                  </PriceBox>
                 </ShowAvailable>
               );
             } else {
               return (
                 <ShowUnavailable key={selectInfo}>
                   <BoldText>{selectInfo}</BoldText>
-                  <span>
+                  <PriceBox>
                     {price > 0 ? `RM ` : ``}
                     <BoldText>{price}</BoldText>
-                  </span>
+                  </PriceBox>
                 </ShowUnavailable>
               );
             }
