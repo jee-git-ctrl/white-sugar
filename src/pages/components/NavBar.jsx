@@ -7,9 +7,8 @@ const Bar = styled.div`
   height: max-content;
   position: sticky;
   top: 0;
-  padding-top: 5px;
   border-radius: 5px;
-  background-color: #f4ef5f;
+  background-color: #F46B36;
   overflow-y: auto;
   z-index: 20;
   font-weight: 900;
@@ -24,7 +23,7 @@ const TypeLink = styled.a`
   color: black;
   text-decoration: none;
   margin: 0 5px;
-  padding: 2px 5px;
+  padding: 2px;
 `;
 const TypeText = styled.div`
   width: max-content;
@@ -44,7 +43,7 @@ const NavBar = () => {
   return (
     <Bar>
       {Type.map(((value, index) => {
-        const { name, englishName } = value
+        const { name, englishName } = value;
         return (
           <TypeLink key={englishName} href={`#${englishName}`} onClick={() => handleClicked(index)}>
             <TypeText>
