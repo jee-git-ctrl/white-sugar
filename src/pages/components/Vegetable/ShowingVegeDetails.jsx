@@ -62,13 +62,15 @@ const ShowUnavailable = styled.div`
 const MethodBox = styled.div``;
 const MethodTitle = styled.div`
   font-size: 1.6em;
+  font-weight: bolder;
 `;
 const PricesBox = styled.div``;
 const PricesTitle = styled.div`
-font-size: 1.6em;
+  font-size: 1.6em;
+  font-weight: bolder;
 `;
 const BoldText = styled.span`
-  font-weight: 900;
+  font-weight: bold;
 `;
 
 const ShowingDetails = ({ Title, Details, Visible }) => {
