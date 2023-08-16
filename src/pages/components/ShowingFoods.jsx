@@ -31,6 +31,7 @@ const ShowAvailable = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: end;
   justify-self: center;
 `;
 const ShowUnavailable = styled.div`
@@ -42,6 +43,7 @@ const ShowUnavailable = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: end;
   justify-self: center;
 `;
 const NameText = styled.div`
