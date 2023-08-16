@@ -51,6 +51,9 @@ const ShowUnavailable = styled.div`
   padding: 2px 1%;
   color: rgb(0, 0, 0, 0.4);
 `;
+const BoldText = styled.span`
+  font-weight: 900;
+`;
 
 const ShowingDetails = ({ Title, Details, Visible }) => {
   const checkClose = useRef();
@@ -89,18 +92,20 @@ const ShowingDetails = ({ Title, Details, Visible }) => {
           if(available) {
             return (
               <ShowAvailable key={selectInfo}>
-                {selectInfo}
+                <BoldText>{selectInfo}</BoldText>
                 <span>
-                  {price > 0 ? `RM ${price}` : `${price}`}
+                  {price > 0 ? `RM ` : ``}
+                  <BoldText>{price}</BoldText>
                 </span>
               </ShowAvailable>
             );
           } else {
             return (
               <ShowUnavailable key={selectInfo}>
-                {selectInfo}
+                <BoldText>{selectInfo}</BoldText>
                 <span>
-                  {price > 0 ? `RM ${price}` : `${price}`}
+                  {price > 0 ? `RM ` : ``}
+                  <BoldText>{price}</BoldText>
                 </span>
               </ShowUnavailable>
             );

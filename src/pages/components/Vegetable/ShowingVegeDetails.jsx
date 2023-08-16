@@ -67,6 +67,9 @@ const PricesBox = styled.div``;
 const PricesTitle = styled.div`
 font-size: 1.6em;
 `;
+const BoldText = styled.span`
+  font-weight: 900;
+`;
 
 const ShowingDetails = ({ Title, Details, Visible }) => {
   const { methods, prices } = Details ? Details : 
@@ -148,18 +151,20 @@ const ShowingDetails = ({ Title, Details, Visible }) => {
             if(available) {
               return (
                 <ShowAvailable key={selectInfo}>
-                  {selectInfo}
+                  <BoldText>{selectInfo}</BoldText>
                   <span>
-                    {price > 0 ? `RM ${price}` : `${price}`}
+                    {price > 0 ? `RM ` : ``}
+                    <BoldText>{price}</BoldText>
                   </span>
                 </ShowAvailable>
               );
             } else {
               return (
                 <ShowUnavailable key={selectInfo}>
-                  {selectInfo}
+                  <BoldText>{selectInfo}</BoldText>
                   <span>
-                    {price > 0 ? `RM ${price}` : `${price}`}
+                    {price > 0 ? `RM ` : ``}
+                    <BoldText>{price}</BoldText>
                   </span>
                 </ShowUnavailable>
               );
