@@ -47,7 +47,9 @@ const ShowUnavailable = styled.div`
   justify-self: center;
 `;
 const NameText = styled.div`
-  padding: 0 2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 `;
 const ChineseName = styled.span`
   font-weight: 900;
