@@ -66,7 +66,7 @@ const MethodTitle = styled.div`
 `;
 const PricesBox =  styled.div``;
 const PriceBox = styled.div`
-  width: 10%;
+  width: 25%;
   display: flex;
   justify-content: space-between;
 `;
@@ -158,21 +158,25 @@ const ShowingDetails = ({ Title, Details, Visible }) => {
             if(available) {
               return (
                 <ShowAvailable key={selectInfo}>
-                  <BoldText>{selectInfo}</BoldText>
-                  <PriceBox>
-                    {price > 0 ? `RM ` : ``}
-                    <BoldText>{price}</BoldText>
-                  </PriceBox>
+                  {selectInfo}
+                  {price > 0 ? 
+                    <PriceBox>
+                      RM <BoldText>{price}</BoldText>
+                    </PriceBox>
+                  : <BoldText>{price}</BoldText>  
+                  }
                 </ShowAvailable>
               );
             } else {
               return (
                 <ShowUnavailable key={selectInfo}>
-                  <BoldText>{selectInfo}</BoldText>
-                  <PriceBox>
-                    {price > 0 ? `RM ` : ``}
-                    <BoldText>{price}</BoldText>
-                  </PriceBox>
+                  {selectInfo}
+                  {price > 0 ? 
+                    <PriceBox>
+                      RM <BoldText>{price}</BoldText>
+                    </PriceBox>
+                  : <BoldText>{price}</BoldText>  
+                  }
                 </ShowUnavailable>
               );
             }

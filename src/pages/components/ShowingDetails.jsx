@@ -52,11 +52,11 @@ const ShowUnavailable = styled.div`
   color: rgb(0, 0, 0, 0.4);
 `;
 const PriceBox = styled.div`
-  width: 10%;
+  width: 25%;
   display: flex;
   justify-content: space-between;
 `;
-const BoldText = styled.span`
+const BoldText = styled.div`
   font-weight: 900;
 `;
 
@@ -97,21 +97,25 @@ const ShowingDetails = ({ Title, Details, Visible }) => {
           if(available) {
             return (
               <ShowAvailable key={selectInfo}>
-                <BoldText>{selectInfo}</BoldText>
-                <PriceBox>
-                  {price > 0 ? `RM ` : ``}
-                  <BoldText>{price}</BoldText>
-                </PriceBox>
+                {selectInfo}
+                {price > 0 ? 
+                  <PriceBox>
+                    RM <BoldText>{price}</BoldText>
+                  </PriceBox>
+                : <BoldText>{price}</BoldText>  
+                }
               </ShowAvailable>
             );
           } else {
             return (
               <ShowUnavailable key={selectInfo}>
-                <BoldText>{selectInfo}</BoldText>
-                <PriceBox>
-                  {price > 0 ? `RM ` : ``}
-                  <BoldText>{price}</BoldText>
-                </PriceBox>
+                {selectInfo}
+                {price > 0 ? 
+                  <PriceBox>
+                    RM <BoldText>{price}</BoldText>
+                  </PriceBox>
+                : <BoldText>{price}</BoldText>  
+                }
               </ShowUnavailable>
             );
           }
