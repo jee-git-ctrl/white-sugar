@@ -60,7 +60,7 @@
     "available": true,
     "SelectInfo": [
       {
-        "selectInfo": "小 Small Small",
+        "selectInfo": "小 Small",
         "price": 12,
         "available": true
       },
@@ -70,7 +70,7 @@
         "available": true
       },
       {
-        "selectInfo": "大 Big Big",
+        "selectInfo": "大 Big",
         "price": 24,
         "available": true
       }
