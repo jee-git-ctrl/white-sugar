@@ -2,7 +2,7 @@
   {
     "name": "番薯叶",
     "nameEnglish": "Potato Leaves",
-    "price": 8,
+    "price": 9,
     "available": true,
     "SelectInfo": {
       "methods": [
@@ -18,7 +18,7 @@
       "prices": [
         {
           "selectInfo": "小 Small",
-          "price": 8,
+          "price": 9,
           "available": true
         },
         {
@@ -37,7 +37,7 @@
   {
     "name": "包菜",
     "nameEnglish": "Cabbage",
-    "price": 8,
+    "price": 9,
     "available": true,
     "SelectInfo": {
       "methods": [
@@ -49,7 +49,7 @@
       "prices": [
         {
           "selectInfo": "小 Small",
-          "price": 8,
+          "price": 9,
           "available": true
         },
         {
@@ -68,7 +68,7 @@
   {
     "name": "芥兰",
     "nameEnglish": "Kai Lan",
-    "price": 8,
+    "price": 9,
     "available": true,
     "SelectInfo": {
       "methods": [
@@ -88,7 +88,7 @@
       "prices": [
         {
           "selectInfo": "小 Small",
-          "price": 8,
+          "price": 9,
           "available": true
         },
         {
@@ -107,7 +107,7 @@
   {
     "name": "菜心",
     "nameEnglish": "Choy Sum",
-    "price": 8,
+    "price": 9,
     "available": true,
     "SelectInfo": {
       "methods": [
@@ -127,7 +127,7 @@
       "prices": [
         {
           "selectInfo": "小 Small",
-          "price": 8,
+          "price": 9,
           "available": true
         },
         {
@@ -146,7 +146,7 @@
   {
     "name": "马来风光",
     "nameEnglish": "Kang Kong",
-    "price": 8,
+    "price": 9,
     "available": true,
     "SelectInfo": {
       "methods": [
@@ -158,7 +158,7 @@
       "prices": [
         {
           "selectInfo": "小 Small",
-          "price": 8,
+          "price": 9,
           "available": true
         },
         {
@@ -177,7 +177,7 @@
   {
     "name": "豆芽",
     "nameEnglish": "Tauge",
-    "price": 8,
+    "price": 9,
     "available": true,
     "SelectInfo": {
       "methods": [
@@ -193,7 +193,7 @@
       "prices": [
         {
           "selectInfo": "小 Small",
-          "price": 8,
+          "price": 9,
           "available": true
         },
         {
@@ -212,7 +212,7 @@
   {
     "name": "杂菜",
     "nameEnglish": "Mix Vegetable",
-    "price": 8,
+    "price": 9,
     "available": true,
     "SelectInfo": {
       "methods": [
@@ -224,7 +224,7 @@
       "prices": [
         {
           "selectInfo": "小 Small",
-          "price": 8,
+          "price": 9,
           "available": true
         },
         {
@@ -243,7 +243,7 @@
   {
     "name": "苦瓜",
     "nameEnglish": "Bitter Gourd",
-    "price": 8,
+    "price": 9,
     "available": true,
     "SelectInfo": {
       "methods": [
@@ -263,7 +263,7 @@
       "prices": [
         {
           "selectInfo": "小 Small",
-          "price": 8,
+          "price": 9,
           "available": true
         },
         {
@@ -308,7 +308,7 @@
   {
     "name": "小白菜",
     "nameEnglish": "Xiu Bak Choy",
-    "price": 8,
+    "price": 9,
     "available": true,
     "SelectInfo": {
       "methods": [
@@ -320,7 +320,7 @@
       "prices": [
         {
           "selectInfo": "小 Small",
-          "price": 8,
+          "price": 9,
           "available": true
         },
         {
@@ -339,7 +339,7 @@
   {
     "name": "茄子",
     "nameEnglish": "Eggplant",
-    "price": 8,
+    "price": 9,
     "available": true,
     "SelectInfo": {
       "methods": [
@@ -351,7 +351,7 @@
       "prices": [
         {
           "selectInfo": "小 Small",
-          "price": 8,
+          "price": 9,
           "available": true
         },
         {
@@ -401,7 +401,7 @@
   {
     "name": "青龙菜",
     "nameEnglish": "",
-    "price": 8,
+    "price": 9,
     "available": false,
     "SelectInfo": {
       "methods": [
@@ -413,7 +413,7 @@
       "prices": [
         {
           "selectInfo": "小 Small",
-          "price": 8,
+          "price": 9,
           "available": true
         },
         {

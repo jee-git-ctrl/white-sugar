@@ -2,22 +2,22 @@
   {
     "selectInfo": "虾仁煎蛋",
     "selectInfoEnglish": "Fried Eggs with Shrimp",
-    "price": 8,
+    "price": 10,
     "available": true,
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
-        "price": 8,
-        "available": true
-      },
-      {
-        "selectInfo": "中 Medium",
         "price": 10,
         "available": true
       },
       {
-        "selectInfo": "大 Big",
+        "selectInfo": "中 Medium",
         "price": 12,
+        "available": true
+      },
+      {
+        "selectInfo": "大 Big",
+        "price": 14,
         "available": true
       }
     ]
@@ -25,22 +25,22 @@
   {
     "selectInfo": "腊肠煎蛋",
     "selectInfoEnglish": "Fried Egg with Chinese Sausage",
-    "price": 8,
+    "price": 10,
     "available": true,
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
-        "price": 8,
-        "available": true
-      },
-      {
-        "selectInfo": "中 Medium",
         "price": 10,
         "available": true
       },
       {
-        "selectInfo": "大 Big",
+        "selectInfo": "中 Medium",
         "price": 12,
+        "available": true
+      },
+      {
+        "selectInfo": "大 Big",
+        "price": 14,
         "available": true
       }
     ]
@@ -48,22 +48,22 @@
   {
     "selectInfo": "芙蓉蛋",
     "selectInfoEnglish": "Egg Foo Young(Shrimp, Chinese Sausage)",
-    "price": 8,
+    "price": 10,
     "available": true,
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
-        "price": 8,
-        "available": true
-      },
-      {
-        "selectInfo": "中 Medium",
         "price": 10,
         "available": true
       },
       {
-        "selectInfo": "大 Big",
+        "selectInfo": "中 Medium",
         "price": 12,
+        "available": true
+      },
+      {
+        "selectInfo": "大 Big",
+        "price": 14,
         "available": true
       }
     ]
@@ -71,6 +71,29 @@
   {
     "selectInfo": "苦瓜煎蛋",
     "selectInfoEnglish": "Fried Egg with Bitter Melon",
+    "price": 10,
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小 Small",
+        "price": 10,
+        "available": true
+      },
+      {
+        "selectInfo": "中 Medium",
+        "price": 12,
+        "available": true
+      },
+      {
+        "selectInfo": "大 Big",
+        "price": 14,
+        "available": true
+      }
+    ]
+  },
+  {
+    "selectInfo": "大葱煎蛋",
+    "selectInfoEnglish": "Fried Egg with Onion",
     "price": 8,
     "available": true,
     "SelectInfo": [
@@ -92,47 +115,24 @@
     ]
   },
   {
-    "selectInfo": "大葱煎蛋",
-    "selectInfoEnglish": "Fried Egg with Onion",
-    "price": 6,
-    "available": true,
-    "SelectInfo": [
-      {
-        "selectInfo": "小 Small",
-        "price": 6,
-        "available": true
-      },
-      {
-        "selectInfo": "中 Medium",
-        "price": 8,
-        "available": true
-      },
-      {
-        "selectInfo": "大 Big",
-        "price": 10,
-        "available": true
-      }
-    ]
-  },
-  {
     "selectInfo": "散蛋",
     "selectInfoEnglish": "Loose Egg",
-    "price": 6,
+    "price": 8,
     "available": true,
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
-        "price": 6,
-        "available": true
-      },
-      {
-        "selectInfo": "中 Medium",
         "price": 8,
         "available": true
       },
       {
-        "selectInfo": "大 Big",
+        "selectInfo": "中 Medium",
         "price": 10,
+        "available": true
+      },
+      {
+        "selectInfo": "大 Big",
+        "price": 12,
         "available": true
       }
     ]
@@ -140,22 +140,22 @@
   {
     "selectInfo": "蒸蛋",
     "selectInfoEnglish": "Steamed Egg",
-    "price": 6,
+    "price": 8,
     "available": true,
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
-        "price": 6,
-        "available": true
-      },
-      {
-        "selectInfo": "中 Medium",
         "price": 8,
         "available": true
       },
       {
-        "selectInfo": "大 Big",
+        "selectInfo": "中 Medium",
         "price": 10,
+        "available": true
+      },
+      {
+        "selectInfo": "大 Big",
+        "price": 12,
         "available": true
       }
     ]
@@ -163,12 +163,12 @@
   {
     "selectInfo": "荷包蛋",
     "selectInfoEnglish": "Fried Egg",
-    "price": 1.20,
+    "price": 1.50,
     "available": true,
     "SelectInfo": [
       {
         "selectInfo": "一颗 One",
-        "price": 1.20,
+        "price": 1.50,
         "available": true
       }
     ]

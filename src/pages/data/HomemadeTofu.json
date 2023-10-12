@@ -2,17 +2,17 @@
   {
     "selectInfo": "招牌豆腐",
     "selectInfoEnglish": "Signature Tofu",
-    "price": 8,
+    "price": 9,
     "available": true,
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
-        "price": 8,
+        "price": 9,
         "available": true
       },
       {
         "selectInfo": "大 Big Big",
-        "price": 14,
+        "price": 15,
         "available": true
       }
     ]
@@ -20,17 +20,17 @@
   {
     "selectInfo": "沙煲豆腐",
     "selectInfoEnglish": "Claypot Tofu",
-    "price": 8,
+    "price": 9,
     "available": true,
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
-        "price": 8,
+        "price": 9,
         "available": true
       },
       {
         "selectInfo": "大 Big Big",
-        "price": 14,
+        "price": 15,
         "available": true
       }
     ]
@@ -56,17 +56,17 @@
   {
     "selectInfo": "红烧豆腐",
     "selectInfoEnglish": "Braised Tofu",
-    "price": 8,
+    "price": 9,
     "available": true,
     "SelectInfo": [
       {
         "selectInfo": "小 Small",
-        "price": 8,
+        "price": 9,
         "available": true
       },
       {
         "selectInfo": "大 Big Big",
-        "price": 14,
+        "price": 15,
         "available": true
       }
     ]
