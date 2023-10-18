@@ -13,6 +13,10 @@
         {
           "selectMethod": "叁峇", 
           "available": true
+        },
+        {
+          "selectMethod": "炒豆酱", 
+          "available": true
         }
       ],
       "prices": [
@@ -42,7 +46,15 @@
     "SelectInfo": {
       "methods": [
         {
+          "selectMethod": "清炒", 
+          "available": true
+        },
+        {
           "selectMethod": "虾米", 
+          "available": true
+        },
+        {
+          "selectMethod": "炒杂", 
           "available": true
         }
       ],
@@ -83,6 +95,10 @@
         {
           "selectMethod": "咸鱼", 
           "available": true
+        },
+        {
+          "selectMethod": "油菜", 
+          "available": true
         }
       ],
       "prices": [
@@ -122,6 +138,10 @@
         {
           "selectMethod": "咸鱼", 
           "available": true
+        },
+        {
+          "selectMethod": "油菜", 
+          "available": true
         }
       ],
       "prices": [
@@ -147,11 +167,15 @@
     "name": "马来风光",
     "nameEnglish": "Kang Kong",
     "price": 9,
-    "available": true,
+    "available": false,
     "SelectInfo": {
       "methods": [
         {
           "selectMethod": "叁峇", 
+          "available": true
+        },
+        {
+          "selectMethod": "炒豆酱", 
           "available": true
         }
       ],
@@ -187,6 +211,10 @@
         },
         {
           "selectMethod": "咸鱼", 
+          "available": true
+        },
+        {
+          "selectMethod": "油菜", 
           "available": true
         }
       ],
@@ -315,6 +343,14 @@
         {
           "selectMethod": "炒杂", 
           "available": true
+        },
+        {
+          "selectMethod": "清炒", 
+          "available": true
+        },
+        {
+          "selectMethod": "油菜", 
+          "available": true
         }
       ],
       "prices": [
@@ -346,6 +382,10 @@
         {
           "selectMethod": "炒杂", 
           "available": true
+        },
+        {
+          "selectMethod": "叁峇", 
+          "available": true
         }
       ],
       "prices": [
@@ -376,6 +416,10 @@
       "methods": [
         {
           "selectMethod": "炒虾米", 
+          "available": true
+        },
+        {
+          "selectMethod": "清炒", 
           "available": true
         }
       ],
