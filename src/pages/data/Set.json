@@ -91,6 +91,19 @@
     ]
   },
   {
+    "selectInfo": "参峇鸡肉饭",
+    "selectInfoEnglish": "Spicy Chicken Rice",
+    "price": 8,
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "一份 A Set",
+        "price": 8,
+        "available": true
+      }
+    ]
+  },
+  {
     "selectInfo": "姜葱鱼肉饭",
     "selectInfoEnglish": "Ginger Onion Fish Slice Rice",
     "price": 9,
@@ -132,6 +145,19 @@
   {
     "selectInfo": "香辣鱼肉饭",
     "selectInfoEnglish": "Spicy Fish Slice Rice",
+    "price": 9,
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "一份 A Set",
+        "price": 9,
+        "available": true
+      }
+    ]
+  },
+  {
+    "selectInfo": "参峇鱼肉饭",
+    "selectInfoEnglish": "Ginger Onion Fish Slice Rice",
     "price": 9,
     "available": true,
     "SelectInfo": [
