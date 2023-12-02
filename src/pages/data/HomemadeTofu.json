@@ -70,5 +70,23 @@
         "available": true
       }
     ]
-  }
+  },
+  {
+    "selectInfo": "海鲜豆腐",
+    "selectInfoEnglish": "Seafood Tofu",
+    "price": 10,
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小 Small",
+        "price": 10,
+        "available": true
+      },
+      {
+        "selectInfo": "大 Big Big",
+        "price": 20,
+        "available": true
+      }
+    ]
+  },
 ]
