@@ -46,6 +46,29 @@
     ]
   },
   {
+    "selectInfo": "鱼片煎干",
+    "selectInfoEnglish": "Fried Fish Slice with Ginger and Soy Sauce",
+    "price": 20,
+    "available": true,
+    "SelectInfo": [
+      {
+        "selectInfo": "小 Small",
+        "price": 20,
+        "available": true
+      },
+      {
+        "selectInfo": "中 Medium",
+        "price": 30,
+        "available": true
+      },
+      {
+        "selectInfo": "大 Big",
+        "price": 40,
+        "available": true
+      }
+    ]
+  },
+  {
     "selectInfo": "酸甜鱼片",
     "selectInfoEnglish": "Fried Fish Slice with Sweet Sour",
     "price": 20,
