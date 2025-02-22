@@ -42,7 +42,7 @@ export default function Layout({ children }) {
         White Sugar Seafood Restaurant
       </Header>
       <Phone>
-        <AiFillPhone /> : 016-4873344
+        <AiFillPhone /> : 010-4639389
       </Phone>
 
       <NavBar />
