@@ -136,12 +136,12 @@
   {
     "selectInfo": "梅菜扣肉",
     "selectInfoEnglish": "Braised Pork with Preserved Vegetables",
-    "price": 12,
+    "price": 14,
     "available": true,
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
-        "price": 12,
+        "price": 14,
         "available": true
       }
     ]
@@ -149,12 +149,12 @@
   {
     "selectInfo": "芋头扣肉",
     "selectInfoEnglish": "Braised Pork with Taro",
-    "price": 15,
+    "price": 16,
     "available": true,
     "SelectInfo": [
       {
         "selectInfo": "一份 A Set",
-        "price": 15,
+        "price": 16,
         "available": true
       }
     ]
